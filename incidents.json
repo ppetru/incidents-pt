@@ -219,8 +219,8 @@
         "location": "Viseu, Penalva do Castelo, Castelo De Penalva",
         "aerial": 0,
         "meios_aquaticos": 0,
-        "man": 4,
-        "terrain": 2,
+        "man": 2,
+        "terrain": 1,
         "district": "Viseu",
         "concelho": "Penalva Do Castelo",
         "freguesia": "Castelo De Penalva",
@@ -231,9 +231,9 @@
         "natureza": "Queda de Árvore",
         "especieName": null,
         "familiaName": null,
-        "statusCode": 7,
-        "statusColor": "6ABF59",
-        "status": "Em Resolução",
+        "statusCode": 8,
+        "statusColor": "BDBDBD",
+        "status": "Conclusão",
         "important": false,
         "localidade": "São Romão ",
         "active": true,
@@ -257,7 +257,7 @@
           "sec": 1687326002
         },
         "updated": {
-          "sec": 1687328291
+          "sec": 1687329003
         }
       }
     },
@@ -388,6 +388,136 @@
         },
         "updated": {
           "sec": 1687328402
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.61677,
+          41.58688
+        ]
+      },
+      "properties": {
+        "_id": {
+          "$id": "64929873b23a463b5e5d4747"
+        },
+        "id": "20230739308",
+        "coords": true,
+        "dateTime": {
+          "sec": 1687327740
+        },
+        "date": "21-06-2023",
+        "hour": "07:09",
+        "location": "Braga, Barcelos, Campo E Tamel (São Pedro Fins)",
+        "aerial": 0,
+        "meios_aquaticos": 0,
+        "man": 20,
+        "terrain": 5,
+        "district": "Braga",
+        "concelho": "Barcelos",
+        "freguesia": "Campo E Tamel (São Pedro Fins)",
+        "dico": "302",
+        "lat": 41.58688,
+        "lng": -8.61677,
+        "naturezaCode": "2101",
+        "natureza": "Habitacional",
+        "especieName": null,
+        "familiaName": null,
+        "statusCode": 4,
+        "statusColor": "FF6E02",
+        "status": "Despacho de 1º Alerta",
+        "important": false,
+        "localidade": "União Das Freguesias De Campo E Tamel (São Pedro Fins) ",
+        "active": true,
+        "sadoId": "20230739308",
+        "sharepointId": 22244015,
+        "extra": null,
+        "disappear": false,
+        "icnf": null,
+        "detailLocation": null,
+        "kml": null,
+        "kmlVost": null,
+        "pco": null,
+        "cos": null,
+        "heliFight": 0,
+        "heliCoord": 0,
+        "planeFight": 0,
+        "anepcDirectUpdate": false,
+        "regiao": "Norte",
+        "sub_regiao": "Cávado",
+        "created": {
+          "sec": 1687328883
+        },
+        "updated": {
+          "sec": 1687329003
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.502382,
+          41.048753
+        ]
+      },
+      "properties": {
+        "_id": {
+          "$id": "649298ebb23a463b5e5d474b"
+        },
+        "id": "20230739355",
+        "coords": true,
+        "dateTime": {
+          "sec": 1687328220
+        },
+        "date": "21-06-2023",
+        "hour": "07:17",
+        "location": "Porto, Vila Nova de Gaia, Sandim, Olival, Lever E Crestuma",
+        "aerial": 0,
+        "meios_aquaticos": 0,
+        "man": 5,
+        "terrain": 1,
+        "district": "Porto",
+        "concelho": "Vila Nova De Gaia",
+        "freguesia": "Sandim, Olival, Lever E Crestuma",
+        "dico": "1317",
+        "lat": 41.048753,
+        "lng": -8.502382,
+        "naturezaCode": "3201",
+        "natureza": "Detritos não confinados",
+        "especieName": null,
+        "familiaName": null,
+        "statusCode": 4,
+        "statusColor": "FF6E02",
+        "status": "Despacho de 1º Alerta",
+        "important": false,
+        "localidade": " ",
+        "active": true,
+        "sadoId": "20230739355",
+        "sharepointId": 22244062,
+        "extra": null,
+        "disappear": false,
+        "icnf": null,
+        "detailLocation": null,
+        "kml": null,
+        "kmlVost": null,
+        "pco": null,
+        "cos": null,
+        "heliFight": 0,
+        "heliCoord": 0,
+        "planeFight": 0,
+        "anepcDirectUpdate": false,
+        "regiao": "Norte",
+        "sub_regiao": "Area M. Porto",
+        "created": {
+          "sec": 1687329003
+        },
+        "updated": {
+          "sec": 1687329003
         }
       }
     }
