@@ -136,71 +136,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.425582,
-          40.205556
-        ]
-      },
-      "properties": {
-        "_id": {
-          "$id": "64928d32b15298519103c643"
-        },
-        "id": "20230739247",
-        "coords": true,
-        "dateTime": {
-          "sec": 1687325220
-        },
-        "date": "21-06-2023",
-        "hour": "06:27",
-        "location": "Coimbra, Coimbra, Sé Nova, Santa Cruz, Almedina E São Bartolomeu",
-        "aerial": 0,
-        "meios_aquaticos": 0,
-        "man": 18,
-        "terrain": 5,
-        "district": "Coimbra",
-        "concelho": "Coimbra",
-        "freguesia": "Sé Nova, Santa Cruz, Almedina E São Bartolomeu",
-        "dico": "603",
-        "lat": 40.205556,
-        "lng": -8.425582,
-        "naturezaCode": "2101",
-        "natureza": "Habitacional",
-        "especieName": null,
-        "familiaName": null,
-        "statusCode": 5,
-        "statusColor": "B81E1F",
-        "status": "Em Curso",
-        "important": false,
-        "localidade": "Coimbra ",
-        "active": true,
-        "sadoId": "20230739247",
-        "sharepointId": 22243954,
-        "extra": null,
-        "disappear": false,
-        "icnf": null,
-        "detailLocation": null,
-        "kml": null,
-        "kmlVost": null,
-        "pco": null,
-        "cos": null,
-        "heliFight": 0,
-        "heliCoord": 0,
-        "planeFight": 0,
-        "anepcDirectUpdate": false,
-        "regiao": "Centro",
-        "sub_regiao": "Região de Coimbra",
-        "created": {
-          "sec": 1687326002
-        },
-        "updated": {
-          "sec": 1687326602
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -7.683783,
           40.658934
         ]
@@ -231,9 +166,9 @@
         "natureza": "Queda de Árvore",
         "especieName": null,
         "familiaName": null,
-        "statusCode": 4,
-        "statusColor": "FF6E02",
-        "status": "Despacho de 1º Alerta",
+        "statusCode": 8,
+        "statusColor": "BDBDBD",
+        "status": "Conclusão",
         "important": false,
         "localidade": "São Romão ",
         "active": true,
@@ -257,7 +192,7 @@
           "sec": 1687326002
         },
         "updated": {
-          "sec": 1687326002
+          "sec": 1687329003
         }
       }
     },
@@ -284,8 +219,8 @@
         "location": "Leiria, Alcobaça, Alfeizerão",
         "aerial": 0,
         "meios_aquaticos": 0,
-        "man": 11,
-        "terrain": 4,
+        "man": 12,
+        "terrain": 5,
         "district": "Leiria",
         "concelho": "Alcobaça",
         "freguesia": "Alfeizerão",
@@ -296,9 +231,9 @@
         "natureza": "Despiste",
         "especieName": null,
         "familiaName": null,
-        "statusCode": 4,
-        "statusColor": "FF6E02",
-        "status": "Despacho de 1º Alerta",
+        "statusCode": 7,
+        "statusColor": "6ABF59",
+        "status": "Em Resolução",
         "important": false,
         "localidade": "Alfeizerão ",
         "active": true,
@@ -322,7 +257,332 @@
           "sec": 1687326602
         },
         "updated": {
-          "sec": 1687326602
+          "sec": 1687329482
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.61677,
+          41.58688
+        ]
+      },
+      "properties": {
+        "_id": {
+          "$id": "64929873b23a463b5e5d4747"
+        },
+        "id": "20230739308",
+        "coords": true,
+        "dateTime": {
+          "sec": 1687327740
+        },
+        "date": "21-06-2023",
+        "hour": "07:09",
+        "location": "Braga, Barcelos, Campo E Tamel (São Pedro Fins)",
+        "aerial": 0,
+        "meios_aquaticos": 0,
+        "man": 30,
+        "terrain": 9,
+        "district": "Braga",
+        "concelho": "Barcelos",
+        "freguesia": "Campo E Tamel (São Pedro Fins)",
+        "dico": "302",
+        "lat": 41.58688,
+        "lng": -8.61677,
+        "naturezaCode": "2101",
+        "natureza": "Habitacional",
+        "especieName": null,
+        "familiaName": null,
+        "statusCode": 5,
+        "statusColor": "B81E1F",
+        "status": "Em Curso",
+        "important": false,
+        "localidade": "União Das Freguesias De Campo E Tamel (São Pedro Fins) ",
+        "active": true,
+        "sadoId": "20230739308",
+        "sharepointId": 22244015,
+        "extra": null,
+        "disappear": false,
+        "icnf": null,
+        "detailLocation": null,
+        "kml": null,
+        "kmlVost": null,
+        "pco": null,
+        "cos": null,
+        "heliFight": 0,
+        "heliCoord": 0,
+        "planeFight": 0,
+        "anepcDirectUpdate": false,
+        "regiao": "Norte",
+        "sub_regiao": "Cávado",
+        "created": {
+          "sec": 1687328883
+        },
+        "updated": {
+          "sec": 1687330204
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.49455,
+          41.03007
+        ]
+      },
+      "properties": {
+        "_id": {
+          "$id": "649298ebb23a463b5e5d474b"
+        },
+        "id": "20230739355",
+        "coords": true,
+        "dateTime": {
+          "sec": 1687328220
+        },
+        "date": "21-06-2023",
+        "hour": "07:17",
+        "location": "Porto, Vila Nova de Gaia, Sandim, Olival, Lever E Crestuma",
+        "aerial": 0,
+        "meios_aquaticos": 0,
+        "man": 11,
+        "terrain": 2,
+        "district": "Porto",
+        "concelho": "Vila Nova De Gaia",
+        "freguesia": "Sandim, Olival, Lever E Crestuma",
+        "dico": "1317",
+        "lat": 41.03007,
+        "lng": -8.49455,
+        "naturezaCode": "3201",
+        "natureza": "Detritos não confinados",
+        "especieName": null,
+        "familiaName": null,
+        "statusCode": 7,
+        "statusColor": "6ABF59",
+        "status": "Em Resolução",
+        "important": false,
+        "localidade": " ",
+        "active": true,
+        "sadoId": "20230739355",
+        "sharepointId": 22244062,
+        "extra": null,
+        "disappear": false,
+        "icnf": null,
+        "detailLocation": null,
+        "kml": null,
+        "kmlVost": null,
+        "pco": null,
+        "cos": null,
+        "heliFight": 0,
+        "heliCoord": 0,
+        "planeFight": 0,
+        "anepcDirectUpdate": false,
+        "regiao": "Norte",
+        "sub_regiao": "Area M. Porto",
+        "created": {
+          "sec": 1687329003
+        },
+        "updated": {
+          "sec": 1687329610
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.256039,
+          38.765721
+        ]
+      },
+      "properties": {
+        "_id": {
+          "$id": "64929d9cb23a463b5e5d4757"
+        },
+        "id": "20230739386",
+        "coords": true,
+        "dateTime": {
+          "sec": 1687329600
+        },
+        "date": "21-06-2023",
+        "hour": "07:40",
+        "location": "Lisboa, Sintra, Queluz E Belas",
+        "aerial": 0,
+        "meios_aquaticos": 0,
+        "man": 4,
+        "terrain": 2,
+        "district": "Lisboa",
+        "concelho": "Sintra",
+        "freguesia": "Queluz E Belas",
+        "dico": "1111",
+        "lat": 38.765721,
+        "lng": -9.256039,
+        "naturezaCode": "2407",
+        "natureza": "Despiste",
+        "especieName": null,
+        "familiaName": null,
+        "statusCode": 7,
+        "statusColor": "6ABF59",
+        "status": "Em Resolução",
+        "important": false,
+        "localidade": "Pendão ",
+        "active": true,
+        "sadoId": "20230739386",
+        "sharepointId": 22244093,
+        "extra": null,
+        "disappear": false,
+        "icnf": null,
+        "detailLocation": null,
+        "kml": null,
+        "kmlVost": null,
+        "pco": null,
+        "cos": null,
+        "heliFight": 0,
+        "heliCoord": 0,
+        "planeFight": 0,
+        "anepcDirectUpdate": false,
+        "regiao": "Lisboa e Vale do Tejo",
+        "sub_regiao": "Grande Lisboa",
+        "created": {
+          "sec": 1687330204
+        },
+        "updated": {
+          "sec": 1687330825
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.169863,
+          38.718496
+        ]
+      },
+      "properties": {
+        "_id": {
+          "$id": "6492a009b23a463b5e5d475b"
+        },
+        "id": "20230739432",
+        "coords": true,
+        "dateTime": {
+          "sec": 1687329420
+        },
+        "date": "21-06-2023",
+        "hour": "07:37",
+        "location": "Lisboa, Lisboa, Campo De Ourique",
+        "aerial": 0,
+        "meios_aquaticos": 0,
+        "man": 7,
+        "terrain": 2,
+        "district": "Lisboa",
+        "concelho": "Lisboa",
+        "freguesia": "Campo De Ourique",
+        "dico": "1106",
+        "lat": 38.718496,
+        "lng": -9.169863,
+        "naturezaCode": "2403",
+        "natureza": "Colisão rodoviária",
+        "especieName": null,
+        "familiaName": null,
+        "statusCode": 7,
+        "statusColor": "6ABF59",
+        "status": "Em Resolução",
+        "important": false,
+        "localidade": "Campo De Ourique ",
+        "active": true,
+        "sadoId": "20230739432",
+        "sharepointId": 22244139,
+        "extra": null,
+        "disappear": false,
+        "icnf": null,
+        "detailLocation": null,
+        "kml": null,
+        "kmlVost": null,
+        "pco": null,
+        "cos": null,
+        "heliFight": 0,
+        "heliCoord": 0,
+        "planeFight": 0,
+        "anepcDirectUpdate": false,
+        "regiao": "Lisboa e Vale do Tejo",
+        "sub_regiao": "Grande Lisboa",
+        "created": {
+          "sec": 1687330825
+        },
+        "updated": {
+          "sec": 1687330825
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.17263,
+          41.26493
+        ]
+      },
+      "properties": {
+        "_id": {
+          "$id": "6492a00ab23a463b5e5d475c"
+        },
+        "id": "20230739415",
+        "coords": true,
+        "dateTime": {
+          "sec": 1687330200
+        },
+        "date": "21-06-2023",
+        "hour": "07:50",
+        "location": "Porto, Amarante, Mancelos",
+        "aerial": 0,
+        "meios_aquaticos": 0,
+        "man": 0,
+        "terrain": 0,
+        "district": "Porto",
+        "concelho": "Amarante",
+        "freguesia": "Mancelos",
+        "dico": "1301",
+        "lat": 41.26493,
+        "lng": -8.17263,
+        "naturezaCode": "2401",
+        "natureza": "Atropelamento rodoviário",
+        "especieName": null,
+        "familiaName": null,
+        "statusCode": 3,
+        "statusColor": "FF6E02",
+        "status": "Despacho",
+        "important": false,
+        "localidade": "Mancelos ",
+        "active": true,
+        "sadoId": "20230739415",
+        "sharepointId": 22244122,
+        "extra": null,
+        "disappear": false,
+        "icnf": null,
+        "detailLocation": null,
+        "kml": null,
+        "kmlVost": null,
+        "pco": null,
+        "cos": null,
+        "heliFight": 0,
+        "heliCoord": 0,
+        "planeFight": 0,
+        "anepcDirectUpdate": false,
+        "regiao": "Norte",
+        "sub_regiao": "Tâmega e Sousa",
+        "created": {
+          "sec": 1687330826
+        },
+        "updated": {
+          "sec": 1687330826
         }
       }
     }
