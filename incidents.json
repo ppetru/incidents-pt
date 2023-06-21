@@ -166,9 +166,9 @@
         "natureza": "Habitacional",
         "especieName": null,
         "familiaName": null,
-        "statusCode": 5,
-        "statusColor": "B81E1F",
-        "status": "Em Curso",
+        "statusCode": 8,
+        "statusColor": "BDBDBD",
+        "status": "Conclusão",
         "important": false,
         "localidade": "Coimbra ",
         "active": true,
@@ -192,7 +192,7 @@
           "sec": 1687326002
         },
         "updated": {
-          "sec": 1687326602
+          "sec": 1687327219
         }
       }
     },
@@ -231,9 +231,9 @@
         "natureza": "Queda de Árvore",
         "especieName": null,
         "familiaName": null,
-        "statusCode": 4,
-        "statusColor": "FF6E02",
-        "status": "Despacho de 1º Alerta",
+        "statusCode": 7,
+        "statusColor": "6ABF59",
+        "status": "Em Resolução",
         "important": false,
         "localidade": "São Romão ",
         "active": true,
@@ -257,7 +257,7 @@
           "sec": 1687326002
         },
         "updated": {
-          "sec": 1687326002
+          "sec": 1687327219
         }
       }
     },
@@ -284,8 +284,8 @@
         "location": "Leiria, Alcobaça, Alfeizerão",
         "aerial": 0,
         "meios_aquaticos": 0,
-        "man": 11,
-        "terrain": 4,
+        "man": 12,
+        "terrain": 5,
         "district": "Leiria",
         "concelho": "Alcobaça",
         "freguesia": "Alfeizerão",
@@ -296,9 +296,9 @@
         "natureza": "Despiste",
         "especieName": null,
         "familiaName": null,
-        "statusCode": 4,
-        "statusColor": "FF6E02",
-        "status": "Despacho de 1º Alerta",
+        "statusCode": 5,
+        "statusColor": "B81E1F",
+        "status": "Em Curso",
         "important": false,
         "localidade": "Alfeizerão ",
         "active": true,
@@ -322,7 +322,72 @@
           "sec": 1687326602
         },
         "updated": {
-          "sec": 1687326602
+          "sec": 1687327694
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.232835,
+          38.70156
+        ]
+      },
+      "properties": {
+        "_id": {
+          "$id": "649293ceb15298519103c76a"
+        },
+        "id": "20230739291",
+        "coords": true,
+        "dateTime": {
+          "sec": 1687327320
+        },
+        "date": "21-06-2023",
+        "hour": "07:02",
+        "location": "Lisboa, Oeiras, Algés, Linda-a-velha E Cruz Quebrada-dafundo",
+        "aerial": 0,
+        "meios_aquaticos": 0,
+        "man": 0,
+        "terrain": 0,
+        "district": "Lisboa",
+        "concelho": "Oeiras",
+        "freguesia": "Algés, Linda-a-velha E Cruz Quebrada-dafundo",
+        "dico": "1110",
+        "lat": 38.70156,
+        "lng": -9.232835,
+        "naturezaCode": "2101",
+        "natureza": "Habitacional",
+        "especieName": null,
+        "familiaName": null,
+        "statusCode": 3,
+        "statusColor": "FF6E02",
+        "status": "Despacho",
+        "important": false,
+        "localidade": "União Das Freguesias De Algés, Linda-a-velha E Cruz Quebrada-dafundo ",
+        "active": true,
+        "sadoId": "20230739291",
+        "sharepointId": 22243998,
+        "extra": null,
+        "disappear": false,
+        "icnf": null,
+        "detailLocation": null,
+        "kml": null,
+        "kmlVost": null,
+        "pco": null,
+        "cos": null,
+        "heliFight": 0,
+        "heliCoord": 0,
+        "planeFight": 0,
+        "anepcDirectUpdate": false,
+        "regiao": "Lisboa e Vale do Tejo",
+        "sub_regiao": "Grande Lisboa",
+        "created": {
+          "sec": 1687327694
+        },
+        "updated": {
+          "sec": 1687327694
         }
       }
     }
