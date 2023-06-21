@@ -349,8 +349,8 @@
         "location": "Braga, Barcelos, Campo E Tamel (São Pedro Fins)",
         "aerial": 0,
         "meios_aquaticos": 0,
-        "man": 25,
-        "terrain": 6,
+        "man": 30,
+        "terrain": 9,
         "district": "Braga",
         "concelho": "Barcelos",
         "freguesia": "Campo E Tamel (São Pedro Fins)",
@@ -387,7 +387,7 @@
           "sec": 1687328883
         },
         "updated": {
-          "sec": 1687329611
+          "sec": 1687330204
         }
       }
     },
@@ -453,6 +453,71 @@
         },
         "updated": {
           "sec": 1687329610
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.256039,
+          38.765721
+        ]
+      },
+      "properties": {
+        "_id": {
+          "$id": "64929d9cb23a463b5e5d4757"
+        },
+        "id": "20230739386",
+        "coords": true,
+        "dateTime": {
+          "sec": 1687329600
+        },
+        "date": "21-06-2023",
+        "hour": "07:40",
+        "location": "Lisboa, Sintra, Queluz E Belas",
+        "aerial": 0,
+        "meios_aquaticos": 0,
+        "man": 4,
+        "terrain": 2,
+        "district": "Lisboa",
+        "concelho": "Sintra",
+        "freguesia": "Queluz E Belas",
+        "dico": "1111",
+        "lat": 38.765721,
+        "lng": -9.256039,
+        "naturezaCode": "2407",
+        "natureza": "Despiste",
+        "especieName": null,
+        "familiaName": null,
+        "statusCode": 4,
+        "statusColor": "FF6E02",
+        "status": "Despacho de 1º Alerta",
+        "important": false,
+        "localidade": "Pendão ",
+        "active": true,
+        "sadoId": "20230739386",
+        "sharepointId": 22244093,
+        "extra": null,
+        "disappear": false,
+        "icnf": null,
+        "detailLocation": null,
+        "kml": null,
+        "kmlVost": null,
+        "pco": null,
+        "cos": null,
+        "heliFight": 0,
+        "heliCoord": 0,
+        "planeFight": 0,
+        "anepcDirectUpdate": false,
+        "regiao": "Lisboa e Vale do Tejo",
+        "sub_regiao": "Grande Lisboa",
+        "created": {
+          "sec": 1687330204
+        },
+        "updated": {
+          "sec": 1687330204
         }
       }
     }
