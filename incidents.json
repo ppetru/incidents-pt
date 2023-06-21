@@ -166,9 +166,9 @@
         "natureza": "Habitacional",
         "especieName": null,
         "familiaName": null,
-        "statusCode": 6,
+        "statusCode": 5,
         "statusColor": "B81E1F",
-        "status": "Chegada ao TO",
+        "status": "Em Curso",
         "important": false,
         "localidade": "Coimbra ",
         "active": true,
@@ -192,7 +192,7 @@
           "sec": 1687326002
         },
         "updated": {
-          "sec": 1687326002
+          "sec": 1687326602
         }
       }
     },
@@ -258,6 +258,71 @@
         },
         "updated": {
           "sec": 1687326002
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.110786,
+          39.496611
+        ]
+      },
+      "properties": {
+        "_id": {
+          "$id": "64928f8ab15298519103c649"
+        },
+        "id": "20230739252",
+        "coords": true,
+        "dateTime": {
+          "sec": 1687325580
+        },
+        "date": "21-06-2023",
+        "hour": "06:33",
+        "location": "Leiria, Alcobaça, Alfeizerão",
+        "aerial": 0,
+        "meios_aquaticos": 0,
+        "man": 11,
+        "terrain": 4,
+        "district": "Leiria",
+        "concelho": "Alcobaça",
+        "freguesia": "Alfeizerão",
+        "dico": "1001",
+        "lat": 39.496611,
+        "lng": -9.110786,
+        "naturezaCode": "2407",
+        "natureza": "Despiste",
+        "especieName": null,
+        "familiaName": null,
+        "statusCode": 4,
+        "statusColor": "FF6E02",
+        "status": "Despacho de 1º Alerta",
+        "important": false,
+        "localidade": "Alfeizerão ",
+        "active": true,
+        "sadoId": "20230739252",
+        "sharepointId": 22243959,
+        "extra": null,
+        "disappear": false,
+        "icnf": null,
+        "detailLocation": null,
+        "kml": null,
+        "kmlVost": null,
+        "pco": null,
+        "cos": null,
+        "heliFight": 0,
+        "heliCoord": 0,
+        "planeFight": 0,
+        "anepcDirectUpdate": false,
+        "regiao": "Lisboa e Vale do Tejo",
+        "sub_regiao": "Oeste",
+        "created": {
+          "sec": 1687326602
+        },
+        "updated": {
+          "sec": 1687326602
         }
       }
     }
