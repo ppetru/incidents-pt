@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": 353665,
+      "id": 353679,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -12,7 +12,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 353665,
+        "OBJECTID": 353679,
         "ID_oc": 22316987,
         "Numero": 20230812269,
         "Ano": null,
@@ -95,7 +95,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1688701539000,
+        "DataDosDados": 1688702147000,
         "Simbol": "33 - Em Curso",
         "Status": 0,
         "Obs": null,
@@ -104,7 +104,108 @@
     },
     {
       "type": "Feature",
-      "id": 353666,
+      "id": 353680,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.8700300004278585,
+          38.01411099979852
+        ]
+      },
+      "properties": {
+        "OBJECTID": 353680,
+        "ID_oc": 22318667,
+        "Numero": 20230813949,
+        "Ano": null,
+        "DataInicioOcorrencia": null,
+        "DataOcorrencia": 1688701380000,
+        "Data": null,
+        "Hora": null,
+        "Duracao": null,
+        "DuracaoMinutos": null,
+        "FaseIncendio": null,
+        "GrupoOc": null,
+        "GrupoOc_ID": null,
+        "CodNatureza": 2403,
+        "IDFamilia": null,
+        "Familia": null,
+        "IDEspecie": null,
+        "Especie": null,
+        "IDTipo": null,
+        "Tipo": null,
+        "Natureza": "Colisão rodoviária",
+        "CodImportancia": null,
+        "Importancia": null,
+        "CodEstadoOcorrencia": null,
+        "EstadoOcorrencia": "Despacho de 1.º Alerta",
+        "EstadoAgrupado": "Em Despacho",
+        "CREPC_ID": null,
+        "CSREPC": "Baixo Alentejo",
+        "CSREPC_ID": null,
+        "CREPC": "Alentejo",
+        "DI": null,
+        "Distrito": null,
+        "NUT_III": null,
+        "CIM": null,
+        "DICO": null,
+        "Concelho": "Beja",
+        "DICOFRE": null,
+        "Freguesia": "Beja (Santiago Maior e São João Baptista)",
+        "Localidade": "BEJA 1º",
+        "Endereco": null,
+        "EntidadeResponsavel": null,
+        "EntidadeGestora": null,
+        "PCO": null,
+        "COS": null,
+        "UltimoPOSIT": null,
+        "QuantEntidades": null,
+        "RHBombeiros": null,
+        "RHFEPC": null,
+        "RHUEPS": null,
+        "RHGNR": null,
+        "RHPSP": null,
+        "RHESF": null,
+        "RHFA": null,
+        "RHINEM": null,
+        "RHOutros": null,
+        "NumeroOperacionaisTerrestresEnv": null,
+        "Operacionais": 2,
+        "NumeroOperacionaisAereosEnvolvi": null,
+        "RTBombeiros": null,
+        "RTFEPC": null,
+        "RTUEPS": null,
+        "RTGNR": null,
+        "RTPSP": null,
+        "RTESF": null,
+        "RTFA": null,
+        "RTINEM": null,
+        "RTOutros": null,
+        "NumeroMeiosTerrestresEnvolvidos": 1,
+        "GruposReforco": null,
+        "HELigeiro": null,
+        "HEPesado": null,
+        "HECoordenacao": null,
+        "HEOutro": null,
+        "AVMedio": null,
+        "AVPesado": null,
+        "AVReconhecimento": null,
+        "AVOutro": null,
+        "NumeroMeiosAereosEnvolvidos": 0,
+        "Latitude": 38.014111,
+        "Longitude": -7.87003,
+        "DDD": null,
+        "DMM": null,
+        "DMS": null,
+        "DataDosDados": 1688702147000,
+        "Simbol": "24 - Em Despacho",
+        "Status": 0,
+        "Obs": null,
+        "NumeroMeiosAquaticos": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 353681,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -113,12 +214,12 @@
         ]
       },
       "properties": {
-        "OBJECTID": 353666,
+        "OBJECTID": 353681,
         "ID_oc": 22311525,
         "Numero": 20230806807,
         "Ano": null,
         "DataInicioOcorrencia": null,
-        "DataOcorrencia": 1688566320000,
+        "DataOcorrencia": 1688562720000,
         "Data": null,
         "Hora": null,
         "Duracao": null,
@@ -196,7 +297,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1688701539000,
+        "DataDosDados": 1688702147000,
         "Simbol": "31 - Em Conclusão",
         "Status": 0,
         "Obs": null,
@@ -205,16 +306,16 @@
     },
     {
       "type": "Feature",
-      "id": 353667,
+      "id": 353682,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.89208499958294,
-          37.885325999659564
+          -7.894087000550963,
+          37.883335000246156
         ]
       },
       "properties": {
-        "OBJECTID": 353667,
+        "OBJECTID": 353682,
         "ID_oc": 22318627,
         "Numero": 20230813909,
         "Ano": null,
@@ -238,8 +339,8 @@
         "CodImportancia": null,
         "Importancia": null,
         "CodEstadoOcorrencia": null,
-        "EstadoOcorrencia": "Chegada ao TO",
-        "EstadoAgrupado": "Em Despacho",
+        "EstadoOcorrencia": "Conclusão",
+        "EstadoAgrupado": "Em Conclusão",
         "CREPC_ID": null,
         "CSREPC": "Baixo Alentejo",
         "CSREPC_ID": null,
@@ -292,13 +393,13 @@
         "AVReconhecimento": null,
         "AVOutro": null,
         "NumeroMeiosAereosEnvolvidos": 0,
-        "Latitude": 37.885326,
-        "Longitude": -7.892085,
+        "Latitude": 37.883335,
+        "Longitude": -7.894087,
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1688701539000,
-        "Simbol": "23 - Em Despacho",
+        "DataDosDados": 1688702147000,
+        "Simbol": "23 - Em Conclusão",
         "Status": 0,
         "Obs": null,
         "NumeroMeiosAquaticos": 0
@@ -306,16 +407,16 @@
     },
     {
       "type": "Feature",
-      "id": 353668,
+      "id": 353683,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.236445000480545,
-          37.83146700020975
+          -8.230650000175647,
+          37.83450700017766
         ]
       },
       "properties": {
-        "OBJECTID": 353668,
+        "OBJECTID": 353683,
         "ID_oc": 22318646,
         "Numero": 20230813928,
         "Ano": null,
@@ -339,8 +440,8 @@
         "CodImportancia": null,
         "Importancia": null,
         "CodEstadoOcorrencia": null,
-        "EstadoOcorrencia": "Despacho de 1.º Alerta",
-        "EstadoAgrupado": "Em Despacho",
+        "EstadoOcorrencia": "Em Curso",
+        "EstadoAgrupado": "Em Curso",
         "CREPC_ID": null,
         "CSREPC": "Baixo Alentejo",
         "CSREPC_ID": null,
@@ -371,7 +472,7 @@
         "RHINEM": null,
         "RHOutros": null,
         "NumeroOperacionaisTerrestresEnv": null,
-        "Operacionais": 2,
+        "Operacionais": 5,
         "NumeroOperacionaisAereosEnvolvi": null,
         "RTBombeiros": null,
         "RTFEPC": null,
@@ -382,7 +483,7 @@
         "RTFA": null,
         "RTINEM": null,
         "RTOutros": null,
-        "NumeroMeiosTerrestresEnvolvidos": 1,
+        "NumeroMeiosTerrestresEnvolvidos": 3,
         "GruposReforco": null,
         "HELigeiro": null,
         "HEPesado": null,
@@ -393,13 +494,13 @@
         "AVReconhecimento": null,
         "AVOutro": null,
         "NumeroMeiosAereosEnvolvidos": 0,
-        "Latitude": 37.831467,
-        "Longitude": -8.236445,
+        "Latitude": 37.834507,
+        "Longitude": -8.23065,
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1688701539000,
-        "Simbol": "24 - Em Despacho",
+        "DataDosDados": 1688702147000,
+        "Simbol": "24 - Em Curso",
         "Status": 0,
         "Obs": null,
         "NumeroMeiosAquaticos": 0
@@ -407,7 +508,7 @@
     },
     {
       "type": "Feature",
-      "id": 353669,
+      "id": 353684,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -416,7 +517,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 353669,
+        "OBJECTID": 353684,
         "ID_oc": 22209456,
         "Numero": 20230704749,
         "Ano": null,
@@ -499,7 +600,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1688701539000,
+        "DataDosDados": 1688702147000,
         "Simbol": "91 - Em Curso",
         "Status": 0,
         "Obs": null,
@@ -508,7 +609,7 @@
     },
     {
       "type": "Feature",
-      "id": 353670,
+      "id": 353685,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -517,7 +618,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 353670,
+        "OBJECTID": 353685,
         "ID_oc": 22318504,
         "Numero": 20230813786,
         "Ano": null,
@@ -600,7 +701,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1688701539000,
+        "DataDosDados": 1688702147000,
         "Simbol": "43 - Em Despacho",
         "Status": 0,
         "Obs": null,
@@ -609,7 +710,7 @@
     },
     {
       "type": "Feature",
-      "id": 353671,
+      "id": 353686,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -618,7 +719,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 353671,
+        "OBJECTID": 353686,
         "ID_oc": 22318652,
         "Numero": 20230813934,
         "Ano": null,
@@ -701,7 +802,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1688701539000,
+        "DataDosDados": 1688702147000,
         "Simbol": "25 - Em Despacho",
         "Status": 0,
         "Obs": null,
