@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": 384936,
+      "id": 384942,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -12,7 +12,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 384936,
+        "OBJECTID": 384942,
         "ID_oc": 22341497,
         "Numero": 20230836779,
         "Ano": null,
@@ -95,7 +95,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1689146439000,
+        "DataDosDados": 1689146748000,
         "Simbol": "24 - Em Resolução",
         "Status": 0,
         "Obs": null,
@@ -104,7 +104,108 @@
     },
     {
       "type": "Feature",
-      "id": 384937,
+      "id": 384943,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.560160000289908,
+          41.90963999974672
+        ]
+      },
+      "properties": {
+        "OBJECTID": 384943,
+        "ID_oc": 22341654,
+        "Numero": 20230836936,
+        "Ano": null,
+        "DataInicioOcorrencia": null,
+        "DataOcorrencia": 1689146280000,
+        "Data": null,
+        "Hora": null,
+        "Duracao": null,
+        "DuracaoMinutos": null,
+        "FaseIncendio": null,
+        "GrupoOc": null,
+        "GrupoOc_ID": null,
+        "CodNatureza": 4327,
+        "IDFamilia": null,
+        "Familia": null,
+        "IDEspecie": null,
+        "Especie": null,
+        "IDTipo": null,
+        "Tipo": null,
+        "Natureza": "Busca e Resgate Terrestre, de Pessoas",
+        "CodImportancia": null,
+        "Importancia": null,
+        "CodEstadoOcorrencia": null,
+        "EstadoOcorrencia": "Despacho de 1.º Alerta",
+        "EstadoAgrupado": "Em Despacho",
+        "CREPC_ID": null,
+        "CSREPC": "Alto Minho",
+        "CSREPC_ID": null,
+        "CREPC": "Norte",
+        "DI": null,
+        "Distrito": null,
+        "NUT_III": null,
+        "CIM": null,
+        "DICO": null,
+        "Concelho": "Paredes de Coura",
+        "DICOFRE": null,
+        "Freguesia": "Paredes de Coura e Resende",
+        "Localidade": "Rua Doutor Afonso Viana",
+        "Endereco": null,
+        "EntidadeResponsavel": null,
+        "EntidadeGestora": null,
+        "PCO": null,
+        "COS": null,
+        "UltimoPOSIT": null,
+        "QuantEntidades": null,
+        "RHBombeiros": null,
+        "RHFEPC": null,
+        "RHUEPS": null,
+        "RHGNR": null,
+        "RHPSP": null,
+        "RHESF": null,
+        "RHFA": null,
+        "RHINEM": null,
+        "RHOutros": null,
+        "NumeroOperacionaisTerrestresEnv": null,
+        "Operacionais": 7,
+        "NumeroOperacionaisAereosEnvolvi": null,
+        "RTBombeiros": null,
+        "RTFEPC": null,
+        "RTUEPS": null,
+        "RTGNR": null,
+        "RTPSP": null,
+        "RTESF": null,
+        "RTFA": null,
+        "RTINEM": null,
+        "RTOutros": null,
+        "NumeroMeiosTerrestresEnvolvidos": 2,
+        "GruposReforco": null,
+        "HELigeiro": null,
+        "HEPesado": null,
+        "HECoordenacao": null,
+        "HEOutro": null,
+        "AVMedio": null,
+        "AVPesado": null,
+        "AVReconhecimento": null,
+        "AVOutro": null,
+        "NumeroMeiosAereosEnvolvidos": 0,
+        "Latitude": 41.90964,
+        "Longitude": -8.56016,
+        "DDD": null,
+        "DMM": null,
+        "DMS": null,
+        "DataDosDados": 1689146748000,
+        "Simbol": "43 - Em Despacho",
+        "Status": 0,
+        "Obs": null,
+        "NumeroMeiosAquaticos": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 384944,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -113,7 +214,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 384937,
+        "OBJECTID": 384944,
         "ID_oc": 22329874,
         "Numero": 20230825156,
         "Ano": null,
@@ -196,7 +297,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1689146439000,
+        "DataDosDados": 1689146748000,
         "Simbol": "31 - Em Conclusão",
         "Status": 0,
         "Obs": null,
@@ -205,7 +306,7 @@
     },
     {
       "type": "Feature",
-      "id": 384938,
+      "id": 384945,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -214,7 +315,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 384938,
+        "OBJECTID": 384945,
         "ID_oc": 22341575,
         "Numero": 20230836857,
         "Ano": null,
@@ -238,8 +339,8 @@
         "CodImportancia": null,
         "Importancia": null,
         "CodEstadoOcorrencia": null,
-        "EstadoOcorrencia": "Despacho de 1.º Alerta",
-        "EstadoAgrupado": "Em Despacho",
+        "EstadoOcorrencia": "Em Resolução",
+        "EstadoAgrupado": "Em Resolução",
         "CREPC_ID": null,
         "CSREPC": "Douro",
         "CSREPC_ID": null,
@@ -297,8 +398,8 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1689146439000,
-        "Simbol": "23 - Em Despacho",
+        "DataDosDados": 1689146748000,
+        "Simbol": "23 - Em Resolução",
         "Status": 0,
         "Obs": null,
         "NumeroMeiosAquaticos": 0
@@ -306,7 +407,7 @@
     },
     {
       "type": "Feature",
-      "id": 384939,
+      "id": 384946,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -315,7 +416,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 384939,
+        "OBJECTID": 384946,
         "ID_oc": 22341606,
         "Numero": 20230836888,
         "Ano": null,
@@ -339,7 +440,7 @@
         "CodImportancia": null,
         "Importancia": null,
         "CodEstadoOcorrencia": null,
-        "EstadoOcorrencia": "Despacho",
+        "EstadoOcorrencia": "Despacho de 1.º Alerta",
         "EstadoAgrupado": "Em Despacho",
         "CREPC_ID": null,
         "CSREPC": "Ave",
@@ -371,7 +472,7 @@
         "RHINEM": null,
         "RHOutros": null,
         "NumeroOperacionaisTerrestresEnv": null,
-        "Operacionais": 0,
+        "Operacionais": 5,
         "NumeroOperacionaisAereosEnvolvi": null,
         "RTBombeiros": null,
         "RTFEPC": null,
@@ -382,7 +483,7 @@
         "RTFA": null,
         "RTINEM": null,
         "RTOutros": null,
-        "NumeroMeiosTerrestresEnvolvidos": 0,
+        "NumeroMeiosTerrestresEnvolvidos": 1,
         "GruposReforco": null,
         "HELigeiro": null,
         "HEPesado": null,
@@ -398,7 +499,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1689146439000,
+        "DataDosDados": 1689146748000,
         "Simbol": "33 - Em Despacho",
         "Status": 0,
         "Obs": null,
@@ -407,7 +508,7 @@
     },
     {
       "type": "Feature",
-      "id": 384940,
+      "id": 384947,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -416,7 +517,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 384940,
+        "OBJECTID": 384947,
         "ID_oc": 22341546,
         "Numero": 20230836828,
         "Ano": null,
@@ -499,7 +600,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1689146439000,
+        "DataDosDados": 1689146748000,
         "Simbol": "32 - Em Resolução",
         "Status": 0,
         "Obs": null,
@@ -508,7 +609,7 @@
     },
     {
       "type": "Feature",
-      "id": 384941,
+      "id": 384948,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -517,7 +618,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 384941,
+        "OBJECTID": 384948,
         "ID_oc": 22341569,
         "Numero": 20230836851,
         "Ano": null,
@@ -600,7 +701,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1689146439000,
+        "DataDosDados": 1689146748000,
         "Simbol": "24 - Em Despacho",
         "Status": 0,
         "Obs": null,
