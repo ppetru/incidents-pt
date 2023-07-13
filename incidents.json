@@ -3,21 +3,21 @@
   "features": [
     {
       "type": "Feature",
-      "id": 390384,
+      "id": 390413,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -9.176421000254496,
-          38.828612000145796
+          -9.439209999585074,
+          38.73551000042711
         ]
       },
       "properties": {
-        "OBJECTID": 390384,
-        "ID_oc": 22345812,
-        "Numero": 20230841094,
+        "OBJECTID": 390413,
+        "ID_oc": 22345909,
+        "Numero": 20230841191,
         "Ano": null,
         "DataInicioOcorrencia": null,
-        "DataOcorrencia": 1689213000000,
+        "DataOcorrencia": 1689221340000,
         "Data": null,
         "Hora": null,
         "Duracao": null,
@@ -25,18 +25,18 @@
         "FaseIncendio": null,
         "GrupoOc": null,
         "GrupoOc_ID": null,
-        "CodNatureza": 2407,
+        "CodNatureza": 2201,
         "IDFamilia": null,
         "Familia": null,
         "IDEspecie": null,
         "Especie": null,
         "IDTipo": null,
         "Tipo": null,
-        "Natureza": "Despiste",
+        "Natureza": "Equipamentos",
         "CodImportancia": null,
         "Importancia": null,
         "CodEstadoOcorrencia": null,
-        "EstadoOcorrencia": "Despacho de 1.º Alerta",
+        "EstadoOcorrencia": "Despacho",
         "EstadoAgrupado": "Em Despacho",
         "CREPC_ID": null,
         "CSREPC": "Grande Lisboa",
@@ -47,10 +47,10 @@
         "NUT_III": null,
         "CIM": null,
         "DICO": null,
-        "Concelho": "Loures",
+        "Concelho": "Cascais",
         "DICOFRE": null,
-        "Freguesia": "Loures",
-        "Localidade": "LOURES",
+        "Freguesia": "Alcabideche",
+        "Localidade": "Alcabideche",
         "Endereco": null,
         "EntidadeResponsavel": null,
         "EntidadeGestora": null,
@@ -68,7 +68,7 @@
         "RHINEM": null,
         "RHOutros": null,
         "NumeroOperacionaisTerrestresEnv": null,
-        "Operacionais": 6,
+        "Operacionais": 0,
         "NumeroOperacionaisAereosEnvolvi": null,
         "RTBombeiros": null,
         "RTFEPC": null,
@@ -79,7 +79,7 @@
         "RTFA": null,
         "RTINEM": null,
         "RTOutros": null,
-        "NumeroMeiosTerrestresEnvolvidos": 2,
+        "NumeroMeiosTerrestresEnvolvidos": 0,
         "GruposReforco": null,
         "HELigeiro": null,
         "HEPesado": null,
@@ -90,13 +90,13 @@
         "AVReconhecimento": null,
         "AVOutro": null,
         "NumeroMeiosAereosEnvolvidos": 0,
-        "Latitude": 38.828612,
-        "Longitude": -9.176421,
+        "Latitude": 38.73551,
+        "Longitude": -9.43921,
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1689221147000,
-        "Simbol": "24 - Em Despacho",
+        "DataDosDados": 1689222340000,
+        "Simbol": "22 - Em Despacho",
         "Status": 0,
         "Obs": null,
         "NumeroMeiosAquaticos": 0
@@ -104,16 +104,16 @@
     },
     {
       "type": "Feature",
-      "id": 390385,
+      "id": 390414,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.296106999719944,
-          38.36597200038369
+          -7.347412000314215,
+          38.353922999683974
         ]
       },
       "properties": {
-        "OBJECTID": 390385,
+        "OBJECTID": 390414,
         "ID_oc": 22345893,
         "Numero": 20230841175,
         "Ano": null,
@@ -137,8 +137,8 @@
         "CodImportancia": null,
         "Importancia": null,
         "CodEstadoOcorrencia": null,
-        "EstadoOcorrencia": "Despacho de 1.º Alerta",
-        "EstadoAgrupado": "Em Despacho",
+        "EstadoOcorrencia": "Conclusão",
+        "EstadoAgrupado": "Em Conclusão",
         "CREPC_ID": null,
         "CSREPC": "Alentejo Central",
         "CSREPC_ID": null,
@@ -169,7 +169,7 @@
         "RHINEM": null,
         "RHOutros": null,
         "NumeroOperacionaisTerrestresEnv": null,
-        "Operacionais": 4,
+        "Operacionais": 6,
         "NumeroOperacionaisAereosEnvolvi": null,
         "RTBombeiros": null,
         "RTFEPC": null,
@@ -180,7 +180,7 @@
         "RTFA": null,
         "RTINEM": null,
         "RTOutros": null,
-        "NumeroMeiosTerrestresEnvolvidos": 2,
+        "NumeroMeiosTerrestresEnvolvidos": 3,
         "GruposReforco": null,
         "HELigeiro": null,
         "HEPesado": null,
@@ -191,13 +191,13 @@
         "AVReconhecimento": null,
         "AVOutro": null,
         "NumeroMeiosAereosEnvolvidos": 0,
-        "Latitude": 38.365972,
-        "Longitude": -7.296107,
+        "Latitude": 38.353923,
+        "Longitude": -7.347412,
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1689221147000,
-        "Simbol": "24 - Em Despacho",
+        "DataDosDados": 1689222340000,
+        "Simbol": "24 - Em Conclusão",
         "Status": 0,
         "Obs": null,
         "NumeroMeiosAquaticos": 0
@@ -205,7 +205,7 @@
     },
     {
       "type": "Feature",
-      "id": 390386,
+      "id": 390415,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -214,7 +214,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 390386,
+        "OBJECTID": 390415,
         "ID_oc": 22345895,
         "Numero": 20230841177,
         "Ano": null,
@@ -297,7 +297,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1689221147000,
+        "DataDosDados": 1689222340000,
         "Simbol": "21 - Em Despacho",
         "Status": 0,
         "Obs": null,
@@ -306,7 +306,7 @@
     },
     {
       "type": "Feature",
-      "id": 390387,
+      "id": 390416,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -315,12 +315,12 @@
         ]
       },
       "properties": {
-        "OBJECTID": 390387,
+        "OBJECTID": 390416,
         "ID_oc": 22343920,
         "Numero": 20230839202,
         "Ano": null,
         "DataInicioOcorrencia": null,
-        "DataOcorrencia": 1689176580000,
+        "DataOcorrencia": 1689172980000,
         "Data": null,
         "Hora": null,
         "Duracao": null,
@@ -398,7 +398,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1689221147000,
+        "DataDosDados": 1689222340000,
         "Simbol": "31 - Em Resolução",
         "Status": 0,
         "Obs": null,
@@ -407,7 +407,7 @@
     },
     {
       "type": "Feature",
-      "id": 390388,
+      "id": 390417,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -416,7 +416,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 390388,
+        "OBJECTID": 390417,
         "ID_oc": 22344745,
         "Numero": 20230840027,
         "Ano": null,
@@ -499,7 +499,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1689221147000,
+        "DataDosDados": 1689222340000,
         "Simbol": "24 - Em Despacho",
         "Status": 0,
         "Obs": null,
@@ -508,21 +508,21 @@
     },
     {
       "type": "Feature",
-      "id": 390389,
+      "id": 390418,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.816388000179772,
-          40.62335199971105
+          -7.815265000068759,
+          40.61074200034451
         ]
       },
       "properties": {
-        "OBJECTID": 390389,
+        "OBJECTID": 390418,
         "ID_oc": 22345897,
         "Numero": 20230841179,
         "Ano": null,
         "DataInicioOcorrencia": null,
-        "DataOcorrencia": 1689224340000,
+        "DataOcorrencia": 1689220740000,
         "Data": null,
         "Hora": null,
         "Duracao": null,
@@ -541,7 +541,7 @@
         "CodImportancia": null,
         "Importancia": null,
         "CodEstadoOcorrencia": null,
-        "EstadoOcorrencia": "Despacho",
+        "EstadoOcorrencia": "Chegada ao TO",
         "EstadoAgrupado": "Em Despacho",
         "CREPC_ID": null,
         "CSREPC": "Viseu Dão Lafões",
@@ -555,7 +555,7 @@
         "Concelho": "Mangualde",
         "DICOFRE": null,
         "Freguesia": "Fornos de Maceira Dão",
-        "Localidade": "Vila Garcia",
+        "Localidade": "FORNOS DE MACEIRA DÃO",
         "Endereco": null,
         "EntidadeResponsavel": null,
         "EntidadeGestora": null,
@@ -573,7 +573,7 @@
         "RHINEM": null,
         "RHOutros": null,
         "NumeroOperacionaisTerrestresEnv": null,
-        "Operacionais": 0,
+        "Operacionais": 21,
         "NumeroOperacionaisAereosEnvolvi": null,
         "RTBombeiros": null,
         "RTFEPC": null,
@@ -584,7 +584,7 @@
         "RTFA": null,
         "RTINEM": null,
         "RTOutros": null,
-        "NumeroMeiosTerrestresEnvolvidos": 0,
+        "NumeroMeiosTerrestresEnvolvidos": 5,
         "GruposReforco": null,
         "HELigeiro": null,
         "HEPesado": null,
@@ -595,12 +595,12 @@
         "AVReconhecimento": null,
         "AVOutro": null,
         "NumeroMeiosAereosEnvolvidos": 0,
-        "Latitude": 40.623352,
-        "Longitude": -7.816388,
+        "Latitude": 40.610742,
+        "Longitude": -7.815265,
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1689221147000,
+        "DataDosDados": 1689222340000,
         "Simbol": "31 - Em Despacho",
         "Status": 0,
         "Obs": null,
@@ -609,7 +609,7 @@
     },
     {
       "type": "Feature",
-      "id": 390390,
+      "id": 390419,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -618,12 +618,12 @@
         ]
       },
       "properties": {
-        "OBJECTID": 390390,
+        "OBJECTID": 390419,
         "ID_oc": 22343347,
         "Numero": 20230838629,
         "Ano": null,
         "DataInicioOcorrencia": null,
-        "DataOcorrencia": 1689169860000,
+        "DataOcorrencia": 1689166260000,
         "Data": null,
         "Hora": null,
         "Duracao": null,
@@ -701,7 +701,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1689221147000,
+        "DataDosDados": 1689222340000,
         "Simbol": "31 - Em Curso",
         "Status": 0,
         "Obs": null,
@@ -710,7 +710,7 @@
     },
     {
       "type": "Feature",
-      "id": 390391,
+      "id": 390420,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -719,7 +719,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 390391,
+        "OBJECTID": 390420,
         "ID_oc": 22344918,
         "Numero": 20230840200,
         "Ano": null,
@@ -802,7 +802,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1689221147000,
+        "DataDosDados": 1689222340000,
         "Simbol": "24 - Em Conclusão",
         "Status": 0,
         "Obs": null,
@@ -811,7 +811,7 @@
     },
     {
       "type": "Feature",
-      "id": 390392,
+      "id": 390421,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -820,7 +820,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 390392,
+        "OBJECTID": 390421,
         "ID_oc": 22345335,
         "Numero": 20230840617,
         "Ano": null,
@@ -903,7 +903,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1689221147000,
+        "DataDosDados": 1689222340000,
         "Simbol": "24 - Em Conclusão",
         "Status": 0,
         "Obs": null,
@@ -912,7 +912,7 @@
     },
     {
       "type": "Feature",
-      "id": 390393,
+      "id": 390422,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -921,7 +921,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 390393,
+        "OBJECTID": 390422,
         "ID_oc": 22345769,
         "Numero": 20230841051,
         "Ano": null,
@@ -1004,7 +1004,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1689221147000,
+        "DataDosDados": 1689222340000,
         "Simbol": "32 - Em Despacho",
         "Status": 0,
         "Obs": null,
