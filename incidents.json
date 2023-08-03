@@ -3,310 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": 578942,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.646635000224691,
-          39.593976000107645
-        ]
-      },
-      "properties": {
-        "OBJECTID": 578942,
-        "ID_oc": 22397149,
-        "Numero": 20230892431,
-        "Ano": null,
-        "DataInicioOcorrencia": "2023-07-24T09:30:00",
-        "DataOcorrencia": 1690187400000,
-        "Data": 1690187400000,
-        "Hora": null,
-        "Duracao": null,
-        "DuracaoMinutos": null,
-        "FaseIncendio": null,
-        "GrupoOc": null,
-        "GrupoOc_ID": null,
-        "CodNatureza": 9115,
-        "IDFamilia": null,
-        "Familia": null,
-        "IDEspecie": null,
-        "Especie": null,
-        "IDTipo": null,
-        "Tipo": null,
-        "Natureza": "Operações Nacionais de Assistência",
-        "CodImportancia": null,
-        "Importancia": null,
-        "CodEstadoOcorrencia": null,
-        "EstadoOcorrencia": "Despacho de 1.º Alerta",
-        "EstadoAgrupado": "Em Despacho",
-        "CREPC_ID": null,
-        "CSREPC": "Médio Tejo",
-        "CSREPC_ID": null,
-        "CREPC": "Lisboa e Vale do Tejo",
-        "DI": null,
-        "Distrito": null,
-        "NUT_III": null,
-        "CIM": null,
-        "DICO": null,
-        "Concelho": "Ourém",
-        "DICOFRE": null,
-        "Freguesia": "Fátima",
-        "Localidade": "DEOS JMJ 2023 - Fátima",
-        "Endereco": null,
-        "EntidadeResponsavel": null,
-        "EntidadeGestora": null,
-        "PCO": null,
-        "COS": null,
-        "UltimoPOSIT": null,
-        "QuantEntidades": null,
-        "RHBombeiros": null,
-        "RHFEPC": null,
-        "RHUEPS": null,
-        "RHGNR": null,
-        "RHPSP": null,
-        "RHESF": null,
-        "RHFA": null,
-        "RHINEM": null,
-        "RHOutros": null,
-        "NumeroOperacionaisTerrestresEnv": null,
-        "Operacionais": 4,
-        "NumeroOperacionaisAereosEnvolvi": null,
-        "RTBombeiros": null,
-        "RTFEPC": null,
-        "RTUEPS": null,
-        "RTGNR": null,
-        "RTPSP": null,
-        "RTESF": null,
-        "RTFA": null,
-        "RTINEM": null,
-        "RTOutros": null,
-        "NumeroMeiosTerrestresEnvolvidos": 2,
-        "GruposReforco": null,
-        "HELigeiro": null,
-        "HEPesado": null,
-        "HECoordenacao": null,
-        "HEOutro": null,
-        "AVMedio": null,
-        "AVPesado": null,
-        "AVReconhecimento": null,
-        "AVOutro": null,
-        "NumeroMeiosAereosEnvolvidos": 0,
-        "Latitude": 39.593976,
-        "Longitude": -8.646635,
-        "DDD": null,
-        "DMM": null,
-        "DMS": null,
-        "DataDosDados": 1691034638000,
-        "Simbol": "91 - Em Despacho",
-        "Status": 0,
-        "Obs": null,
-        "NumeroMeiosAquaticos": 0
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 578943,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -9.387898999914983,
-          38.80581300043283
-        ]
-      },
-      "properties": {
-        "OBJECTID": 578943,
-        "ID_oc": 22432018,
-        "Numero": 20230927286,
-        "Ano": null,
-        "DataInicioOcorrencia": "2023-07-31T19:00:00",
-        "DataOcorrencia": 1690826400000,
-        "Data": 1690826400000,
-        "Hora": null,
-        "Duracao": null,
-        "DuracaoMinutos": null,
-        "FaseIncendio": null,
-        "GrupoOc": null,
-        "GrupoOc_ID": null,
-        "CodNatureza": 9115,
-        "IDFamilia": null,
-        "Familia": null,
-        "IDEspecie": null,
-        "Especie": null,
-        "IDTipo": null,
-        "Tipo": null,
-        "Natureza": "Operações Nacionais de Assistência",
-        "CodImportancia": null,
-        "Importancia": null,
-        "CodEstadoOcorrencia": null,
-        "EstadoOcorrencia": "Vigilância",
-        "EstadoAgrupado": "Em Conclusão",
-        "CREPC_ID": null,
-        "CSREPC": "Grande Lisboa",
-        "CSREPC_ID": null,
-        "CREPC": "Lisboa e Vale do Tejo",
-        "DI": null,
-        "Distrito": null,
-        "NUT_III": null,
-        "CIM": null,
-        "DICO": null,
-        "Concelho": "Sintra",
-        "DICOFRE": null,
-        "Freguesia": "S.maria, S.miguel, S.martinho, S.pedro Penaferrim",
-        "Localidade": "SINTRA",
-        "Endereco": null,
-        "EntidadeResponsavel": null,
-        "EntidadeGestora": null,
-        "PCO": null,
-        "COS": null,
-        "UltimoPOSIT": null,
-        "QuantEntidades": null,
-        "RHBombeiros": null,
-        "RHFEPC": null,
-        "RHUEPS": null,
-        "RHGNR": null,
-        "RHPSP": null,
-        "RHESF": null,
-        "RHFA": null,
-        "RHINEM": null,
-        "RHOutros": null,
-        "NumeroOperacionaisTerrestresEnv": null,
-        "Operacionais": 0,
-        "NumeroOperacionaisAereosEnvolvi": null,
-        "RTBombeiros": null,
-        "RTFEPC": null,
-        "RTUEPS": null,
-        "RTGNR": null,
-        "RTPSP": null,
-        "RTESF": null,
-        "RTFA": null,
-        "RTINEM": null,
-        "RTOutros": null,
-        "NumeroMeiosTerrestresEnvolvidos": 0,
-        "GruposReforco": null,
-        "HELigeiro": null,
-        "HEPesado": null,
-        "HECoordenacao": null,
-        "HEOutro": null,
-        "AVMedio": null,
-        "AVPesado": null,
-        "AVReconhecimento": null,
-        "AVOutro": null,
-        "NumeroMeiosAereosEnvolvidos": 0,
-        "Latitude": 38.805813,
-        "Longitude": -9.387899,
-        "DDD": null,
-        "DMM": null,
-        "DMS": null,
-        "DataDosDados": 1691034638000,
-        "Simbol": "91 - Em Conclusão",
-        "Status": 0,
-        "Obs": null,
-        "NumeroMeiosAquaticos": 0
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 578944,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.403949000027176,
-          40.40661700042119
-        ]
-      },
-      "properties": {
-        "OBJECTID": 578944,
-        "ID_oc": 22442532,
-        "Numero": 20230937800,
-        "Ano": null,
-        "DataInicioOcorrencia": "2023-08-03T01:58:00",
-        "DataOcorrencia": 1691024280000,
-        "Data": 1691024280000,
-        "Hora": null,
-        "Duracao": null,
-        "DuracaoMinutos": null,
-        "FaseIncendio": null,
-        "GrupoOc": null,
-        "GrupoOc_ID": null,
-        "CodNatureza": 2407,
-        "IDFamilia": null,
-        "Familia": null,
-        "IDEspecie": null,
-        "Especie": null,
-        "IDTipo": null,
-        "Tipo": null,
-        "Natureza": "Despiste",
-        "CodImportancia": null,
-        "Importancia": null,
-        "CodEstadoOcorrencia": null,
-        "EstadoOcorrencia": "Conclusão",
-        "EstadoAgrupado": "Em Conclusão",
-        "CREPC_ID": null,
-        "CSREPC": "Beiras e Serra da Estrela",
-        "CSREPC_ID": null,
-        "CREPC": "Centro",
-        "DI": null,
-        "Distrito": null,
-        "NUT_III": null,
-        "CIM": null,
-        "DICO": null,
-        "Concelho": "Guarda",
-        "DICOFRE": null,
-        "Freguesia": "Valhelhas",
-        "Localidade": "Valhelhas",
-        "Endereco": null,
-        "EntidadeResponsavel": null,
-        "EntidadeGestora": null,
-        "PCO": null,
-        "COS": null,
-        "UltimoPOSIT": null,
-        "QuantEntidades": null,
-        "RHBombeiros": null,
-        "RHFEPC": null,
-        "RHUEPS": null,
-        "RHGNR": null,
-        "RHPSP": null,
-        "RHESF": null,
-        "RHFA": null,
-        "RHINEM": null,
-        "RHOutros": null,
-        "NumeroOperacionaisTerrestresEnv": null,
-        "Operacionais": 9,
-        "NumeroOperacionaisAereosEnvolvi": null,
-        "RTBombeiros": null,
-        "RTFEPC": null,
-        "RTUEPS": null,
-        "RTGNR": null,
-        "RTPSP": null,
-        "RTESF": null,
-        "RTFA": null,
-        "RTINEM": null,
-        "RTOutros": null,
-        "NumeroMeiosTerrestresEnvolvidos": 3,
-        "GruposReforco": null,
-        "HELigeiro": null,
-        "HEPesado": null,
-        "HECoordenacao": null,
-        "HEOutro": null,
-        "AVMedio": null,
-        "AVPesado": null,
-        "AVReconhecimento": null,
-        "AVOutro": null,
-        "NumeroMeiosAereosEnvolvidos": 0,
-        "Latitude": 40.406617,
-        "Longitude": -7.403949,
-        "DDD": null,
-        "DMM": null,
-        "DMS": null,
-        "DataDosDados": 1691034638000,
-        "Simbol": "24 - Em Conclusão",
-        "Status": 0,
-        "Obs": null,
-        "NumeroMeiosAquaticos": 0
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 578945,
+      "id": 578974,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -315,7 +12,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 578945,
+        "OBJECTID": 578974,
         "ID_oc": 22395719,
         "Numero": 20230891001,
         "Ano": null,
@@ -398,7 +95,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1691034638000,
+        "DataDosDados": 1691034939000,
         "Simbol": "91 - Em Curso",
         "Status": 0,
         "Obs": null,
@@ -407,7 +104,7 @@
     },
     {
       "type": "Feature",
-      "id": 578946,
+      "id": 578975,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -416,7 +113,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 578946,
+        "OBJECTID": 578975,
         "ID_oc": 22396989,
         "Numero": 20230892271,
         "Ano": null,
@@ -499,7 +196,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1691034638000,
+        "DataDosDados": 1691034939000,
         "Simbol": "91 - Em Despacho",
         "Status": 0,
         "Obs": null,
@@ -508,7 +205,7 @@
     },
     {
       "type": "Feature",
-      "id": 578947,
+      "id": 578976,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -517,7 +214,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 578947,
+        "OBJECTID": 578976,
         "ID_oc": 22397132,
         "Numero": 20230892414,
         "Ano": null,
@@ -600,7 +297,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1691034638000,
+        "DataDosDados": 1691034939000,
         "Simbol": "91 - Em Despacho",
         "Status": 0,
         "Obs": null,
@@ -609,7 +306,7 @@
     },
     {
       "type": "Feature",
-      "id": 578948,
+      "id": 578977,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -618,7 +315,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 578948,
+        "OBJECTID": 578977,
         "ID_oc": 22397148,
         "Numero": 20230892430,
         "Ano": null,
@@ -701,7 +398,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1691034638000,
+        "DataDosDados": 1691034939000,
         "Simbol": "91 - Em Despacho",
         "Status": 0,
         "Obs": null,
@@ -710,7 +407,7 @@
     },
     {
       "type": "Feature",
-      "id": 578949,
+      "id": 578978,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -719,7 +416,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 578949,
+        "OBJECTID": 578978,
         "ID_oc": 22431576,
         "Numero": 20230926844,
         "Ano": null,
@@ -802,7 +499,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1691034638000,
+        "DataDosDados": 1691034939000,
         "Simbol": "91 - Em Conclusão",
         "Status": 0,
         "Obs": null,
@@ -811,7 +508,7 @@
     },
     {
       "type": "Feature",
-      "id": 578950,
+      "id": 578979,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -820,7 +517,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 578950,
+        "OBJECTID": 578979,
         "ID_oc": 22431601,
         "Numero": 20230926869,
         "Ano": null,
@@ -903,7 +600,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1691034638000,
+        "DataDosDados": 1691034939000,
         "Simbol": "91 - Em Conclusão",
         "Status": 0,
         "Obs": null,
@@ -912,7 +609,7 @@
     },
     {
       "type": "Feature",
-      "id": 578951,
+      "id": 578980,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -921,7 +618,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 578951,
+        "OBJECTID": 578980,
         "ID_oc": 22431617,
         "Numero": 20230926885,
         "Ano": null,
@@ -1004,7 +701,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1691034638000,
+        "DataDosDados": 1691034939000,
         "Simbol": "91 - Em Conclusão",
         "Status": 0,
         "Obs": null,
@@ -1013,7 +710,7 @@
     },
     {
       "type": "Feature",
-      "id": 578952,
+      "id": 578981,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1022,7 +719,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 578952,
+        "OBJECTID": 578981,
         "ID_oc": 22431633,
         "Numero": 20230926901,
         "Ano": null,
@@ -1105,7 +802,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1691034638000,
+        "DataDosDados": 1691034939000,
         "Simbol": "91 - Em Conclusão",
         "Status": 0,
         "Obs": null,
@@ -1114,7 +811,7 @@
     },
     {
       "type": "Feature",
-      "id": 578953,
+      "id": 578982,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1123,7 +820,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 578953,
+        "OBJECTID": 578982,
         "ID_oc": 22431644,
         "Numero": 20230926912,
         "Ano": null,
@@ -1206,7 +903,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1691034638000,
+        "DataDosDados": 1691034939000,
         "Simbol": "91 - Em Conclusão",
         "Status": 0,
         "Obs": null,
@@ -1215,7 +912,7 @@
     },
     {
       "type": "Feature",
-      "id": 578954,
+      "id": 578983,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1224,7 +921,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 578954,
+        "OBJECTID": 578983,
         "ID_oc": 22431992,
         "Numero": 20230927260,
         "Ano": null,
@@ -1307,7 +1004,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1691034638000,
+        "DataDosDados": 1691034939000,
         "Simbol": "91 - Em Conclusão",
         "Status": 0,
         "Obs": null,
@@ -1316,7 +1013,7 @@
     },
     {
       "type": "Feature",
-      "id": 578955,
+      "id": 578984,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1325,7 +1022,310 @@
         ]
       },
       "properties": {
-        "OBJECTID": 578955,
+        "OBJECTID": 578984,
+        "ID_oc": 22397149,
+        "Numero": 20230892431,
+        "Ano": null,
+        "DataInicioOcorrencia": "2023-07-24T09:30:00",
+        "DataOcorrencia": 1690187400000,
+        "Data": 1690187400000,
+        "Hora": null,
+        "Duracao": null,
+        "DuracaoMinutos": null,
+        "FaseIncendio": null,
+        "GrupoOc": null,
+        "GrupoOc_ID": null,
+        "CodNatureza": 9115,
+        "IDFamilia": null,
+        "Familia": null,
+        "IDEspecie": null,
+        "Especie": null,
+        "IDTipo": null,
+        "Tipo": null,
+        "Natureza": "Operações Nacionais de Assistência",
+        "CodImportancia": null,
+        "Importancia": null,
+        "CodEstadoOcorrencia": null,
+        "EstadoOcorrencia": "Despacho de 1.º Alerta",
+        "EstadoAgrupado": "Em Despacho",
+        "CREPC_ID": null,
+        "CSREPC": "Médio Tejo",
+        "CSREPC_ID": null,
+        "CREPC": "Lisboa e Vale do Tejo",
+        "DI": null,
+        "Distrito": null,
+        "NUT_III": null,
+        "CIM": null,
+        "DICO": null,
+        "Concelho": "Ourém",
+        "DICOFRE": null,
+        "Freguesia": "Fátima",
+        "Localidade": "DEOS JMJ 2023 - Fátima",
+        "Endereco": null,
+        "EntidadeResponsavel": null,
+        "EntidadeGestora": null,
+        "PCO": null,
+        "COS": null,
+        "UltimoPOSIT": null,
+        "QuantEntidades": null,
+        "RHBombeiros": null,
+        "RHFEPC": null,
+        "RHUEPS": null,
+        "RHGNR": null,
+        "RHPSP": null,
+        "RHESF": null,
+        "RHFA": null,
+        "RHINEM": null,
+        "RHOutros": null,
+        "NumeroOperacionaisTerrestresEnv": null,
+        "Operacionais": 4,
+        "NumeroOperacionaisAereosEnvolvi": null,
+        "RTBombeiros": null,
+        "RTFEPC": null,
+        "RTUEPS": null,
+        "RTGNR": null,
+        "RTPSP": null,
+        "RTESF": null,
+        "RTFA": null,
+        "RTINEM": null,
+        "RTOutros": null,
+        "NumeroMeiosTerrestresEnvolvidos": 2,
+        "GruposReforco": null,
+        "HELigeiro": null,
+        "HEPesado": null,
+        "HECoordenacao": null,
+        "HEOutro": null,
+        "AVMedio": null,
+        "AVPesado": null,
+        "AVReconhecimento": null,
+        "AVOutro": null,
+        "NumeroMeiosAereosEnvolvidos": 0,
+        "Latitude": 39.593976,
+        "Longitude": -8.646635,
+        "DDD": null,
+        "DMM": null,
+        "DMS": null,
+        "DataDosDados": 1691034939000,
+        "Simbol": "91 - Em Despacho",
+        "Status": 0,
+        "Obs": null,
+        "NumeroMeiosAquaticos": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 578985,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.387898999914983,
+          38.80581300043283
+        ]
+      },
+      "properties": {
+        "OBJECTID": 578985,
+        "ID_oc": 22432018,
+        "Numero": 20230927286,
+        "Ano": null,
+        "DataInicioOcorrencia": "2023-07-31T19:00:00",
+        "DataOcorrencia": 1690826400000,
+        "Data": 1690826400000,
+        "Hora": null,
+        "Duracao": null,
+        "DuracaoMinutos": null,
+        "FaseIncendio": null,
+        "GrupoOc": null,
+        "GrupoOc_ID": null,
+        "CodNatureza": 9115,
+        "IDFamilia": null,
+        "Familia": null,
+        "IDEspecie": null,
+        "Especie": null,
+        "IDTipo": null,
+        "Tipo": null,
+        "Natureza": "Operações Nacionais de Assistência",
+        "CodImportancia": null,
+        "Importancia": null,
+        "CodEstadoOcorrencia": null,
+        "EstadoOcorrencia": "Vigilância",
+        "EstadoAgrupado": "Em Conclusão",
+        "CREPC_ID": null,
+        "CSREPC": "Grande Lisboa",
+        "CSREPC_ID": null,
+        "CREPC": "Lisboa e Vale do Tejo",
+        "DI": null,
+        "Distrito": null,
+        "NUT_III": null,
+        "CIM": null,
+        "DICO": null,
+        "Concelho": "Sintra",
+        "DICOFRE": null,
+        "Freguesia": "S.maria, S.miguel, S.martinho, S.pedro Penaferrim",
+        "Localidade": "SINTRA",
+        "Endereco": null,
+        "EntidadeResponsavel": null,
+        "EntidadeGestora": null,
+        "PCO": null,
+        "COS": null,
+        "UltimoPOSIT": null,
+        "QuantEntidades": null,
+        "RHBombeiros": null,
+        "RHFEPC": null,
+        "RHUEPS": null,
+        "RHGNR": null,
+        "RHPSP": null,
+        "RHESF": null,
+        "RHFA": null,
+        "RHINEM": null,
+        "RHOutros": null,
+        "NumeroOperacionaisTerrestresEnv": null,
+        "Operacionais": 0,
+        "NumeroOperacionaisAereosEnvolvi": null,
+        "RTBombeiros": null,
+        "RTFEPC": null,
+        "RTUEPS": null,
+        "RTGNR": null,
+        "RTPSP": null,
+        "RTESF": null,
+        "RTFA": null,
+        "RTINEM": null,
+        "RTOutros": null,
+        "NumeroMeiosTerrestresEnvolvidos": 0,
+        "GruposReforco": null,
+        "HELigeiro": null,
+        "HEPesado": null,
+        "HECoordenacao": null,
+        "HEOutro": null,
+        "AVMedio": null,
+        "AVPesado": null,
+        "AVReconhecimento": null,
+        "AVOutro": null,
+        "NumeroMeiosAereosEnvolvidos": 0,
+        "Latitude": 38.805813,
+        "Longitude": -9.387899,
+        "DDD": null,
+        "DMM": null,
+        "DMS": null,
+        "DataDosDados": 1691034939000,
+        "Simbol": "91 - Em Conclusão",
+        "Status": 0,
+        "Obs": null,
+        "NumeroMeiosAquaticos": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 578986,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.403949000027176,
+          40.40661700042119
+        ]
+      },
+      "properties": {
+        "OBJECTID": 578986,
+        "ID_oc": 22442532,
+        "Numero": 20230937800,
+        "Ano": null,
+        "DataInicioOcorrencia": "2023-08-03T01:58:00",
+        "DataOcorrencia": 1691024280000,
+        "Data": 1691024280000,
+        "Hora": null,
+        "Duracao": null,
+        "DuracaoMinutos": null,
+        "FaseIncendio": null,
+        "GrupoOc": null,
+        "GrupoOc_ID": null,
+        "CodNatureza": 2407,
+        "IDFamilia": null,
+        "Familia": null,
+        "IDEspecie": null,
+        "Especie": null,
+        "IDTipo": null,
+        "Tipo": null,
+        "Natureza": "Despiste",
+        "CodImportancia": null,
+        "Importancia": null,
+        "CodEstadoOcorrencia": null,
+        "EstadoOcorrencia": "Conclusão",
+        "EstadoAgrupado": "Em Conclusão",
+        "CREPC_ID": null,
+        "CSREPC": "Beiras e Serra da Estrela",
+        "CSREPC_ID": null,
+        "CREPC": "Centro",
+        "DI": null,
+        "Distrito": null,
+        "NUT_III": null,
+        "CIM": null,
+        "DICO": null,
+        "Concelho": "Guarda",
+        "DICOFRE": null,
+        "Freguesia": "Valhelhas",
+        "Localidade": "Valhelhas",
+        "Endereco": null,
+        "EntidadeResponsavel": null,
+        "EntidadeGestora": null,
+        "PCO": null,
+        "COS": null,
+        "UltimoPOSIT": null,
+        "QuantEntidades": null,
+        "RHBombeiros": null,
+        "RHFEPC": null,
+        "RHUEPS": null,
+        "RHGNR": null,
+        "RHPSP": null,
+        "RHESF": null,
+        "RHFA": null,
+        "RHINEM": null,
+        "RHOutros": null,
+        "NumeroOperacionaisTerrestresEnv": null,
+        "Operacionais": 9,
+        "NumeroOperacionaisAereosEnvolvi": null,
+        "RTBombeiros": null,
+        "RTFEPC": null,
+        "RTUEPS": null,
+        "RTGNR": null,
+        "RTPSP": null,
+        "RTESF": null,
+        "RTFA": null,
+        "RTINEM": null,
+        "RTOutros": null,
+        "NumeroMeiosTerrestresEnvolvidos": 3,
+        "GruposReforco": null,
+        "HELigeiro": null,
+        "HEPesado": null,
+        "HECoordenacao": null,
+        "HEOutro": null,
+        "AVMedio": null,
+        "AVPesado": null,
+        "AVReconhecimento": null,
+        "AVOutro": null,
+        "NumeroMeiosAereosEnvolvidos": 0,
+        "Latitude": 40.406617,
+        "Longitude": -7.403949,
+        "DDD": null,
+        "DMM": null,
+        "DMS": null,
+        "DataDosDados": 1691034939000,
+        "Simbol": "24 - Em Conclusão",
+        "Status": 0,
+        "Obs": null,
+        "NumeroMeiosAquaticos": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 578987,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.646635000224691,
+          39.593976000107645
+        ]
+      },
+      "properties": {
+        "OBJECTID": 578987,
         "ID_oc": 22396976,
         "Numero": 20230892258,
         "Ano": null,
@@ -1408,7 +1408,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1691034638000,
+        "DataDosDados": 1691034939000,
         "Simbol": "91 - Em Despacho",
         "Status": 0,
         "Obs": null,
@@ -1417,7 +1417,7 @@
     },
     {
       "type": "Feature",
-      "id": 578956,
+      "id": 578988,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1426,7 +1426,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 578956,
+        "OBJECTID": 578988,
         "ID_oc": 22397160,
         "Numero": 20230892442,
         "Ano": null,
@@ -1509,7 +1509,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1691034638000,
+        "DataDosDados": 1691034939000,
         "Simbol": "91 - Em Despacho",
         "Status": 0,
         "Obs": null,
@@ -1518,7 +1518,7 @@
     },
     {
       "type": "Feature",
-      "id": 578957,
+      "id": 578989,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1527,7 +1527,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 578957,
+        "OBJECTID": 578989,
         "ID_oc": 22401287,
         "Numero": 20230896569,
         "Ano": null,
@@ -1610,7 +1610,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1691034638000,
+        "DataDosDados": 1691034939000,
         "Simbol": "91 - Em Despacho",
         "Status": 0,
         "Obs": null,
@@ -1619,7 +1619,7 @@
     },
     {
       "type": "Feature",
-      "id": 578958,
+      "id": 578990,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1628,7 +1628,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 578958,
+        "OBJECTID": 578990,
         "ID_oc": 22410313,
         "Numero": 20230905581,
         "Ano": null,
@@ -1711,7 +1711,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1691034638000,
+        "DataDosDados": 1691034939000,
         "Simbol": "91 - Em Despacho",
         "Status": 0,
         "Obs": null,
@@ -1720,7 +1720,7 @@
     },
     {
       "type": "Feature",
-      "id": 578959,
+      "id": 578991,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1729,7 +1729,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 578959,
+        "OBJECTID": 578991,
         "ID_oc": 22429951,
         "Numero": 20230925219,
         "Ano": null,
@@ -1812,7 +1812,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1691034638000,
+        "DataDosDados": 1691034939000,
         "Simbol": "91 - Em Curso",
         "Status": 0,
         "Obs": null,
@@ -1821,7 +1821,7 @@
     },
     {
       "type": "Feature",
-      "id": 578960,
+      "id": 578992,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1830,7 +1830,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 578960,
+        "OBJECTID": 578992,
         "ID_oc": 22431640,
         "Numero": 20230926908,
         "Ano": null,
@@ -1913,7 +1913,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1691034638000,
+        "DataDosDados": 1691034939000,
         "Simbol": "91 - Em Conclusão",
         "Status": 0,
         "Obs": null,
@@ -1922,7 +1922,7 @@
     },
     {
       "type": "Feature",
-      "id": 578961,
+      "id": 578993,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1931,7 +1931,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 578961,
+        "OBJECTID": 578993,
         "ID_oc": 22419913,
         "Numero": 20230915181,
         "Ano": null,
@@ -2014,7 +2014,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1691034638000,
+        "DataDosDados": 1691034939000,
         "Simbol": "91 - Em Despacho",
         "Status": 0,
         "Obs": null,
@@ -2023,7 +2023,7 @@
     },
     {
       "type": "Feature",
-      "id": 578962,
+      "id": 578994,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2032,7 +2032,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 578962,
+        "OBJECTID": 578994,
         "ID_oc": 22425665,
         "Numero": 20230920933,
         "Ano": null,
@@ -2115,7 +2115,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1691034638000,
+        "DataDosDados": 1691034939000,
         "Simbol": "91 - Em Curso",
         "Status": 0,
         "Obs": null,
@@ -2124,7 +2124,7 @@
     },
     {
       "type": "Feature",
-      "id": 578963,
+      "id": 578995,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2133,7 +2133,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 578963,
+        "OBJECTID": 578995,
         "ID_oc": 22431581,
         "Numero": 20230926849,
         "Ano": null,
@@ -2216,7 +2216,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1691034638000,
+        "DataDosDados": 1691034939000,
         "Simbol": "91 - Em Conclusão",
         "Status": 0,
         "Obs": null,
@@ -2225,7 +2225,7 @@
     },
     {
       "type": "Feature",
-      "id": 578964,
+      "id": 578996,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2234,7 +2234,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 578964,
+        "OBJECTID": 578996,
         "ID_oc": 22431595,
         "Numero": 20230926863,
         "Ano": null,
@@ -2317,7 +2317,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1691034638000,
+        "DataDosDados": 1691034939000,
         "Simbol": "91 - Em Conclusão",
         "Status": 0,
         "Obs": null,
@@ -2326,7 +2326,7 @@
     },
     {
       "type": "Feature",
-      "id": 578965,
+      "id": 578997,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2335,7 +2335,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 578965,
+        "OBJECTID": 578997,
         "ID_oc": 22431613,
         "Numero": 20230926881,
         "Ano": null,
@@ -2418,7 +2418,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1691034638000,
+        "DataDosDados": 1691034939000,
         "Simbol": "91 - Em Conclusão",
         "Status": 0,
         "Obs": null,
@@ -2427,7 +2427,7 @@
     },
     {
       "type": "Feature",
-      "id": 578966,
+      "id": 578998,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2436,7 +2436,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 578966,
+        "OBJECTID": 578998,
         "ID_oc": 22433968,
         "Numero": 20230929236,
         "Ano": null,
@@ -2519,7 +2519,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1691034638000,
+        "DataDosDados": 1691034939000,
         "Simbol": "91 - Em Despacho",
         "Status": 0,
         "Obs": null,
@@ -2528,7 +2528,7 @@
     },
     {
       "type": "Feature",
-      "id": 578967,
+      "id": 578999,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2537,7 +2537,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 578967,
+        "OBJECTID": 578999,
         "ID_oc": 22434888,
         "Numero": 20230930156,
         "Ano": null,
@@ -2620,7 +2620,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1691034638000,
+        "DataDosDados": 1691034939000,
         "Simbol": "91 - Em Conclusão",
         "Status": 0,
         "Obs": null,
@@ -2629,7 +2629,7 @@
     },
     {
       "type": "Feature",
-      "id": 578968,
+      "id": 579000,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2638,7 +2638,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 578968,
+        "OBJECTID": 579000,
         "ID_oc": 22442174,
         "Numero": 20230937442,
         "Ano": null,
@@ -2721,7 +2721,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1691034638000,
+        "DataDosDados": 1691034939000,
         "Simbol": "33 - Em Curso",
         "Status": 0,
         "Obs": null,
@@ -2730,7 +2730,7 @@
     },
     {
       "type": "Feature",
-      "id": 578969,
+      "id": 579001,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2739,7 +2739,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 578969,
+        "OBJECTID": 579001,
         "ID_oc": 22442428,
         "Numero": 20230937696,
         "Ano": null,
@@ -2822,7 +2822,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1691034638000,
+        "DataDosDados": 1691034939000,
         "Simbol": "21 - Em Despacho",
         "Status": 0,
         "Obs": null,
@@ -2831,7 +2831,7 @@
     },
     {
       "type": "Feature",
-      "id": 578970,
+      "id": 579002,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2840,7 +2840,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 578970,
+        "OBJECTID": 579002,
         "ID_oc": 22442676,
         "Numero": 20230937944,
         "Ano": null,
@@ -2923,7 +2923,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1691034638000,
+        "DataDosDados": 1691034939000,
         "Simbol": "22 - Em Despacho",
         "Status": 0,
         "Obs": null,
@@ -2932,7 +2932,7 @@
     },
     {
       "type": "Feature",
-      "id": 578971,
+      "id": 579003,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2941,7 +2941,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 578971,
+        "OBJECTID": 579003,
         "ID_oc": 22432012,
         "Numero": 20230927280,
         "Ano": null,
@@ -3024,7 +3024,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1691034638000,
+        "DataDosDados": 1691034939000,
         "Simbol": "91 - Em Conclusão",
         "Status": 0,
         "Obs": null,
@@ -3033,7 +3033,7 @@
     },
     {
       "type": "Feature",
-      "id": 578972,
+      "id": 579004,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -3042,7 +3042,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 578972,
+        "OBJECTID": 579004,
         "ID_oc": 22442590,
         "Numero": 20230937858,
         "Ano": null,
@@ -3125,7 +3125,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1691034638000,
+        "DataDosDados": 1691034939000,
         "Simbol": "23 - Em Curso",
         "Status": 0,
         "Obs": null,
@@ -3134,7 +3134,7 @@
     },
     {
       "type": "Feature",
-      "id": 578973,
+      "id": 579005,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -3143,7 +3143,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 578973,
+        "OBJECTID": 579005,
         "ID_oc": 22442604,
         "Numero": 20230937872,
         "Ano": null,
@@ -3226,7 +3226,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1691034638000,
+        "DataDosDados": 1691034939000,
         "Simbol": "31 - Em Conclusão",
         "Status": 0,
         "Obs": null,
