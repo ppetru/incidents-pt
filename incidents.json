@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1013743,
+      "id": 1016547,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -12,12 +12,12 @@
         ]
       },
       "properties": {
-        "OBJECTID": 1013743,
+        "OBJECTID": 1016547,
         "ID_oc": 22615132,
         "Numero": 20231108619,
         "Ano": null,
         "DataInicioOcorrencia": "2023-09-07T15:09:00",
-        "DataOcorrencia": 1694099340000,
+        "DataOcorrencia": 1694095740000,
         "Data": 1694095740000,
         "Hora": null,
         "Duracao": null,
@@ -95,7 +95,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1694230539000,
+        "DataDosDados": 1694230838000,
         "Simbol": "31 - Em Conclusão",
         "Status": 0,
         "Obs": null,
@@ -104,7 +104,7 @@
     },
     {
       "type": "Feature",
-      "id": 1013744,
+      "id": 1016548,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -113,7 +113,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 1013744,
+        "OBJECTID": 1016548,
         "ID_oc": 22621015,
         "Numero": 20231114501,
         "Ano": null,
@@ -196,7 +196,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1694230539000,
+        "DataDosDados": 1694230838000,
         "Simbol": "24 - Em Conclusão",
         "Status": 0,
         "Obs": null,
@@ -205,7 +205,108 @@
     },
     {
       "type": "Feature",
-      "id": 1013745,
+      "id": 1016549,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.097627000348552,
+          38.792358999905545
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1016549,
+        "ID_oc": 22621935,
+        "Numero": 20231115421,
+        "Ano": null,
+        "DataInicioOcorrencia": "2023-09-09T04:31:00",
+        "DataOcorrencia": 1694230260000,
+        "Data": 1694230260000,
+        "Hora": null,
+        "Duracao": null,
+        "DuracaoMinutos": null,
+        "FaseIncendio": null,
+        "GrupoOc": null,
+        "GrupoOc_ID": null,
+        "CodNatureza": 2101,
+        "IDFamilia": null,
+        "Familia": null,
+        "IDEspecie": null,
+        "Especie": null,
+        "IDTipo": null,
+        "Tipo": null,
+        "Natureza": "Habitacional",
+        "CodImportancia": null,
+        "Importancia": null,
+        "CodEstadoOcorrencia": null,
+        "EstadoOcorrencia": "Despacho",
+        "EstadoAgrupado": "Em Despacho",
+        "CREPC_ID": null,
+        "CSREPC": "Grande Lisboa",
+        "CSREPC_ID": null,
+        "CREPC": "Lisboa e Vale do Tejo",
+        "DI": null,
+        "Distrito": null,
+        "NUT_III": null,
+        "CIM": null,
+        "DICO": null,
+        "Concelho": "Loures",
+        "DICOFRE": null,
+        "Freguesia": "Sacavém e Prior Velho",
+        "Localidade": "SACAVÉM",
+        "Endereco": null,
+        "EntidadeResponsavel": null,
+        "EntidadeGestora": null,
+        "PCO": null,
+        "COS": null,
+        "UltimoPOSIT": null,
+        "QuantEntidades": null,
+        "RHBombeiros": null,
+        "RHFEPC": null,
+        "RHUEPS": null,
+        "RHGNR": null,
+        "RHPSP": null,
+        "RHESF": null,
+        "RHFA": null,
+        "RHINEM": null,
+        "RHOutros": null,
+        "NumeroOperacionaisTerrestresEnv": null,
+        "Operacionais": 0,
+        "NumeroOperacionaisAereosEnvolvi": null,
+        "RTBombeiros": null,
+        "RTFEPC": null,
+        "RTUEPS": null,
+        "RTGNR": null,
+        "RTPSP": null,
+        "RTESF": null,
+        "RTFA": null,
+        "RTINEM": null,
+        "RTOutros": null,
+        "NumeroMeiosTerrestresEnvolvidos": 0,
+        "GruposReforco": null,
+        "HELigeiro": null,
+        "HEPesado": null,
+        "HECoordenacao": null,
+        "HEOutro": null,
+        "AVMedio": null,
+        "AVPesado": null,
+        "AVReconhecimento": null,
+        "AVOutro": null,
+        "NumeroMeiosAereosEnvolvidos": 0,
+        "Latitude": 38.792359,
+        "Longitude": -9.097627,
+        "DDD": null,
+        "DMM": null,
+        "DMS": null,
+        "DataDosDados": 1694230838000,
+        "Simbol": "21 - Em Despacho",
+        "Status": 0,
+        "Obs": null,
+        "NumeroMeiosAquaticos": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1016550,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -214,7 +315,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 1013745,
+        "OBJECTID": 1016550,
         "ID_oc": 22621936,
         "Numero": 20231115422,
         "Ano": null,
@@ -297,7 +398,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1694230539000,
+        "DataDosDados": 1694230838000,
         "Simbol": "33 - Em Despacho",
         "Status": 0,
         "Obs": null,
@@ -306,7 +407,7 @@
     },
     {
       "type": "Feature",
-      "id": 1013746,
+      "id": 1016551,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -315,12 +416,12 @@
         ]
       },
       "properties": {
-        "OBJECTID": 1013746,
+        "OBJECTID": 1016551,
         "ID_oc": 22615176,
         "Numero": 20231108663,
         "Ano": null,
         "DataInicioOcorrencia": "2023-09-07T15:19:00",
-        "DataOcorrencia": 1694099940000,
+        "DataOcorrencia": 1694096340000,
         "Data": 1694096340000,
         "Hora": null,
         "Duracao": null,
@@ -398,7 +499,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1694230539000,
+        "DataDosDados": 1694230838000,
         "Simbol": "31 - Em Conclusão",
         "Status": 0,
         "Obs": null,
@@ -407,16 +508,16 @@
     },
     {
       "type": "Feature",
-      "id": 1013747,
+      "id": 1016552,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.067338999502099,
-          39.01938999968743
+          -7.069761999529097,
+          39.01156199959775
         ]
       },
       "properties": {
-        "OBJECTID": 1013747,
+        "OBJECTID": 1016552,
         "ID_oc": 22621927,
         "Numero": 20231115413,
         "Ano": null,
@@ -453,7 +554,7 @@
         "DICO": null,
         "Concelho": "Campo Maior",
         "DICOFRE": null,
-        "Freguesia": "São João Baptista",
+        "Freguesia": "Nossa Senhora da Expectação",
         "Localidade": "CAMPO MAIOR",
         "Endereco": null,
         "EntidadeResponsavel": null,
@@ -494,12 +595,12 @@
         "AVReconhecimento": null,
         "AVOutro": null,
         "NumeroMeiosAereosEnvolvidos": 0,
-        "Latitude": 39.01939,
-        "Longitude": -7.067339,
+        "Latitude": 39.011562,
+        "Longitude": -7.069762,
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1694230539000,
+        "DataDosDados": 1694230838000,
         "Simbol": "23 - Em Conclusão",
         "Status": 0,
         "Obs": null,
@@ -508,7 +609,7 @@
     },
     {
       "type": "Feature",
-      "id": 1013748,
+      "id": 1016553,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -517,12 +618,12 @@
         ]
       },
       "properties": {
-        "OBJECTID": 1013748,
+        "OBJECTID": 1016553,
         "ID_oc": 22619138,
         "Numero": 20231112625,
         "Ano": null,
         "DataInicioOcorrencia": "2023-09-08T13:37:00",
-        "DataOcorrencia": 1694180220000,
+        "DataOcorrencia": 1694176620000,
         "Data": 1694176620000,
         "Hora": null,
         "Duracao": null,
@@ -600,7 +701,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1694230539000,
+        "DataDosDados": 1694230838000,
         "Simbol": "31 - Em Conclusão",
         "Status": 0,
         "Obs": null,
@@ -609,7 +710,7 @@
     },
     {
       "type": "Feature",
-      "id": 1013749,
+      "id": 1016554,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -618,7 +719,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 1013749,
+        "OBJECTID": 1016554,
         "ID_oc": 22621596,
         "Numero": 20231115082,
         "Ano": null,
@@ -701,7 +802,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1694230539000,
+        "DataDosDados": 1694230838000,
         "Simbol": "24 - Em Resolução",
         "Status": 0,
         "Obs": null,
@@ -710,7 +811,7 @@
     },
     {
       "type": "Feature",
-      "id": 1013750,
+      "id": 1016555,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -719,7 +820,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 1013750,
+        "OBJECTID": 1016555,
         "ID_oc": 22621730,
         "Numero": 20231115216,
         "Ano": null,
@@ -802,7 +903,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1694230539000,
+        "DataDosDados": 1694230838000,
         "Simbol": "33 - Em Despacho",
         "Status": 0,
         "Obs": null,
@@ -811,7 +912,7 @@
     },
     {
       "type": "Feature",
-      "id": 1013751,
+      "id": 1016556,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -820,7 +921,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 1013751,
+        "OBJECTID": 1016556,
         "ID_oc": 22621773,
         "Numero": 20231115259,
         "Ano": null,
@@ -903,7 +1004,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1694230539000,
+        "DataDosDados": 1694230838000,
         "Simbol": "24 - Em Resolução",
         "Status": 0,
         "Obs": null,
@@ -912,7 +1013,7 @@
     },
     {
       "type": "Feature",
-      "id": 1013752,
+      "id": 1016557,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -921,7 +1022,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 1013752,
+        "OBJECTID": 1016557,
         "ID_oc": 22621857,
         "Numero": 20231115343,
         "Ano": null,
@@ -1004,7 +1105,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1694230539000,
+        "DataDosDados": 1694230838000,
         "Simbol": "24 - Em Despacho",
         "Status": 0,
         "Obs": null,
