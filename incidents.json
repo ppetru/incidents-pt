@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1067430,
+      "id": 1067442,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -12,12 +12,12 @@
         ]
       },
       "properties": {
-        "OBJECTID": 1067430,
+        "OBJECTID": 1067442,
         "ID_oc": 22661158,
         "Numero": 20231154643,
         "Ano": null,
         "DataInicioOcorrencia": "2023-09-18T06:33:00",
-        "DataOcorrencia": 1695015180000,
+        "DataOcorrencia": 1695018780000,
         "Data": 1695015180000,
         "Hora": null,
         "Duracao": null,
@@ -36,8 +36,8 @@
         "CodImportancia": null,
         "Importancia": null,
         "CodEstadoOcorrencia": null,
-        "EstadoOcorrencia": "Despacho de 1.º Alerta",
-        "EstadoAgrupado": "Em Despacho",
+        "EstadoOcorrencia": "Conclusão",
+        "EstadoAgrupado": "Em Conclusão",
         "CREPC_ID": null,
         "CSREPC": "Região de Coimbra",
         "CSREPC_ID": null,
@@ -95,8 +95,8 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1695017439000,
-        "Simbol": "31 - Em Despacho",
+        "DataDosDados": 1695018040000,
+        "Simbol": "31 - Em Conclusão",
         "Status": 0,
         "Obs": null,
         "NumeroMeiosAquaticos": 0
@@ -104,7 +104,7 @@
     },
     {
       "type": "Feature",
-      "id": 1067431,
+      "id": 1067443,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -113,7 +113,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 1067431,
+        "OBJECTID": 1067443,
         "ID_oc": 22661149,
         "Numero": 20231154634,
         "Ano": null,
@@ -196,7 +196,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1695017439000,
+        "DataDosDados": 1695018040000,
         "Simbol": "24 - Em Despacho",
         "Status": 0,
         "Obs": null,
@@ -205,16 +205,16 @@
     },
     {
       "type": "Feature",
-      "id": 1067432,
+      "id": 1067444,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.794947999462794,
-          39.16648100007947
+          -8.794197999905126,
+          39.15793799987029
         ]
       },
       "properties": {
-        "OBJECTID": 1067432,
+        "OBJECTID": 1067444,
         "ID_oc": 22661185,
         "Numero": 20231154670,
         "Ano": null,
@@ -238,8 +238,8 @@
         "CodImportancia": null,
         "Importancia": null,
         "CodEstadoOcorrencia": null,
-        "EstadoOcorrencia": "Despacho de 1.º Alerta",
-        "EstadoAgrupado": "Em Despacho",
+        "EstadoOcorrencia": "Em Curso",
+        "EstadoAgrupado": "Em Curso",
         "CREPC_ID": null,
         "CSREPC": "Lezíria do Tejo",
         "CSREPC_ID": null,
@@ -270,7 +270,7 @@
         "RHINEM": null,
         "RHOutros": null,
         "NumeroOperacionaisTerrestresEnv": null,
-        "Operacionais": 9,
+        "Operacionais": 11,
         "NumeroOperacionaisAereosEnvolvi": null,
         "RTBombeiros": null,
         "RTFEPC": null,
@@ -281,7 +281,7 @@
         "RTFA": null,
         "RTINEM": null,
         "RTOutros": null,
-        "NumeroMeiosTerrestresEnvolvidos": 3,
+        "NumeroMeiosTerrestresEnvolvidos": 4,
         "GruposReforco": null,
         "HELigeiro": null,
         "HEPesado": null,
@@ -292,13 +292,13 @@
         "AVReconhecimento": null,
         "AVOutro": null,
         "NumeroMeiosAereosEnvolvidos": 0,
-        "Latitude": 39.166481,
-        "Longitude": -8.794948,
+        "Latitude": 39.157938,
+        "Longitude": -8.794198,
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1695017439000,
-        "Simbol": "25 - Em Despacho",
+        "DataDosDados": 1695018040000,
+        "Simbol": "25 - Em Curso",
         "Status": 0,
         "Obs": null,
         "NumeroMeiosAquaticos": 0
@@ -306,16 +306,16 @@
     },
     {
       "type": "Feature",
-      "id": 1067433,
+      "id": 1067445,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.376282000345435,
-          41.18171000000467
+          -8.376394999601105,
+          41.18154499995746
         ]
       },
       "properties": {
-        "OBJECTID": 1067433,
+        "OBJECTID": 1067445,
         "ID_oc": 22661146,
         "Numero": 20231154631,
         "Ano": null,
@@ -339,8 +339,8 @@
         "CodImportancia": null,
         "Importancia": null,
         "CodEstadoOcorrencia": null,
-        "EstadoOcorrencia": "Em Resolução",
-        "EstadoAgrupado": "Em Resolução",
+        "EstadoOcorrencia": "Em Curso",
+        "EstadoAgrupado": "Em Curso",
         "CREPC_ID": null,
         "CSREPC": "Area M. Porto",
         "CSREPC_ID": null,
@@ -371,7 +371,7 @@
         "RHINEM": null,
         "RHOutros": null,
         "NumeroOperacionaisTerrestresEnv": null,
-        "Operacionais": 17,
+        "Operacionais": 19,
         "NumeroOperacionaisAereosEnvolvi": null,
         "RTBombeiros": null,
         "RTFEPC": null,
@@ -382,7 +382,7 @@
         "RTFA": null,
         "RTINEM": null,
         "RTOutros": null,
-        "NumeroMeiosTerrestresEnvolvidos": 6,
+        "NumeroMeiosTerrestresEnvolvidos": 7,
         "GruposReforco": null,
         "HELigeiro": null,
         "HEPesado": null,
@@ -393,13 +393,13 @@
         "AVReconhecimento": null,
         "AVOutro": null,
         "NumeroMeiosAereosEnvolvidos": 0,
-        "Latitude": 41.18171,
-        "Longitude": -8.376282,
+        "Latitude": 41.181545,
+        "Longitude": -8.376395,
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1695017439000,
-        "Simbol": "24 - Em Resolução",
+        "DataDosDados": 1695018040000,
+        "Simbol": "24 - Em Curso",
         "Status": 0,
         "Obs": null,
         "NumeroMeiosAquaticos": 0
@@ -407,7 +407,7 @@
     },
     {
       "type": "Feature",
-      "id": 1067434,
+      "id": 1067446,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -416,7 +416,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 1067434,
+        "OBJECTID": 1067446,
         "ID_oc": 22661129,
         "Numero": 20231154614,
         "Ano": null,
@@ -499,7 +499,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1695017439000,
+        "DataDosDados": 1695018040000,
         "Simbol": "24 - Em Conclusão",
         "Status": 0,
         "Obs": null,
@@ -508,7 +508,7 @@
     },
     {
       "type": "Feature",
-      "id": 1067435,
+      "id": 1067447,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -517,7 +517,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 1067435,
+        "OBJECTID": 1067447,
         "ID_oc": 22661188,
         "Numero": 20231154673,
         "Ano": null,
@@ -541,8 +541,8 @@
         "CodImportancia": null,
         "Importancia": null,
         "CodEstadoOcorrencia": null,
-        "EstadoOcorrencia": "Despacho de 1.º Alerta",
-        "EstadoAgrupado": "Em Despacho",
+        "EstadoOcorrencia": "Em Curso",
+        "EstadoAgrupado": "Em Curso",
         "CREPC_ID": null,
         "CSREPC": "Região de Leiria",
         "CSREPC_ID": null,
@@ -600,8 +600,8 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1695017439000,
-        "Simbol": "24 - Em Despacho",
+        "DataDosDados": 1695018040000,
+        "Simbol": "24 - Em Curso",
         "Status": 0,
         "Obs": null,
         "NumeroMeiosAquaticos": 0
