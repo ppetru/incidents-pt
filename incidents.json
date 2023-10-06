@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1147692,
+      "id": 1147704,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -12,7 +12,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 1147692,
+        "OBJECTID": 1147704,
         "ID_oc": 22740641,
         "Numero": 20231234124,
         "Ano": null,
@@ -36,8 +36,8 @@
         "CodImportancia": null,
         "Importancia": null,
         "CodEstadoOcorrencia": null,
-        "EstadoOcorrencia": "Despacho de 1.º Alerta",
-        "EstadoAgrupado": "Em Despacho",
+        "EstadoOcorrencia": "Em Curso",
+        "EstadoAgrupado": "Em Curso",
         "CREPC_ID": null,
         "CSREPC": "Oeste",
         "CSREPC_ID": null,
@@ -68,7 +68,7 @@
         "RHINEM": null,
         "RHOutros": null,
         "NumeroOperacionaisTerrestresEnv": null,
-        "Operacionais": 6,
+        "Operacionais": 8,
         "NumeroOperacionaisAereosEnvolvi": null,
         "RTBombeiros": null,
         "RTFEPC": null,
@@ -79,7 +79,7 @@
         "RTFA": null,
         "RTINEM": null,
         "RTOutros": null,
-        "NumeroMeiosTerrestresEnvolvidos": 3,
+        "NumeroMeiosTerrestresEnvolvidos": 4,
         "GruposReforco": null,
         "HELigeiro": null,
         "HEPesado": null,
@@ -95,8 +95,8 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1696573547000,
-        "Simbol": "24 - Em Despacho",
+        "DataDosDados": 1696574147000,
+        "Simbol": "24 - Em Curso",
         "Status": 0,
         "Obs": null,
         "NumeroMeiosAquaticos": 0
@@ -104,7 +104,7 @@
     },
     {
       "type": "Feature",
-      "id": 1147693,
+      "id": 1147705,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -113,12 +113,12 @@
         ]
       },
       "properties": {
-        "OBJECTID": 1147693,
+        "OBJECTID": 1147705,
         "ID_oc": 22720686,
         "Numero": 20231214169,
         "Ano": null,
         "DataInicioOcorrencia": "2023-10-01T14:04:00",
-        "DataOcorrencia": 1696169040000,
+        "DataOcorrencia": 1696165440000,
         "Data": 1696165440000,
         "Hora": null,
         "Duracao": null,
@@ -196,7 +196,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1696573547000,
+        "DataDosDados": 1696574147000,
         "Simbol": "31 - Em Conclusão",
         "Status": 0,
         "Obs": null,
@@ -205,7 +205,7 @@
     },
     {
       "type": "Feature",
-      "id": 1147694,
+      "id": 1147706,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -214,7 +214,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 1147694,
+        "OBJECTID": 1147706,
         "ID_oc": 22740690,
         "Numero": 20231234173,
         "Ano": null,
@@ -297,7 +297,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1696573547000,
+        "DataDosDados": 1696574147000,
         "Simbol": "21 - Em Conclusão",
         "Status": 0,
         "Obs": null,
@@ -306,7 +306,7 @@
     },
     {
       "type": "Feature",
-      "id": 1147695,
+      "id": 1147707,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -315,7 +315,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 1147695,
+        "OBJECTID": 1147707,
         "ID_oc": 22737009,
         "Numero": 20231230492,
         "Ano": null,
@@ -371,7 +371,7 @@
         "RHINEM": null,
         "RHOutros": null,
         "NumeroOperacionaisTerrestresEnv": null,
-        "Operacionais": 140,
+        "Operacionais": 141,
         "NumeroOperacionaisAereosEnvolvi": null,
         "RTBombeiros": null,
         "RTFEPC": null,
@@ -382,7 +382,7 @@
         "RTFA": null,
         "RTINEM": null,
         "RTOutros": null,
-        "NumeroMeiosTerrestresEnvolvidos": 51,
+        "NumeroMeiosTerrestresEnvolvidos": 53,
         "GruposReforco": null,
         "HELigeiro": null,
         "HEPesado": null,
@@ -398,7 +398,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1696573547000,
+        "DataDosDados": 1696574147000,
         "Simbol": "21 - Em Curso",
         "Status": 0,
         "Obs": null,
@@ -407,7 +407,7 @@
     },
     {
       "type": "Feature",
-      "id": 1147696,
+      "id": 1147708,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -416,7 +416,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 1147696,
+        "OBJECTID": 1147708,
         "ID_oc": 22740617,
         "Numero": 20231234100,
         "Ano": null,
@@ -499,7 +499,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1696573547000,
+        "DataDosDados": 1696574147000,
         "Simbol": "21 - Em Conclusão",
         "Status": 0,
         "Obs": null,
@@ -508,7 +508,7 @@
     },
     {
       "type": "Feature",
-      "id": 1147697,
+      "id": 1147709,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -517,12 +517,12 @@
         ]
       },
       "properties": {
-        "OBJECTID": 1147697,
+        "OBJECTID": 1147709,
         "ID_oc": 22740734,
         "Numero": 20231234217,
         "Ano": null,
         "DataInicioOcorrencia": "2023-10-06T07:10:00",
-        "DataOcorrencia": 1696576200000,
+        "DataOcorrencia": 1696572600000,
         "Data": 1696572600000,
         "Hora": null,
         "Duracao": null,
@@ -541,7 +541,7 @@
         "CodImportancia": null,
         "Importancia": null,
         "CodEstadoOcorrencia": null,
-        "EstadoOcorrencia": "Despacho de 1.º Alerta",
+        "EstadoOcorrencia": "Chegada ao TO",
         "EstadoAgrupado": "Em Despacho",
         "CREPC_ID": null,
         "CSREPC": "Cávado",
@@ -573,7 +573,7 @@
         "RHINEM": null,
         "RHOutros": null,
         "NumeroOperacionaisTerrestresEnv": null,
-        "Operacionais": 18,
+        "Operacionais": 22,
         "NumeroOperacionaisAereosEnvolvi": null,
         "RTBombeiros": null,
         "RTFEPC": null,
@@ -584,7 +584,7 @@
         "RTFA": null,
         "RTINEM": null,
         "RTOutros": null,
-        "NumeroMeiosTerrestresEnvolvidos": 4,
+        "NumeroMeiosTerrestresEnvolvidos": 5,
         "GruposReforco": null,
         "HELigeiro": null,
         "HEPesado": null,
@@ -600,7 +600,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1696573547000,
+        "DataDosDados": 1696574147000,
         "Simbol": "31 - Em Despacho",
         "Status": 0,
         "Obs": null,
