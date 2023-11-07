@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1428853,
+      "id": 1428860,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -12,7 +12,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 1428853,
+        "OBJECTID": 1428860,
         "ID_oc": 22889441,
         "Numero": 20231382904,
         "Ano": null,
@@ -36,7 +36,7 @@
         "CodImportancia": null,
         "Importancia": null,
         "CodEstadoOcorrencia": null,
-        "EstadoOcorrencia": "Despacho de 1.º Alerta",
+        "EstadoOcorrencia": "Chegada ao TO",
         "EstadoAgrupado": "Em Despacho",
         "CREPC_ID": null,
         "CSREPC": "Algarve",
@@ -95,7 +95,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1699400747000,
+        "DataDosDados": 1699401040000,
         "Simbol": "31 - Em Despacho",
         "Status": 0,
         "Obs": null,
@@ -104,7 +104,7 @@
     },
     {
       "type": "Feature",
-      "id": 1428854,
+      "id": 1428861,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -113,7 +113,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 1428854,
+        "OBJECTID": 1428861,
         "ID_oc": 22889256,
         "Numero": 20231382719,
         "Ano": null,
@@ -196,7 +196,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1699400747000,
+        "DataDosDados": 1699401040000,
         "Simbol": "33 - Em Despacho",
         "Status": 0,
         "Obs": null,
@@ -205,16 +205,16 @@
     },
     {
       "type": "Feature",
-      "id": 1428855,
+      "id": 1428862,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.4950080003580775,
-          41.16918800002874
+          -7.551972999534696,
+          41.17462999988481
         ]
       },
       "properties": {
-        "OBJECTID": 1428855,
+        "OBJECTID": 1428862,
         "ID_oc": 22889250,
         "Numero": 20231382713,
         "Ano": null,
@@ -292,12 +292,12 @@
         "AVReconhecimento": null,
         "AVOutro": null,
         "NumeroMeiosAereosEnvolvidos": 0,
-        "Latitude": 41.169188,
-        "Longitude": -7.495008,
+        "Latitude": 41.17463,
+        "Longitude": -7.551973,
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1699400747000,
+        "DataDosDados": 1699401040000,
         "Simbol": "24 - Em Conclusão",
         "Status": 0,
         "Obs": null,
@@ -306,7 +306,7 @@
     },
     {
       "type": "Feature",
-      "id": 1428856,
+      "id": 1428863,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -315,7 +315,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 1428856,
+        "OBJECTID": 1428863,
         "ID_oc": 22889351,
         "Numero": 20231382814,
         "Ano": null,
@@ -398,7 +398,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1699400747000,
+        "DataDosDados": 1699401040000,
         "Simbol": "43 - Em Despacho",
         "Status": 0,
         "Obs": null,
@@ -407,7 +407,108 @@
     },
     {
       "type": "Feature",
-      "id": 1428857,
+      "id": 1428864,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.080109000493556,
+          38.86005999983887
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1428864,
+        "ID_oc": 22889449,
+        "Numero": 20231382912,
+        "Ano": null,
+        "DataInicioOcorrencia": "2023-11-07T23:40:00",
+        "DataOcorrencia": 1699400400000,
+        "Data": 1699400400000,
+        "Hora": null,
+        "Duracao": null,
+        "DuracaoMinutos": null,
+        "FaseIncendio": null,
+        "GrupoOc": null,
+        "GrupoOc_ID": null,
+        "CodNatureza": 2407,
+        "IDFamilia": null,
+        "Familia": null,
+        "IDEspecie": null,
+        "Especie": null,
+        "IDTipo": null,
+        "Tipo": null,
+        "Natureza": "Despiste",
+        "CodImportancia": null,
+        "Importancia": null,
+        "CodEstadoOcorrencia": null,
+        "EstadoOcorrencia": "Conclusão",
+        "EstadoAgrupado": "Em Conclusão",
+        "CREPC_ID": null,
+        "CSREPC": "Grande Lisboa",
+        "CSREPC_ID": null,
+        "CREPC": "Lisboa e Vale do Tejo",
+        "DI": null,
+        "Distrito": null,
+        "NUT_III": null,
+        "CIM": null,
+        "DICO": null,
+        "Concelho": "Vila Franca de Xira",
+        "DICOFRE": null,
+        "Freguesia": "Póvoa de Santa Iria e Forte da Casa",
+        "Localidade": "PÓVOA DE SANTA IRIA",
+        "Endereco": null,
+        "EntidadeResponsavel": null,
+        "EntidadeGestora": null,
+        "PCO": null,
+        "COS": null,
+        "UltimoPOSIT": null,
+        "QuantEntidades": null,
+        "RHBombeiros": null,
+        "RHFEPC": null,
+        "RHUEPS": null,
+        "RHGNR": null,
+        "RHPSP": null,
+        "RHESF": null,
+        "RHFA": null,
+        "RHINEM": null,
+        "RHOutros": null,
+        "NumeroOperacionaisTerrestresEnv": null,
+        "Operacionais": 8,
+        "NumeroOperacionaisAereosEnvolvi": null,
+        "RTBombeiros": null,
+        "RTFEPC": null,
+        "RTUEPS": null,
+        "RTGNR": null,
+        "RTPSP": null,
+        "RTESF": null,
+        "RTFA": null,
+        "RTINEM": null,
+        "RTOutros": null,
+        "NumeroMeiosTerrestresEnvolvidos": 2,
+        "GruposReforco": null,
+        "HELigeiro": null,
+        "HEPesado": null,
+        "HECoordenacao": null,
+        "HEOutro": null,
+        "AVMedio": null,
+        "AVPesado": null,
+        "AVReconhecimento": null,
+        "AVOutro": null,
+        "NumeroMeiosAereosEnvolvidos": 0,
+        "Latitude": 38.86006,
+        "Longitude": -9.080109,
+        "DDD": null,
+        "DMM": null,
+        "DMS": null,
+        "DataDosDados": 1699401040000,
+        "Simbol": "24 - Em Conclusão",
+        "Status": 0,
+        "Obs": null,
+        "NumeroMeiosAquaticos": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1428865,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -416,7 +517,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 1428857,
+        "OBJECTID": 1428865,
         "ID_oc": 22889262,
         "Numero": 20231382725,
         "Ano": null,
@@ -499,7 +600,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1699400747000,
+        "DataDosDados": 1699401040000,
         "Simbol": "24 - Em Conclusão",
         "Status": 0,
         "Obs": null,
@@ -508,7 +609,7 @@
     },
     {
       "type": "Feature",
-      "id": 1428858,
+      "id": 1428866,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -517,7 +618,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 1428858,
+        "OBJECTID": 1428866,
         "ID_oc": 22889348,
         "Numero": 20231382811,
         "Ano": null,
@@ -600,7 +701,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1699400747000,
+        "DataDosDados": 1699401040000,
         "Simbol": "43 - Em Despacho",
         "Status": 0,
         "Obs": null,
@@ -609,7 +710,7 @@
     },
     {
       "type": "Feature",
-      "id": 1428859,
+      "id": 1428867,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -618,7 +719,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 1428859,
+        "OBJECTID": 1428867,
         "ID_oc": 22889439,
         "Numero": 20231382902,
         "Ano": null,
@@ -642,7 +743,7 @@
         "CodImportancia": null,
         "Importancia": null,
         "CodEstadoOcorrencia": null,
-        "EstadoOcorrencia": "Despacho de 1.º Alerta",
+        "EstadoOcorrencia": "Chegada ao TO",
         "EstadoAgrupado": "Em Despacho",
         "CREPC_ID": null,
         "CSREPC": "Grande Lisboa",
@@ -701,7 +802,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1699400747000,
+        "DataDosDados": 1699401040000,
         "Simbol": "25 - Em Despacho",
         "Status": 0,
         "Obs": null,
