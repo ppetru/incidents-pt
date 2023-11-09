@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1433882,
+      "id": 1434303,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -12,7 +12,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 1433882,
+        "OBJECTID": 1434303,
         "ID_oc": 22894321,
         "Numero": 20231387784,
         "Ano": null,
@@ -36,8 +36,8 @@
         "CodImportancia": null,
         "Importancia": null,
         "CodEstadoOcorrencia": null,
-        "EstadoOcorrencia": "Em Curso",
-        "EstadoAgrupado": "Em Curso",
+        "EstadoOcorrencia": "Em Resolução",
+        "EstadoAgrupado": "Em Resolução",
         "CREPC_ID": null,
         "CSREPC": "Alto Alentejo",
         "CSREPC_ID": null,
@@ -95,8 +95,8 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1699515348000,
-        "Simbol": "24 - Em Curso",
+        "DataDosDados": 1699515648000,
+        "Simbol": "24 - Em Resolução",
         "Status": 0,
         "Obs": null,
         "NumeroMeiosAquaticos": 0
@@ -104,54 +104,54 @@
     },
     {
       "type": "Feature",
-      "id": 1433883,
+      "id": 1434304,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.56546000028395,
-          39.858499999916674
+          -8.789218000543585,
+          37.39811599957378
         ]
       },
       "properties": {
-        "OBJECTID": 1433883,
-        "ID_oc": 22894220,
-        "Numero": 20231387683,
+        "OBJECTID": 1434304,
+        "ID_oc": 22894380,
+        "Numero": 20231387843,
         "Ano": null,
-        "DataInicioOcorrencia": "2023-11-09T05:21:00",
-        "DataOcorrencia": 1699507260000,
-        "Data": 1699507260000,
+        "DataInicioOcorrencia": "2023-11-09T07:32:00",
+        "DataOcorrencia": 1699515120000,
+        "Data": 1699515120000,
         "Hora": null,
         "Duracao": null,
         "DuracaoMinutos": null,
         "FaseIncendio": null,
         "GrupoOc": null,
         "GrupoOc_ID": null,
-        "CodNatureza": 2101,
+        "CodNatureza": 2407,
         "IDFamilia": null,
         "Familia": null,
         "IDEspecie": null,
         "Especie": null,
         "IDTipo": null,
         "Tipo": null,
-        "Natureza": "Habitacional",
+        "Natureza": "Despiste",
         "CodImportancia": null,
         "Importancia": null,
         "CodEstadoOcorrencia": null,
-        "EstadoOcorrencia": "Conclusão",
-        "EstadoAgrupado": "Em Conclusão",
+        "EstadoOcorrencia": "Despacho de 1.º Alerta",
+        "EstadoAgrupado": "Em Despacho",
         "CREPC_ID": null,
-        "CSREPC": "Região de Leiria",
+        "CSREPC": "Algarve",
         "CSREPC_ID": null,
-        "CREPC": "Centro",
+        "CREPC": "Algarve",
         "DI": null,
         "Distrito": null,
         "NUT_III": null,
         "CIM": null,
         "DICO": null,
-        "Concelho": "Pombal",
+        "Concelho": "Aljezur",
         "DICOFRE": null,
-        "Freguesia": "Vila Cã",
-        "Localidade": "Vila Cã",
+        "Freguesia": "Rogil",
+        "Localidade": "Maria Vinagre",
         "Endereco": null,
         "EntidadeResponsavel": null,
         "EntidadeGestora": null,
@@ -169,7 +169,7 @@
         "RHINEM": null,
         "RHOutros": null,
         "NumeroOperacionaisTerrestresEnv": null,
-        "Operacionais": 7,
+        "Operacionais": 3,
         "NumeroOperacionaisAereosEnvolvi": null,
         "RTBombeiros": null,
         "RTFEPC": null,
@@ -180,7 +180,7 @@
         "RTFA": null,
         "RTINEM": null,
         "RTOutros": null,
-        "NumeroMeiosTerrestresEnvolvidos": 3,
+        "NumeroMeiosTerrestresEnvolvidos": 2,
         "GruposReforco": null,
         "HELigeiro": null,
         "HEPesado": null,
@@ -191,13 +191,13 @@
         "AVReconhecimento": null,
         "AVOutro": null,
         "NumeroMeiosAereosEnvolvidos": 0,
-        "Latitude": 39.8585,
-        "Longitude": -8.56546,
+        "Latitude": 37.398116,
+        "Longitude": -8.789218,
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1699515348000,
-        "Simbol": "21 - Em Conclusão",
+        "DataDosDados": 1699515648000,
+        "Simbol": "24 - Em Despacho",
         "Status": 0,
         "Obs": null,
         "NumeroMeiosAquaticos": 0
@@ -205,7 +205,7 @@
     },
     {
       "type": "Feature",
-      "id": 1433884,
+      "id": 1434305,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -214,7 +214,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 1433884,
+        "OBJECTID": 1434305,
         "ID_oc": 22894194,
         "Numero": 20231387657,
         "Ano": null,
@@ -297,7 +297,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1699515348000,
+        "DataDosDados": 1699515648000,
         "Simbol": "23 - Em Curso",
         "Status": 0,
         "Obs": null,
@@ -306,7 +306,7 @@
     },
     {
       "type": "Feature",
-      "id": 1433885,
+      "id": 1434306,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -315,7 +315,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 1433885,
+        "OBJECTID": 1434306,
         "ID_oc": 22894310,
         "Numero": 20231387773,
         "Ano": null,
@@ -398,7 +398,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1699515348000,
+        "DataDosDados": 1699515648000,
         "Simbol": "33 - Em Despacho",
         "Status": 0,
         "Obs": null,
@@ -407,7 +407,7 @@
     },
     {
       "type": "Feature",
-      "id": 1433886,
+      "id": 1434307,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -416,7 +416,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 1433886,
+        "OBJECTID": 1434307,
         "ID_oc": 22894337,
         "Numero": 20231387800,
         "Ano": null,
@@ -440,8 +440,8 @@
         "CodImportancia": null,
         "Importancia": null,
         "CodEstadoOcorrencia": null,
-        "EstadoOcorrencia": "Chegada ao TO",
-        "EstadoAgrupado": "Em Despacho",
+        "EstadoOcorrencia": "Em Curso",
+        "EstadoAgrupado": "Em Curso",
         "CREPC_ID": null,
         "CSREPC": "Grande Lisboa",
         "CSREPC_ID": null,
@@ -499,8 +499,8 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1699515348000,
-        "Simbol": "24 - Em Despacho",
+        "DataDosDados": 1699515648000,
+        "Simbol": "24 - Em Curso",
         "Status": 0,
         "Obs": null,
         "NumeroMeiosAquaticos": 0
@@ -508,7 +508,7 @@
     },
     {
       "type": "Feature",
-      "id": 1433887,
+      "id": 1434308,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -517,7 +517,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 1433887,
+        "OBJECTID": 1434308,
         "ID_oc": 22894362,
         "Numero": 20231387825,
         "Ano": null,
@@ -541,7 +541,7 @@
         "CodImportancia": null,
         "Importancia": null,
         "CodEstadoOcorrencia": null,
-        "EstadoOcorrencia": "Despacho",
+        "EstadoOcorrencia": "Chegada ao TO",
         "EstadoAgrupado": "Em Despacho",
         "CREPC_ID": null,
         "CSREPC": "Algarve",
@@ -573,7 +573,7 @@
         "RHINEM": null,
         "RHOutros": null,
         "NumeroOperacionaisTerrestresEnv": null,
-        "Operacionais": 0,
+        "Operacionais": 7,
         "NumeroOperacionaisAereosEnvolvi": null,
         "RTBombeiros": null,
         "RTFEPC": null,
@@ -584,7 +584,7 @@
         "RTFA": null,
         "RTINEM": null,
         "RTOutros": null,
-        "NumeroMeiosTerrestresEnvolvidos": 0,
+        "NumeroMeiosTerrestresEnvolvidos": 3,
         "GruposReforco": null,
         "HELigeiro": null,
         "HEPesado": null,
@@ -600,7 +600,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1699515348000,
+        "DataDosDados": 1699515648000,
         "Simbol": "21 - Em Despacho",
         "Status": 0,
         "Obs": null,
