@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1640499,
+      "id": 1640520,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -12,7 +12,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 1640499,
+        "OBJECTID": 1640520,
         "ID_oc": 23101375,
         "Numero": 20231594819,
         "Ano": null,
@@ -95,7 +95,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1703563839000,
+        "DataDosDados": 1703564746000,
         "Simbol": "24 - Em Resolução",
         "Status": 0,
         "Obs": null,
@@ -104,7 +104,7 @@
     },
     {
       "type": "Feature",
-      "id": 1640500,
+      "id": 1640521,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -113,7 +113,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 1640500,
+        "OBJECTID": 1640521,
         "ID_oc": 23100865,
         "Numero": 20231594309,
         "Ano": null,
@@ -196,7 +196,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1703563839000,
+        "DataDosDados": 1703564746000,
         "Simbol": "24 - Em Conclusão",
         "Status": 0,
         "Obs": null,
@@ -205,7 +205,7 @@
     },
     {
       "type": "Feature",
-      "id": 1640501,
+      "id": 1640522,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -214,7 +214,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 1640501,
+        "OBJECTID": 1640522,
         "ID_oc": 23100914,
         "Numero": 20231594358,
         "Ano": null,
@@ -297,7 +297,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1703563839000,
+        "DataDosDados": 1703564746000,
         "Simbol": "24 - Em Conclusão",
         "Status": 0,
         "Obs": null,
@@ -306,7 +306,7 @@
     },
     {
       "type": "Feature",
-      "id": 1640502,
+      "id": 1640523,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -315,7 +315,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 1640502,
+        "OBJECTID": 1640523,
         "ID_oc": 23101300,
         "Numero": 20231594744,
         "Ano": null,
@@ -398,7 +398,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1703563839000,
+        "DataDosDados": 1703564746000,
         "Simbol": "21 - Em Resolução",
         "Status": 0,
         "Obs": null,
@@ -407,7 +407,108 @@
     },
     {
       "type": "Feature",
-      "id": 1640503,
+      "id": 1640524,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.355140000453317,
+          40.86815000007078
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1640524,
+        "ID_oc": 23101431,
+        "Numero": 20231594875,
+        "Ano": null,
+        "DataInicioOcorrencia": "2023-12-26T04:22:00",
+        "DataOcorrencia": 1703564520000,
+        "Data": 1703564520000,
+        "Hora": null,
+        "Duracao": null,
+        "DuracaoMinutos": null,
+        "FaseIncendio": null,
+        "GrupoOc": null,
+        "GrupoOc_ID": null,
+        "CodNatureza": 2101,
+        "IDFamilia": null,
+        "Familia": null,
+        "IDEspecie": null,
+        "Especie": null,
+        "IDTipo": null,
+        "Tipo": null,
+        "Natureza": "Habitacional",
+        "CodImportancia": null,
+        "Importancia": null,
+        "CodEstadoOcorrencia": null,
+        "EstadoOcorrencia": "Despacho",
+        "EstadoAgrupado": "Em Despacho",
+        "CREPC_ID": null,
+        "CSREPC": "Beiras e Serra da Estrela",
+        "CSREPC_ID": null,
+        "CREPC": "Centro",
+        "DI": null,
+        "Distrito": null,
+        "NUT_III": null,
+        "CIM": null,
+        "DICO": null,
+        "Concelho": "Trancoso",
+        "DICOFRE": null,
+        "Freguesia": "Torre do Terrenho, Sebadelhe da Serra e Terrenho",
+        "Localidade": "União das Freguesias de Torre do Terrenho, Sebadelhe da Serra e Terrenho",
+        "Endereco": null,
+        "EntidadeResponsavel": null,
+        "EntidadeGestora": null,
+        "PCO": null,
+        "COS": null,
+        "UltimoPOSIT": null,
+        "QuantEntidades": null,
+        "RHBombeiros": null,
+        "RHFEPC": null,
+        "RHUEPS": null,
+        "RHGNR": null,
+        "RHPSP": null,
+        "RHESF": null,
+        "RHFA": null,
+        "RHINEM": null,
+        "RHOutros": null,
+        "NumeroOperacionaisTerrestresEnv": null,
+        "Operacionais": 0,
+        "NumeroOperacionaisAereosEnvolvi": null,
+        "RTBombeiros": null,
+        "RTFEPC": null,
+        "RTUEPS": null,
+        "RTGNR": null,
+        "RTPSP": null,
+        "RTESF": null,
+        "RTFA": null,
+        "RTINEM": null,
+        "RTOutros": null,
+        "NumeroMeiosTerrestresEnvolvidos": 0,
+        "GruposReforco": null,
+        "HELigeiro": null,
+        "HEPesado": null,
+        "HECoordenacao": null,
+        "HEOutro": null,
+        "AVMedio": null,
+        "AVPesado": null,
+        "AVReconhecimento": null,
+        "AVOutro": null,
+        "NumeroMeiosAereosEnvolvidos": 0,
+        "Latitude": 40.86815,
+        "Longitude": -7.35514,
+        "DDD": null,
+        "DMM": null,
+        "DMS": null,
+        "DataDosDados": 1703564746000,
+        "Simbol": "21 - Em Despacho",
+        "Status": 0,
+        "Obs": null,
+        "NumeroMeiosAquaticos": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1640525,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -416,7 +517,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 1640503,
+        "OBJECTID": 1640525,
         "ID_oc": 23101246,
         "Numero": 20231594690,
         "Ano": null,
@@ -499,7 +600,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1703563839000,
+        "DataDosDados": 1703564746000,
         "Simbol": "21 - Em Conclusão",
         "Status": 0,
         "Obs": null,
@@ -508,7 +609,7 @@
     },
     {
       "type": "Feature",
-      "id": 1640504,
+      "id": 1640526,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -517,7 +618,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 1640504,
+        "OBJECTID": 1640526,
         "ID_oc": 23101251,
         "Numero": 20231594695,
         "Ano": null,
@@ -600,7 +701,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1703563839000,
+        "DataDosDados": 1703564746000,
         "Simbol": "21 - Em Conclusão",
         "Status": 0,
         "Obs": null,
@@ -609,7 +710,7 @@
     },
     {
       "type": "Feature",
-      "id": 1640505,
+      "id": 1640527,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -618,7 +719,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 1640505,
+        "OBJECTID": 1640527,
         "ID_oc": 23101396,
         "Numero": 20231594840,
         "Ano": null,
@@ -642,8 +743,8 @@
         "CodImportancia": null,
         "Importancia": null,
         "CodEstadoOcorrencia": null,
-        "EstadoOcorrencia": "Despacho de 1.º Alerta",
-        "EstadoAgrupado": "Em Despacho",
+        "EstadoOcorrencia": "Em Resolução",
+        "EstadoAgrupado": "Em Resolução",
         "CREPC_ID": null,
         "CSREPC": "Grande Lisboa",
         "CSREPC_ID": null,
@@ -701,8 +802,8 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1703563839000,
-        "Simbol": "32 - Em Despacho",
+        "DataDosDados": 1703564746000,
+        "Simbol": "32 - Em Resolução",
         "Status": 0,
         "Obs": null,
         "NumeroMeiosAquaticos": 0
