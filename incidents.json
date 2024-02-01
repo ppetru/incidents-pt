@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1789761,
+      "id": 1789767,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -12,7 +12,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 1789761,
+        "OBJECTID": 1789767,
         "ID_oc": 23264329,
         "Numero": 20240134998,
         "Ano": null,
@@ -36,7 +36,7 @@
         "CodImportancia": null,
         "Importancia": null,
         "CodEstadoOcorrencia": null,
-        "EstadoOcorrencia": "Despacho",
+        "EstadoOcorrencia": "Despacho de 1.º Alerta",
         "EstadoAgrupado": "Em Despacho",
         "CREPC_ID": null,
         "CSREPC": "Região de Leiria",
@@ -68,7 +68,7 @@
         "RHINEM": null,
         "RHOutros": null,
         "NumeroOperacionaisTerrestresEnv": null,
-        "Operacionais": 0,
+        "Operacionais": 5,
         "NumeroOperacionaisAereosEnvolvi": null,
         "RTBombeiros": null,
         "RTFEPC": null,
@@ -79,7 +79,7 @@
         "RTFA": null,
         "RTINEM": null,
         "RTOutros": null,
-        "NumeroMeiosTerrestresEnvolvidos": 0,
+        "NumeroMeiosTerrestresEnvolvidos": 1,
         "GruposReforco": null,
         "HELigeiro": null,
         "HEPesado": null,
@@ -95,7 +95,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1706761538000,
+        "DataDosDados": 1706761839000,
         "Simbol": "31 - Em Despacho",
         "Status": 0,
         "Obs": null,
@@ -104,7 +104,7 @@
     },
     {
       "type": "Feature",
-      "id": 1789762,
+      "id": 1789768,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -113,7 +113,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 1789762,
+        "OBJECTID": 1789768,
         "ID_oc": 23264154,
         "Numero": 20240134823,
         "Ano": null,
@@ -196,7 +196,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1706761538000,
+        "DataDosDados": 1706761839000,
         "Simbol": "32 - Em Resolução",
         "Status": 0,
         "Obs": null,
@@ -205,7 +205,108 @@
     },
     {
       "type": "Feature",
-      "id": 1789763,
+      "id": 1789769,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.8171480005254,
+          41.69182999967588
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1789769,
+        "ID_oc": 23264337,
+        "Numero": 20240135006,
+        "Ano": null,
+        "DataInicioOcorrencia": "2024-02-01T04:26:00",
+        "DataOcorrencia": 1706761560000,
+        "Data": 1706761560000,
+        "Hora": null,
+        "Duracao": null,
+        "DuracaoMinutos": null,
+        "FaseIncendio": null,
+        "GrupoOc": null,
+        "GrupoOc_ID": null,
+        "CodNatureza": 2407,
+        "IDFamilia": null,
+        "Familia": null,
+        "IDEspecie": null,
+        "Especie": null,
+        "IDTipo": null,
+        "Tipo": null,
+        "Natureza": "Despiste",
+        "CodImportancia": null,
+        "Importancia": null,
+        "CodEstadoOcorrencia": null,
+        "EstadoOcorrencia": "Despacho",
+        "EstadoAgrupado": "Em Despacho",
+        "CREPC_ID": null,
+        "CSREPC": "Alto Minho",
+        "CSREPC_ID": null,
+        "CREPC": "Norte",
+        "DI": null,
+        "Distrito": null,
+        "NUT_III": null,
+        "CIM": null,
+        "DICO": null,
+        "Concelho": "Viana do Castelo",
+        "DICOFRE": null,
+        "Freguesia": "Santa Maria Maior e Monserrate e Meadela",
+        "Localidade": "Ponte Eiffel",
+        "Endereco": null,
+        "EntidadeResponsavel": null,
+        "EntidadeGestora": null,
+        "PCO": null,
+        "COS": null,
+        "UltimoPOSIT": null,
+        "QuantEntidades": null,
+        "RHBombeiros": null,
+        "RHFEPC": null,
+        "RHUEPS": null,
+        "RHGNR": null,
+        "RHPSP": null,
+        "RHESF": null,
+        "RHFA": null,
+        "RHINEM": null,
+        "RHOutros": null,
+        "NumeroOperacionaisTerrestresEnv": null,
+        "Operacionais": 0,
+        "NumeroOperacionaisAereosEnvolvi": null,
+        "RTBombeiros": null,
+        "RTFEPC": null,
+        "RTUEPS": null,
+        "RTGNR": null,
+        "RTPSP": null,
+        "RTESF": null,
+        "RTFA": null,
+        "RTINEM": null,
+        "RTOutros": null,
+        "NumeroMeiosTerrestresEnvolvidos": 0,
+        "GruposReforco": null,
+        "HELigeiro": null,
+        "HEPesado": null,
+        "HECoordenacao": null,
+        "HEOutro": null,
+        "AVMedio": null,
+        "AVPesado": null,
+        "AVReconhecimento": null,
+        "AVOutro": null,
+        "NumeroMeiosAereosEnvolvidos": 0,
+        "Latitude": 41.69183,
+        "Longitude": -8.817148,
+        "DDD": null,
+        "DMM": null,
+        "DMS": null,
+        "DataDosDados": 1706761839000,
+        "Simbol": "24 - Em Despacho",
+        "Status": 0,
+        "Obs": null,
+        "NumeroMeiosAquaticos": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1789770,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -214,7 +315,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 1789763,
+        "OBJECTID": 1789770,
         "ID_oc": 23263482,
         "Numero": 20240134151,
         "Ano": null,
@@ -297,7 +398,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1706761538000,
+        "DataDosDados": 1706761839000,
         "Simbol": "31 - Em Conclusão",
         "Status": 0,
         "Obs": null,
@@ -306,7 +407,7 @@
     },
     {
       "type": "Feature",
-      "id": 1789764,
+      "id": 1789771,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -315,7 +416,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 1789764,
+        "OBJECTID": 1789771,
         "ID_oc": 23263846,
         "Numero": 20240134515,
         "Ano": null,
@@ -398,7 +499,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1706761538000,
+        "DataDosDados": 1706761839000,
         "Simbol": "31 - Em Curso",
         "Status": 0,
         "Obs": null,
@@ -407,7 +508,7 @@
     },
     {
       "type": "Feature",
-      "id": 1789765,
+      "id": 1789772,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -416,7 +517,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 1789765,
+        "OBJECTID": 1789772,
         "ID_oc": 23264023,
         "Numero": 20240134692,
         "Ano": null,
@@ -499,7 +600,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1706761538000,
+        "DataDosDados": 1706761839000,
         "Simbol": "43 - Em Despacho",
         "Status": 0,
         "Obs": null,
@@ -508,7 +609,7 @@
     },
     {
       "type": "Feature",
-      "id": 1789766,
+      "id": 1789773,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -517,7 +618,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 1789766,
+        "OBJECTID": 1789773,
         "ID_oc": 23264134,
         "Numero": 20240134803,
         "Ano": null,
@@ -573,7 +674,7 @@
         "RHINEM": null,
         "RHOutros": null,
         "NumeroOperacionaisTerrestresEnv": null,
-        "Operacionais": 15,
+        "Operacionais": 9,
         "NumeroOperacionaisAereosEnvolvi": null,
         "RTBombeiros": null,
         "RTFEPC": null,
@@ -584,7 +685,7 @@
         "RTFA": null,
         "RTINEM": null,
         "RTOutros": null,
-        "NumeroMeiosTerrestresEnvolvidos": 7,
+        "NumeroMeiosTerrestresEnvolvidos": 5,
         "GruposReforco": null,
         "HELigeiro": null,
         "HEPesado": null,
@@ -600,7 +701,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1706761538000,
+        "DataDosDados": 1706761839000,
         "Simbol": "23 - Em Conclusão",
         "Status": 0,
         "Obs": null,
