@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1838847,
+      "id": 1838851,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -12,7 +12,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 1838847,
+        "OBJECTID": 1838851,
         "ID_oc": 23302295,
         "Numero": 20240172964,
         "Ano": null,
@@ -36,8 +36,8 @@
         "CodImportancia": null,
         "Importancia": null,
         "CodEstadoOcorrencia": null,
-        "EstadoOcorrencia": "Despacho de 1.º Alerta",
-        "EstadoAgrupado": "Em Despacho",
+        "EstadoOcorrencia": "Em Resolução",
+        "EstadoAgrupado": "Em Resolução",
         "CREPC_ID": null,
         "CSREPC": "Alentejo Central",
         "CSREPC_ID": null,
@@ -68,7 +68,7 @@
         "RHINEM": null,
         "RHOutros": null,
         "NumeroOperacionaisTerrestresEnv": null,
-        "Operacionais": 2,
+        "Operacionais": 4,
         "NumeroOperacionaisAereosEnvolvi": null,
         "RTBombeiros": null,
         "RTFEPC": null,
@@ -79,7 +79,7 @@
         "RTFA": null,
         "RTINEM": null,
         "RTOutros": null,
-        "NumeroMeiosTerrestresEnvolvidos": 1,
+        "NumeroMeiosTerrestresEnvolvidos": 2,
         "GruposReforco": null,
         "HELigeiro": null,
         "HEPesado": null,
@@ -95,8 +95,8 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1707549940000,
-        "Simbol": "32 - Em Despacho",
+        "DataDosDados": 1707550264000,
+        "Simbol": "32 - Em Resolução",
         "Status": 0,
         "Obs": null,
         "NumeroMeiosAquaticos": 0
@@ -104,22 +104,22 @@
     },
     {
       "type": "Feature",
-      "id": 1838848,
+      "id": 1838852,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.589878000225635,
-          41.46961799975964
+          -8.826709000202491,
+          40.03453400035981
         ]
       },
       "properties": {
-        "OBJECTID": 1838848,
-        "ID_oc": 23301147,
-        "Numero": 20240171816,
+        "OBJECTID": 1838852,
+        "ID_oc": 23302313,
+        "Numero": 20240172982,
         "Ano": null,
-        "DataInicioOcorrencia": "2024-02-09T19:24:00",
-        "DataOcorrencia": 1707506640000,
-        "Data": 1707506640000,
+        "DataInicioOcorrencia": "2024-02-10T07:23:00",
+        "DataOcorrencia": 1707549780000,
+        "Data": 1707549780000,
         "Hora": null,
         "Duracao": null,
         "DuracaoMinutos": null,
@@ -140,18 +140,18 @@
         "EstadoOcorrencia": "Despacho de 1.º Alerta",
         "EstadoAgrupado": "Em Despacho",
         "CREPC_ID": null,
-        "CSREPC": "Cávado",
+        "CSREPC": "Região de Coimbra",
         "CSREPC_ID": null,
-        "CREPC": "Norte",
+        "CREPC": "Centro",
         "DI": null,
         "Distrito": null,
         "NUT_III": null,
         "CIM": null,
         "DICO": null,
-        "Concelho": "Barcelos",
+        "Concelho": "Figueira da Foz",
         "DICOFRE": null,
-        "Freguesia": "Carvalhas",
-        "Localidade": null,
+        "Freguesia": "Marinha Das Ondas",
+        "Localidade": "MARINHA DAS ONDAS",
         "Endereco": null,
         "EntidadeResponsavel": null,
         "EntidadeGestora": null,
@@ -169,7 +169,7 @@
         "RHINEM": null,
         "RHOutros": null,
         "NumeroOperacionaisTerrestresEnv": null,
-        "Operacionais": 2,
+        "Operacionais": 6,
         "NumeroOperacionaisAereosEnvolvi": null,
         "RTBombeiros": null,
         "RTFEPC": null,
@@ -191,12 +191,12 @@
         "AVReconhecimento": null,
         "AVOutro": null,
         "NumeroMeiosAereosEnvolvidos": 0,
-        "Latitude": 41.469618,
-        "Longitude": -8.589878,
+        "Latitude": 40.034534,
+        "Longitude": -8.826709,
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1707549940000,
+        "DataDosDados": 1707550264000,
         "Simbol": "33 - Em Despacho",
         "Status": 0,
         "Obs": null,
@@ -205,7 +205,7 @@
     },
     {
       "type": "Feature",
-      "id": 1838849,
+      "id": 1838853,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -214,7 +214,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 1838849,
+        "OBJECTID": 1838853,
         "ID_oc": 23302239,
         "Numero": 20240172908,
         "Ano": null,
@@ -297,7 +297,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1707549940000,
+        "DataDosDados": 1707550264000,
         "Simbol": "24 - Em Curso",
         "Status": 0,
         "Obs": null,
@@ -306,7 +306,7 @@
     },
     {
       "type": "Feature",
-      "id": 1838850,
+      "id": 1838854,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -315,7 +315,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 1838850,
+        "OBJECTID": 1838854,
         "ID_oc": 23302274,
         "Numero": 20240172943,
         "Ano": null,
@@ -398,7 +398,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1707549940000,
+        "DataDosDados": 1707550264000,
         "Simbol": "24 - Em Resolução",
         "Status": 0,
         "Obs": null,
