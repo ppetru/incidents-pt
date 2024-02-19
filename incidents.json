@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1870254,
+      "id": 1865467,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -12,7 +12,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 1870254,
+        "OBJECTID": 1865467,
         "ID_oc": 23337981,
         "Numero": 20240208648,
         "Ano": null,
@@ -36,8 +36,8 @@
         "CodImportancia": null,
         "Importancia": null,
         "CodEstadoOcorrencia": null,
-        "EstadoOcorrencia": "Despacho",
-        "EstadoAgrupado": "Em Despacho",
+        "EstadoOcorrencia": "Conclusão",
+        "EstadoAgrupado": "Em Conclusão",
         "CREPC_ID": null,
         "CSREPC": "Península de Setúbal",
         "CSREPC_ID": null,
@@ -68,7 +68,7 @@
         "RHINEM": null,
         "RHOutros": null,
         "NumeroOperacionaisTerrestresEnv": null,
-        "Operacionais": 0,
+        "Operacionais": 15,
         "NumeroOperacionaisAereosEnvolvi": null,
         "RTBombeiros": null,
         "RTFEPC": null,
@@ -79,7 +79,7 @@
         "RTFA": null,
         "RTINEM": null,
         "RTOutros": null,
-        "NumeroMeiosTerrestresEnvolvidos": 0,
+        "NumeroMeiosTerrestresEnvolvidos": 4,
         "GruposReforco": null,
         "HELigeiro": null,
         "HEPesado": null,
@@ -95,8 +95,8 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1708315248000,
-        "Simbol": "21 - Em Despacho",
+        "DataDosDados": 1708316448000,
+        "Simbol": "21 - Em Conclusão",
         "Status": 0,
         "Obs": null,
         "NumeroMeiosAquaticos": 0
@@ -104,16 +104,16 @@
     },
     {
       "type": "Feature",
-      "id": 1870255,
+      "id": 1865468,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.922470000186639,
-          40.843579999790705
+          -7.922667999796169,
+          40.84044000032708
         ]
       },
       "properties": {
-        "OBJECTID": 1870255,
+        "OBJECTID": 1865468,
         "ID_oc": 23337971,
         "Numero": 20240208638,
         "Ano": null,
@@ -137,8 +137,8 @@
         "CodImportancia": null,
         "Importancia": null,
         "CodEstadoOcorrencia": null,
-        "EstadoOcorrencia": "Despacho de 1.º Alerta",
-        "EstadoAgrupado": "Em Despacho",
+        "EstadoOcorrencia": "Em Curso",
+        "EstadoAgrupado": "Em Curso",
         "CREPC_ID": null,
         "CSREPC": "Viseu Dão Lafões",
         "CSREPC_ID": null,
@@ -169,7 +169,7 @@
         "RHINEM": null,
         "RHOutros": null,
         "NumeroOperacionaisTerrestresEnv": null,
-        "Operacionais": 2,
+        "Operacionais": 7,
         "NumeroOperacionaisAereosEnvolvi": null,
         "RTBombeiros": null,
         "RTFEPC": null,
@@ -180,7 +180,7 @@
         "RTFA": null,
         "RTINEM": null,
         "RTOutros": null,
-        "NumeroMeiosTerrestresEnvolvidos": 1,
+        "NumeroMeiosTerrestresEnvolvidos": 2,
         "GruposReforco": null,
         "HELigeiro": null,
         "HEPesado": null,
@@ -191,13 +191,13 @@
         "AVReconhecimento": null,
         "AVOutro": null,
         "NumeroMeiosAereosEnvolvidos": 0,
-        "Latitude": 40.84358,
-        "Longitude": -7.92247,
+        "Latitude": 40.84044,
+        "Longitude": -7.922668,
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1708315248000,
-        "Simbol": "24 - Em Despacho",
+        "DataDosDados": 1708316448000,
+        "Simbol": "24 - Em Curso",
         "Status": 0,
         "Obs": null,
         "NumeroMeiosAquaticos": 0
