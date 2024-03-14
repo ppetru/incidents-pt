@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1980748,
+      "id": 1980755,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -12,7 +12,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 1980748,
+        "OBJECTID": 1980755,
         "ID_oc": 23435487,
         "Numero": 20240306150,
         "Ano": null,
@@ -95,7 +95,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1710402339000,
+        "DataDosDados": 1710402639000,
         "Simbol": "33 - Em Curso",
         "Status": 0,
         "Obs": null,
@@ -104,7 +104,7 @@
     },
     {
       "type": "Feature",
-      "id": 1980749,
+      "id": 1980756,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -113,7 +113,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 1980749,
+        "OBJECTID": 1980756,
         "ID_oc": 23440887,
         "Numero": 20240311550,
         "Ano": null,
@@ -137,7 +137,7 @@
         "CodImportancia": null,
         "Importancia": null,
         "CodEstadoOcorrencia": null,
-        "EstadoOcorrencia": "Despacho de 1.º Alerta",
+        "EstadoOcorrencia": "Chegada ao TO",
         "EstadoAgrupado": "Em Despacho",
         "CREPC_ID": null,
         "CSREPC": "Cávado",
@@ -169,7 +169,7 @@
         "RHINEM": null,
         "RHOutros": null,
         "NumeroOperacionaisTerrestresEnv": null,
-        "Operacionais": 2,
+        "Operacionais": 0,
         "NumeroOperacionaisAereosEnvolvi": null,
         "RTBombeiros": null,
         "RTFEPC": null,
@@ -180,7 +180,7 @@
         "RTFA": null,
         "RTINEM": null,
         "RTOutros": null,
-        "NumeroMeiosTerrestresEnvolvidos": 1,
+        "NumeroMeiosTerrestresEnvolvidos": 0,
         "GruposReforco": null,
         "HELigeiro": null,
         "HEPesado": null,
@@ -196,7 +196,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1710402339000,
+        "DataDosDados": 1710402639000,
         "Simbol": "31 - Em Despacho",
         "Status": 0,
         "Obs": null,
@@ -205,7 +205,7 @@
     },
     {
       "type": "Feature",
-      "id": 1980750,
+      "id": 1980757,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -214,7 +214,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 1980750,
+        "OBJECTID": 1980757,
         "ID_oc": 23440920,
         "Numero": 20240311583,
         "Ano": null,
@@ -238,8 +238,8 @@
         "CodImportancia": null,
         "Importancia": null,
         "CodEstadoOcorrencia": null,
-        "EstadoOcorrencia": "Despacho de 1.º Alerta",
-        "EstadoAgrupado": "Em Despacho",
+        "EstadoOcorrencia": "Em Curso",
+        "EstadoAgrupado": "Em Curso",
         "CREPC_ID": null,
         "CSREPC": "Grande Lisboa",
         "CSREPC_ID": null,
@@ -297,8 +297,8 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1710402339000,
-        "Simbol": "24 - Em Despacho",
+        "DataDosDados": 1710402639000,
+        "Simbol": "24 - Em Curso",
         "Status": 0,
         "Obs": null,
         "NumeroMeiosAquaticos": 0
@@ -306,7 +306,7 @@
     },
     {
       "type": "Feature",
-      "id": 1980751,
+      "id": 1980758,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -315,7 +315,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 1980751,
+        "OBJECTID": 1980758,
         "ID_oc": 23440921,
         "Numero": 20240311584,
         "Ano": null,
@@ -398,7 +398,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1710402339000,
+        "DataDosDados": 1710402639000,
         "Simbol": "43 - Em Despacho",
         "Status": 0,
         "Obs": null,
@@ -407,7 +407,108 @@
     },
     {
       "type": "Feature",
-      "id": 1980752,
+      "id": 1980759,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.43930899947577,
+          40.66614000013082
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1980759,
+        "ID_oc": 23440970,
+        "Numero": 20240311633,
+        "Ano": null,
+        "DataInicioOcorrencia": "2024-03-14T07:46:00",
+        "DataOcorrencia": 1710402360000,
+        "Data": 1710402360000,
+        "Hora": null,
+        "Duracao": null,
+        "DuracaoMinutos": null,
+        "FaseIncendio": null,
+        "GrupoOc": null,
+        "GrupoOc_ID": null,
+        "CodNatureza": 2101,
+        "IDFamilia": null,
+        "Familia": null,
+        "IDEspecie": null,
+        "Especie": null,
+        "IDTipo": null,
+        "Tipo": null,
+        "Natureza": "Habitacional",
+        "CodImportancia": null,
+        "Importancia": null,
+        "CodEstadoOcorrencia": null,
+        "EstadoOcorrencia": "Despacho",
+        "EstadoAgrupado": "Em Despacho",
+        "CREPC_ID": null,
+        "CSREPC": "Região de Aveiro",
+        "CSREPC_ID": null,
+        "CREPC": "Centro",
+        "DI": null,
+        "Distrito": null,
+        "NUT_III": null,
+        "CIM": null,
+        "DICO": null,
+        "Concelho": "Águeda",
+        "DICOFRE": null,
+        "Freguesia": "Macinhata do Vouga",
+        "Localidade": "Macinhata do Vouga",
+        "Endereco": null,
+        "EntidadeResponsavel": null,
+        "EntidadeGestora": null,
+        "PCO": null,
+        "COS": null,
+        "UltimoPOSIT": null,
+        "QuantEntidades": null,
+        "RHBombeiros": null,
+        "RHFEPC": null,
+        "RHUEPS": null,
+        "RHGNR": null,
+        "RHPSP": null,
+        "RHESF": null,
+        "RHFA": null,
+        "RHINEM": null,
+        "RHOutros": null,
+        "NumeroOperacionaisTerrestresEnv": null,
+        "Operacionais": 0,
+        "NumeroOperacionaisAereosEnvolvi": null,
+        "RTBombeiros": null,
+        "RTFEPC": null,
+        "RTUEPS": null,
+        "RTGNR": null,
+        "RTPSP": null,
+        "RTESF": null,
+        "RTFA": null,
+        "RTINEM": null,
+        "RTOutros": null,
+        "NumeroMeiosTerrestresEnvolvidos": 0,
+        "GruposReforco": null,
+        "HELigeiro": null,
+        "HEPesado": null,
+        "HECoordenacao": null,
+        "HEOutro": null,
+        "AVMedio": null,
+        "AVPesado": null,
+        "AVReconhecimento": null,
+        "AVOutro": null,
+        "NumeroMeiosAereosEnvolvidos": 0,
+        "Latitude": 40.66614,
+        "Longitude": -8.439309,
+        "DDD": null,
+        "DMM": null,
+        "DMS": null,
+        "DataDosDados": 1710402639000,
+        "Simbol": "21 - Em Despacho",
+        "Status": 0,
+        "Obs": null,
+        "NumeroMeiosAquaticos": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1980760,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -416,7 +517,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 1980752,
+        "OBJECTID": 1980760,
         "ID_oc": 23440850,
         "Numero": 20240311513,
         "Ano": null,
@@ -499,7 +600,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1710402339000,
+        "DataDosDados": 1710402639000,
         "Simbol": "21 - Em Conclusão",
         "Status": 0,
         "Obs": null,
@@ -508,7 +609,7 @@
     },
     {
       "type": "Feature",
-      "id": 1980753,
+      "id": 1980761,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -517,7 +618,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 1980753,
+        "OBJECTID": 1980761,
         "ID_oc": 23440873,
         "Numero": 20240311536,
         "Ano": null,
@@ -600,7 +701,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1710402339000,
+        "DataDosDados": 1710402639000,
         "Simbol": "24 - Em Conclusão",
         "Status": 0,
         "Obs": null,
@@ -609,7 +710,7 @@
     },
     {
       "type": "Feature",
-      "id": 1980754,
+      "id": 1980762,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -618,7 +719,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 1980754,
+        "OBJECTID": 1980762,
         "ID_oc": 23440900,
         "Numero": 20240311563,
         "Ano": null,
@@ -642,8 +743,8 @@
         "CodImportancia": null,
         "Importancia": null,
         "CodEstadoOcorrencia": null,
-        "EstadoOcorrencia": "Despacho de 1.º Alerta",
-        "EstadoAgrupado": "Em Despacho",
+        "EstadoOcorrencia": "Em Curso",
+        "EstadoAgrupado": "Em Curso",
         "CREPC_ID": null,
         "CSREPC": "Região de Aveiro",
         "CSREPC_ID": null,
@@ -701,8 +802,8 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1710402339000,
-        "Simbol": "33 - Em Despacho",
+        "DataDosDados": 1710402639000,
+        "Simbol": "33 - Em Curso",
         "Status": 0,
         "Obs": null,
         "NumeroMeiosAquaticos": 0
