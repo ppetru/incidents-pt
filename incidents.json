@@ -3,16 +3,16 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1993211,
+      "id": 1993220,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -9.383629999928724,
-          38.80108999965915
+          -9.387898999914983,
+          38.80581300043283
         ]
       },
       "properties": {
-        "OBJECTID": 1993211,
+        "OBJECTID": 1993220,
         "ID_oc": 23454324,
         "Numero": 20240324987,
         "Ano": null,
@@ -50,7 +50,7 @@
         "Concelho": "Sintra",
         "DICOFRE": null,
         "Freguesia": "S.maria, S.miguel, S.martinho, S.pedro Penaferrim",
-        "Localidade": "União das Freguesias de Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)",
+        "Localidade": "SINTRA",
         "Endereco": null,
         "EntidadeResponsavel": null,
         "EntidadeGestora": null,
@@ -90,12 +90,12 @@
         "AVReconhecimento": null,
         "AVOutro": null,
         "NumeroMeiosAereosEnvolvidos": 0,
-        "Latitude": 38.80109,
-        "Longitude": -9.38363,
+        "Latitude": 38.805813,
+        "Longitude": -9.387899,
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1710652239000,
+        "DataDosDados": 1710652839000,
         "Simbol": "32 - Em Despacho",
         "Status": 0,
         "Obs": null,
@@ -104,7 +104,7 @@
     },
     {
       "type": "Feature",
-      "id": 1993212,
+      "id": 1993221,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -113,7 +113,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 1993212,
+        "OBJECTID": 1993221,
         "ID_oc": 23454213,
         "Numero": 20240324876,
         "Ano": null,
@@ -196,7 +196,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1710652239000,
+        "DataDosDados": 1710652839000,
         "Simbol": "24 - Em Conclusão",
         "Status": 0,
         "Obs": null,
@@ -205,7 +205,108 @@
     },
     {
       "type": "Feature",
-      "id": 1993213,
+      "id": 1993222,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.394789000117193,
+          38.804838000073204
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1993222,
+        "ID_oc": 23454336,
+        "Numero": 20240324999,
+        "Ano": null,
+        "DataInicioOcorrencia": "2024-03-17T05:05:00",
+        "DataOcorrencia": 1710651900000,
+        "Data": 1710651900000,
+        "Hora": null,
+        "Duracao": null,
+        "DuracaoMinutos": null,
+        "FaseIncendio": null,
+        "GrupoOc": null,
+        "GrupoOc_ID": null,
+        "CodNatureza": 3203,
+        "IDFamilia": null,
+        "Familia": null,
+        "IDEspecie": null,
+        "Especie": null,
+        "IDTipo": null,
+        "Tipo": null,
+        "Natureza": "Detritos confinados",
+        "CodImportancia": null,
+        "Importancia": null,
+        "CodEstadoOcorrencia": null,
+        "EstadoOcorrencia": "Em Curso",
+        "EstadoAgrupado": "Em Curso",
+        "CREPC_ID": null,
+        "CSREPC": "Grande Lisboa",
+        "CSREPC_ID": null,
+        "CREPC": "Lisboa e Vale do Tejo",
+        "DI": null,
+        "Distrito": null,
+        "NUT_III": null,
+        "CIM": null,
+        "DICO": null,
+        "Concelho": "Sintra",
+        "DICOFRE": null,
+        "Freguesia": "S.maria, S.miguel, S.martinho, S.pedro Penaferrim",
+        "Localidade": "Monte Santos",
+        "Endereco": null,
+        "EntidadeResponsavel": null,
+        "EntidadeGestora": null,
+        "PCO": null,
+        "COS": null,
+        "UltimoPOSIT": null,
+        "QuantEntidades": null,
+        "RHBombeiros": null,
+        "RHFEPC": null,
+        "RHUEPS": null,
+        "RHGNR": null,
+        "RHPSP": null,
+        "RHESF": null,
+        "RHFA": null,
+        "RHINEM": null,
+        "RHOutros": null,
+        "NumeroOperacionaisTerrestresEnv": null,
+        "Operacionais": 5,
+        "NumeroOperacionaisAereosEnvolvi": null,
+        "RTBombeiros": null,
+        "RTFEPC": null,
+        "RTUEPS": null,
+        "RTGNR": null,
+        "RTPSP": null,
+        "RTESF": null,
+        "RTFA": null,
+        "RTINEM": null,
+        "RTOutros": null,
+        "NumeroMeiosTerrestresEnvolvidos": 1,
+        "GruposReforco": null,
+        "HELigeiro": null,
+        "HEPesado": null,
+        "HECoordenacao": null,
+        "HEOutro": null,
+        "AVMedio": null,
+        "AVPesado": null,
+        "AVReconhecimento": null,
+        "AVOutro": null,
+        "NumeroMeiosAereosEnvolvidos": 0,
+        "Latitude": 38.804838,
+        "Longitude": -9.394789,
+        "DDD": null,
+        "DMM": null,
+        "DMS": null,
+        "DataDosDados": 1710652839000,
+        "Simbol": "32 - Em Curso",
+        "Status": 0,
+        "Obs": null,
+        "NumeroMeiosAquaticos": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1993223,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -214,7 +315,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 1993213,
+        "OBJECTID": 1993223,
         "ID_oc": 23435487,
         "Numero": 20240306150,
         "Ano": null,
@@ -297,7 +398,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1710652239000,
+        "DataDosDados": 1710652839000,
         "Simbol": "33 - Em Curso",
         "Status": 0,
         "Obs": null,
@@ -306,7 +407,7 @@
     },
     {
       "type": "Feature",
-      "id": 1993214,
+      "id": 1993224,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -315,7 +416,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 1993214,
+        "OBJECTID": 1993224,
         "ID_oc": 23454230,
         "Numero": 20240324893,
         "Ano": null,
@@ -398,7 +499,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1710652239000,
+        "DataDosDados": 1710652839000,
         "Simbol": "33 - Em Despacho",
         "Status": 0,
         "Obs": null,
@@ -407,7 +508,7 @@
     },
     {
       "type": "Feature",
-      "id": 1993215,
+      "id": 1993225,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -416,7 +517,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 1993215,
+        "OBJECTID": 1993225,
         "ID_oc": 23454310,
         "Numero": 20240324973,
         "Ano": null,
@@ -440,8 +541,8 @@
         "CodImportancia": null,
         "Importancia": null,
         "CodEstadoOcorrencia": null,
-        "EstadoOcorrencia": "Em Curso",
-        "EstadoAgrupado": "Em Curso",
+        "EstadoOcorrencia": "Conclusão",
+        "EstadoAgrupado": "Em Conclusão",
         "CREPC_ID": null,
         "CSREPC": "Alto Tâmega e Barroso",
         "CSREPC_ID": null,
@@ -499,8 +600,8 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1710652239000,
-        "Simbol": "25 - Em Curso",
+        "DataDosDados": 1710652839000,
+        "Simbol": "25 - Em Conclusão",
         "Status": 0,
         "Obs": null,
         "NumeroMeiosAquaticos": 0
@@ -508,7 +609,7 @@
     },
     {
       "type": "Feature",
-      "id": 1993216,
+      "id": 1993226,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -517,7 +618,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 1993216,
+        "OBJECTID": 1993226,
         "ID_oc": 23454117,
         "Numero": 20240324780,
         "Ano": null,
@@ -600,7 +701,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1710652239000,
+        "DataDosDados": 1710652839000,
         "Simbol": "33 - Em Despacho",
         "Status": 0,
         "Obs": null,
@@ -609,7 +710,7 @@
     },
     {
       "type": "Feature",
-      "id": 1993217,
+      "id": 1993227,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -618,7 +719,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 1993217,
+        "OBJECTID": 1993227,
         "ID_oc": 23454233,
         "Numero": 20240324896,
         "Ano": null,
@@ -701,7 +802,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1710652239000,
+        "DataDosDados": 1710652839000,
         "Simbol": "24 - Em Resolução",
         "Status": 0,
         "Obs": null,
@@ -710,7 +811,7 @@
     },
     {
       "type": "Feature",
-      "id": 1993218,
+      "id": 1993228,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -719,7 +820,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 1993218,
+        "OBJECTID": 1993228,
         "ID_oc": 23454265,
         "Numero": 20240324928,
         "Ano": null,
@@ -802,7 +903,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1710652239000,
+        "DataDosDados": 1710652839000,
         "Simbol": "24 - Em Resolução",
         "Status": 0,
         "Obs": null,
@@ -811,7 +912,7 @@
     },
     {
       "type": "Feature",
-      "id": 1993219,
+      "id": 1993229,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -820,7 +921,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 1993219,
+        "OBJECTID": 1993229,
         "ID_oc": 23454299,
         "Numero": 20240324962,
         "Ano": null,
@@ -903,7 +1004,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1710652239000,
+        "DataDosDados": 1710652839000,
         "Simbol": "24 - Em Conclusão",
         "Status": 0,
         "Obs": null,
