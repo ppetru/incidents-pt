@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Check out this repo
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
     - name: Fetch latest data
       run: |-
         OPENSSL_CONF=.github/workflows/openssl.cnf curl 'https://prociv-agserver.geomai.mai.gov.pt/arcgis/rest/services/Ocorrencias_Base/FeatureServer/0/query?f=geojson&where=0=0&outFields=*' | jq . > incidents.json
