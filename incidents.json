@@ -3,7 +3,108 @@
   "features": [
     {
       "type": "Feature",
-      "id": 2191506,
+      "id": 2191511,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.095479999774987,
+          38.774802000001834
+        ]
+      },
+      "properties": {
+        "OBJECTID": 2191511,
+        "ID_oc": 23633812,
+        "Numero": 20240504454,
+        "Ano": null,
+        "DataInicioOcorrencia": "2024-04-27T07:38:00",
+        "DataOcorrencia": 1714199880000,
+        "Data": 1714199880000,
+        "Hora": null,
+        "Duracao": null,
+        "DuracaoMinutos": null,
+        "FaseIncendio": null,
+        "GrupoOc": null,
+        "GrupoOc_ID": null,
+        "CodNatureza": 2407,
+        "IDFamilia": null,
+        "Familia": null,
+        "IDEspecie": null,
+        "Especie": null,
+        "IDTipo": null,
+        "Tipo": null,
+        "Natureza": "Despiste",
+        "CodImportancia": null,
+        "Importancia": null,
+        "CodEstadoOcorrencia": null,
+        "EstadoOcorrencia": "Despacho de 1.º Alerta",
+        "EstadoAgrupado": "Em Despacho",
+        "CREPC_ID": null,
+        "CSREPC": "Grande Lisboa",
+        "CSREPC_ID": null,
+        "CREPC": "Lisboa e Vale do Tejo",
+        "DI": null,
+        "Distrito": null,
+        "NUT_III": null,
+        "CIM": null,
+        "DICO": null,
+        "Concelho": "Lisboa",
+        "DICOFRE": null,
+        "Freguesia": "Parque Das Nações",
+        "Localidade": "Parque das Nações",
+        "Endereco": null,
+        "EntidadeResponsavel": null,
+        "EntidadeGestora": null,
+        "PCO": null,
+        "COS": null,
+        "UltimoPOSIT": null,
+        "QuantEntidades": null,
+        "RHBombeiros": null,
+        "RHFEPC": null,
+        "RHUEPS": null,
+        "RHGNR": null,
+        "RHPSP": null,
+        "RHESF": null,
+        "RHFA": null,
+        "RHINEM": null,
+        "RHOutros": null,
+        "NumeroOperacionaisTerrestresEnv": null,
+        "Operacionais": 2,
+        "NumeroOperacionaisAereosEnvolvi": null,
+        "RTBombeiros": null,
+        "RTFEPC": null,
+        "RTUEPS": null,
+        "RTGNR": null,
+        "RTPSP": null,
+        "RTESF": null,
+        "RTFA": null,
+        "RTINEM": null,
+        "RTOutros": null,
+        "NumeroMeiosTerrestresEnvolvidos": 1,
+        "GruposReforco": null,
+        "HELigeiro": null,
+        "HEPesado": null,
+        "HECoordenacao": null,
+        "HEOutro": null,
+        "AVMedio": null,
+        "AVPesado": null,
+        "AVReconhecimento": null,
+        "AVOutro": null,
+        "NumeroMeiosAereosEnvolvidos": 0,
+        "Latitude": 38.774802,
+        "Longitude": -9.09548,
+        "DDD": null,
+        "DMM": null,
+        "DMS": null,
+        "DataDosDados": 1714200639000,
+        "Simbol": "24 - Em Despacho",
+        "Status": 0,
+        "Obs": null,
+        "NumeroMeiosAquaticos": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2191512,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -12,7 +113,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 2191506,
+        "OBJECTID": 2191512,
         "ID_oc": 23633665,
         "Numero": 20240504307,
         "Ano": null,
@@ -95,7 +196,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1714200340000,
+        "DataDosDados": 1714200639000,
         "Simbol": "24 - Em Conclusão",
         "Status": 0,
         "Obs": null,
@@ -104,7 +205,7 @@
     },
     {
       "type": "Feature",
-      "id": 2191507,
+      "id": 2191513,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -113,7 +214,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 2191507,
+        "OBJECTID": 2191513,
         "ID_oc": 23472298,
         "Numero": 20240342961,
         "Ano": null,
@@ -196,7 +297,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1714200340000,
+        "DataDosDados": 1714200639000,
         "Simbol": "33 - Em Conclusão",
         "Status": 0,
         "Obs": null,
@@ -205,7 +306,7 @@
     },
     {
       "type": "Feature",
-      "id": 2191508,
+      "id": 2191514,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -214,7 +315,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 2191508,
+        "OBJECTID": 2191514,
         "ID_oc": 23633455,
         "Numero": 20240504097,
         "Ano": null,
@@ -297,7 +398,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1714200340000,
+        "DataDosDados": 1714200639000,
         "Simbol": "43 - Em Conclusão",
         "Status": 0,
         "Obs": null,
@@ -306,7 +407,7 @@
     },
     {
       "type": "Feature",
-      "id": 2191509,
+      "id": 2191515,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -315,7 +416,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 2191509,
+        "OBJECTID": 2191515,
         "ID_oc": 23633590,
         "Numero": 20240504232,
         "Ano": null,
@@ -398,7 +499,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1714200340000,
+        "DataDosDados": 1714200639000,
         "Simbol": "21 - Em Resolução",
         "Status": 0,
         "Obs": null,
@@ -407,7 +508,7 @@
     },
     {
       "type": "Feature",
-      "id": 2191510,
+      "id": 2191516,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -416,7 +517,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 2191510,
+        "OBJECTID": 2191516,
         "ID_oc": 23633773,
         "Numero": 20240504415,
         "Ano": null,
@@ -472,7 +573,7 @@
         "RHINEM": null,
         "RHOutros": null,
         "NumeroOperacionaisTerrestresEnv": null,
-        "Operacionais": 7,
+        "Operacionais": 8,
         "NumeroOperacionaisAereosEnvolvi": null,
         "RTBombeiros": null,
         "RTFEPC": null,
@@ -483,7 +584,7 @@
         "RTFA": null,
         "RTINEM": null,
         "RTOutros": null,
-        "NumeroMeiosTerrestresEnvolvidos": 2,
+        "NumeroMeiosTerrestresEnvolvidos": 3,
         "GruposReforco": null,
         "HELigeiro": null,
         "HEPesado": null,
@@ -499,7 +600,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1714200340000,
+        "DataDosDados": 1714200639000,
         "Simbol": "21 - Em Despacho",
         "Status": 0,
         "Obs": null,
