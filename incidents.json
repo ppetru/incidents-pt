@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": 2313109,
+      "id": 2313114,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -12,7 +12,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 2313109,
+        "OBJECTID": 2313114,
         "ID_oc": 23742277,
         "Numero": 20240612918,
         "Ano": null,
@@ -36,7 +36,7 @@
         "CodImportancia": null,
         "Importancia": null,
         "CodEstadoOcorrencia": null,
-        "EstadoOcorrencia": "Despacho de 1.º Alerta",
+        "EstadoOcorrencia": "Chegada ao TO",
         "EstadoAgrupado": "Em Despacho",
         "CREPC_ID": null,
         "CSREPC": "Beiras e Serra da Estrela",
@@ -95,7 +95,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1716357039000,
+        "DataDosDados": 1716357339000,
         "Simbol": "24 - Em Despacho",
         "Status": 0,
         "Obs": null,
@@ -104,7 +104,7 @@
     },
     {
       "type": "Feature",
-      "id": 2313110,
+      "id": 2313115,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -113,7 +113,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 2313110,
+        "OBJECTID": 2313115,
         "ID_oc": 23742249,
         "Numero": 20240612890,
         "Ano": null,
@@ -196,7 +196,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1716357039000,
+        "DataDosDados": 1716357339000,
         "Simbol": "22 - Em Conclusão",
         "Status": 0,
         "Obs": null,
@@ -205,7 +205,108 @@
     },
     {
       "type": "Feature",
-      "id": 2313111,
+      "id": 2313116,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.498294999667165,
+          41.191956000194885
+        ]
+      },
+      "properties": {
+        "OBJECTID": 2313116,
+        "ID_oc": 23742299,
+        "Numero": 20240612940,
+        "Ano": null,
+        "DataInicioOcorrencia": "2024-05-22T06:43:00",
+        "DataOcorrencia": 1716356580000,
+        "Data": 1716356580000,
+        "Hora": null,
+        "Duracao": null,
+        "DuracaoMinutos": null,
+        "FaseIncendio": null,
+        "GrupoOc": null,
+        "GrupoOc_ID": null,
+        "CodNatureza": 4331,
+        "IDFamilia": null,
+        "Familia": null,
+        "IDEspecie": null,
+        "Especie": null,
+        "IDTipo": null,
+        "Tipo": null,
+        "Natureza": "Busca e Resgate Terrestre, de Animais",
+        "CodImportancia": null,
+        "Importancia": null,
+        "CodEstadoOcorrencia": null,
+        "EstadoOcorrencia": "Despacho de 1.º Alerta",
+        "EstadoAgrupado": "Em Despacho",
+        "CREPC_ID": null,
+        "CSREPC": "Area M. Porto",
+        "CSREPC_ID": null,
+        "CREPC": "Norte",
+        "DI": null,
+        "Distrito": null,
+        "NUT_III": null,
+        "CIM": null,
+        "DICO": null,
+        "Concelho": "Valongo",
+        "DICOFRE": null,
+        "Freguesia": "Valongo",
+        "Localidade": null,
+        "Endereco": null,
+        "EntidadeResponsavel": null,
+        "EntidadeGestora": null,
+        "PCO": null,
+        "COS": null,
+        "UltimoPOSIT": null,
+        "QuantEntidades": null,
+        "RHBombeiros": null,
+        "RHFEPC": null,
+        "RHUEPS": null,
+        "RHGNR": null,
+        "RHPSP": null,
+        "RHESF": null,
+        "RHFA": null,
+        "RHINEM": null,
+        "RHOutros": null,
+        "NumeroOperacionaisTerrestresEnv": null,
+        "Operacionais": 2,
+        "NumeroOperacionaisAereosEnvolvi": null,
+        "RTBombeiros": null,
+        "RTFEPC": null,
+        "RTUEPS": null,
+        "RTGNR": null,
+        "RTPSP": null,
+        "RTESF": null,
+        "RTFA": null,
+        "RTINEM": null,
+        "RTOutros": null,
+        "NumeroMeiosTerrestresEnvolvidos": 1,
+        "GruposReforco": null,
+        "HELigeiro": null,
+        "HEPesado": null,
+        "HECoordenacao": null,
+        "HEOutro": null,
+        "AVMedio": null,
+        "AVPesado": null,
+        "AVReconhecimento": null,
+        "AVOutro": null,
+        "NumeroMeiosAereosEnvolvidos": 0,
+        "Latitude": 41.191956,
+        "Longitude": -8.498295,
+        "DDD": null,
+        "DMM": null,
+        "DMS": null,
+        "DataDosDados": 1716357339000,
+        "Simbol": "43 - Em Despacho",
+        "Status": 0,
+        "Obs": null,
+        "NumeroMeiosAquaticos": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2313117,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -214,7 +315,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 2313111,
+        "OBJECTID": 2313117,
         "ID_oc": 23472298,
         "Numero": 20240342961,
         "Ano": null,
@@ -297,7 +398,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1716357039000,
+        "DataDosDados": 1716357339000,
         "Simbol": "33 - Em Conclusão",
         "Status": 0,
         "Obs": null,
@@ -306,7 +407,7 @@
     },
     {
       "type": "Feature",
-      "id": 2313112,
+      "id": 2313118,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -315,7 +416,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 2313112,
+        "OBJECTID": 2313118,
         "ID_oc": 23738037,
         "Numero": 20240608678,
         "Ano": null,
@@ -398,7 +499,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1716357039000,
+        "DataDosDados": 1716357339000,
         "Simbol": "43 - Em Despacho",
         "Status": 0,
         "Obs": null,
@@ -407,7 +508,7 @@
     },
     {
       "type": "Feature",
-      "id": 2313113,
+      "id": 2313119,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -416,7 +517,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 2313113,
+        "OBJECTID": 2313119,
         "ID_oc": 23741379,
         "Numero": 20240612020,
         "Ano": null,
@@ -499,7 +600,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1716357039000,
+        "DataDosDados": 1716357339000,
         "Simbol": "43 - Em Despacho",
         "Status": 0,
         "Obs": null,
