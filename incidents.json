@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": 2445696,
+      "id": 2447085,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -12,7 +12,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 2445696,
+        "OBJECTID": 2447085,
         "ID_oc": 23850425,
         "Numero": 20240721064,
         "Ano": null,
@@ -25,19 +25,19 @@
         "FaseIncendio": null,
         "GrupoOc": null,
         "GrupoOc_ID": null,
-        "CodNatureza": 3103,
+        "CodNatureza": 3107,
         "IDFamilia": null,
         "Familia": null,
         "IDEspecie": null,
         "Especie": null,
         "IDTipo": null,
         "Tipo": null,
-        "Natureza": "Mato",
+        "Natureza": "Consolidação de Rescaldo",
         "CodImportancia": null,
         "Importancia": null,
         "CodEstadoOcorrencia": null,
-        "EstadoOcorrencia": "Despacho de 1.º Alerta",
-        "EstadoAgrupado": "Em Despacho",
+        "EstadoOcorrencia": "Conclusão",
+        "EstadoAgrupado": "Em Conclusão",
         "CREPC_ID": null,
         "CSREPC": "Península de Setúbal",
         "CSREPC_ID": null,
@@ -95,8 +95,8 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1718344547000,
-        "Simbol": "31 - Em Despacho",
+        "DataDosDados": 1718345447000,
+        "Simbol": "31 - Em Conclusão",
         "Status": 0,
         "Obs": null,
         "NumeroMeiosAquaticos": 0
@@ -104,7 +104,7 @@
     },
     {
       "type": "Feature",
-      "id": 2445697,
+      "id": 2447086,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -113,7 +113,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 2445697,
+        "OBJECTID": 2447086,
         "ID_oc": 23472298,
         "Numero": 20240342961,
         "Ano": null,
@@ -196,7 +196,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1718344547000,
+        "DataDosDados": 1718345447000,
         "Simbol": "33 - Em Conclusão",
         "Status": 0,
         "Obs": null,
@@ -205,7 +205,7 @@
     },
     {
       "type": "Feature",
-      "id": 2445698,
+      "id": 2447087,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -214,7 +214,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 2445698,
+        "OBJECTID": 2447087,
         "ID_oc": 23850317,
         "Numero": 20240720956,
         "Ano": null,
@@ -297,7 +297,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1718344547000,
+        "DataDosDados": 1718345447000,
         "Simbol": "24 - Em Despacho",
         "Status": 0,
         "Obs": null,
@@ -306,117 +306,16 @@
     },
     {
       "type": "Feature",
-      "id": 2445699,
+      "id": 2447088,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.544271999807464,
-          41.16311799978899
+          -7.943552000461309,
+          38.32269199989662
         ]
       },
       "properties": {
-        "OBJECTID": 2445699,
-        "ID_oc": 23850205,
-        "Numero": 20240720844,
-        "Ano": null,
-        "DataInicioOcorrencia": "2024-06-14T03:06:00",
-        "DataOcorrencia": 1718330760000,
-        "Data": 1718330760000,
-        "Hora": null,
-        "Duracao": null,
-        "DuracaoMinutos": null,
-        "FaseIncendio": null,
-        "GrupoOc": null,
-        "GrupoOc_ID": null,
-        "CodNatureza": 2403,
-        "IDFamilia": null,
-        "Familia": null,
-        "IDEspecie": null,
-        "Especie": null,
-        "IDTipo": null,
-        "Tipo": null,
-        "Natureza": "Colisão rodoviária",
-        "CodImportancia": null,
-        "Importancia": null,
-        "CodEstadoOcorrencia": null,
-        "EstadoOcorrencia": "Conclusão",
-        "EstadoAgrupado": "Em Conclusão",
-        "CREPC_ID": null,
-        "CSREPC": "Area M. Porto",
-        "CSREPC_ID": null,
-        "CREPC": "Norte",
-        "DI": null,
-        "Distrito": null,
-        "NUT_III": null,
-        "CIM": null,
-        "DICO": null,
-        "Concelho": "Gondomar",
-        "DICOFRE": null,
-        "Freguesia": "Fânzeres e São Pedro da Cova",
-        "Localidade": "FANZERES",
-        "Endereco": null,
-        "EntidadeResponsavel": null,
-        "EntidadeGestora": null,
-        "PCO": null,
-        "COS": null,
-        "UltimoPOSIT": null,
-        "QuantEntidades": null,
-        "RHBombeiros": null,
-        "RHFEPC": null,
-        "RHUEPS": null,
-        "RHGNR": null,
-        "RHPSP": null,
-        "RHESF": null,
-        "RHFA": null,
-        "RHINEM": null,
-        "RHOutros": null,
-        "NumeroOperacionaisTerrestresEnv": null,
-        "Operacionais": 2,
-        "NumeroOperacionaisAereosEnvolvi": null,
-        "RTBombeiros": null,
-        "RTFEPC": null,
-        "RTUEPS": null,
-        "RTGNR": null,
-        "RTPSP": null,
-        "RTESF": null,
-        "RTFA": null,
-        "RTINEM": null,
-        "RTOutros": null,
-        "NumeroMeiosTerrestresEnvolvidos": 1,
-        "GruposReforco": null,
-        "HELigeiro": null,
-        "HEPesado": null,
-        "HECoordenacao": null,
-        "HEOutro": null,
-        "AVMedio": null,
-        "AVPesado": null,
-        "AVReconhecimento": null,
-        "AVOutro": null,
-        "NumeroMeiosAereosEnvolvidos": 0,
-        "Latitude": 41.163118,
-        "Longitude": -8.544272,
-        "DDD": null,
-        "DMM": null,
-        "DMS": null,
-        "DataDosDados": 1718344547000,
-        "Simbol": "24 - Em Conclusão",
-        "Status": 0,
-        "Obs": null,
-        "NumeroMeiosAquaticos": 0
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 2445700,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.999945999648082,
-          38.3402099999865
-        ]
-      },
-      "properties": {
-        "OBJECTID": 2445700,
+        "OBJECTID": 2447088,
         "ID_oc": 23850412,
         "Numero": 20240721051,
         "Ano": null,
@@ -440,8 +339,8 @@
         "CodImportancia": null,
         "Importancia": null,
         "CodEstadoOcorrencia": null,
-        "EstadoOcorrencia": "Despacho de 1.º Alerta",
-        "EstadoAgrupado": "Em Despacho",
+        "EstadoOcorrencia": "Conclusão",
+        "EstadoAgrupado": "Em Conclusão",
         "CREPC_ID": null,
         "CSREPC": "Alentejo Central",
         "CSREPC_ID": null,
@@ -454,7 +353,7 @@
         "Concelho": "Viana do Alentejo",
         "DICOFRE": null,
         "Freguesia": "Viana do Alentejo",
-        "Localidade": "ER 384 ",
+        "Localidade": "ER 384 Km 5",
         "Endereco": null,
         "EntidadeResponsavel": null,
         "EntidadeGestora": null,
@@ -494,13 +393,13 @@
         "AVReconhecimento": null,
         "AVOutro": null,
         "NumeroMeiosAereosEnvolvidos": 0,
-        "Latitude": 38.34021,
-        "Longitude": -7.999946,
+        "Latitude": 38.322692,
+        "Longitude": -7.943552,
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1718344547000,
-        "Simbol": "24 - Em Despacho",
+        "DataDosDados": 1718345447000,
+        "Simbol": "24 - Em Conclusão",
         "Status": 0,
         "Obs": null,
         "NumeroMeiosAquaticos": 0
@@ -508,7 +407,7 @@
     },
     {
       "type": "Feature",
-      "id": 2445701,
+      "id": 2447089,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -517,12 +416,12 @@
         ]
       },
       "properties": {
-        "OBJECTID": 2445701,
+        "OBJECTID": 2447089,
         "ID_oc": 23847841,
         "Numero": 20240718480,
         "Ano": null,
         "DataInicioOcorrencia": "2024-06-13T14:23:00",
-        "DataOcorrencia": 1718284980000,
+        "DataOcorrencia": 1718288580000,
         "Data": 1718284980000,
         "Hora": null,
         "Duracao": null,
@@ -600,7 +499,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1718344547000,
+        "DataDosDados": 1718345447000,
         "Simbol": "31 - Em Conclusão",
         "Status": 0,
         "Obs": null,
@@ -609,7 +508,7 @@
     },
     {
       "type": "Feature",
-      "id": 2445702,
+      "id": 2447090,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -618,7 +517,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 2445702,
+        "OBJECTID": 2447090,
         "ID_oc": 23849629,
         "Numero": 20240720268,
         "Ano": null,
@@ -701,7 +600,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1718344547000,
+        "DataDosDados": 1718345447000,
         "Simbol": "43 - Em Despacho",
         "Status": 0,
         "Obs": null,
@@ -710,7 +609,7 @@
     },
     {
       "type": "Feature",
-      "id": 2445703,
+      "id": 2447091,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -719,7 +618,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 2445703,
+        "OBJECTID": 2447091,
         "ID_oc": 23850381,
         "Numero": 20240721020,
         "Ano": null,
@@ -743,8 +642,8 @@
         "CodImportancia": null,
         "Importancia": null,
         "CodEstadoOcorrencia": null,
-        "EstadoOcorrencia": "Em Curso",
-        "EstadoAgrupado": "Em Curso",
+        "EstadoOcorrencia": "Em Resolução",
+        "EstadoAgrupado": "Em Resolução",
         "CREPC_ID": null,
         "CSREPC": "Beiras e Serra da Estrela",
         "CSREPC_ID": null,
@@ -802,8 +701,8 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1718344547000,
-        "Simbol": "24 - Em Curso",
+        "DataDosDados": 1718345447000,
+        "Simbol": "24 - Em Resolução",
         "Status": 0,
         "Obs": null,
         "NumeroMeiosAquaticos": 0
@@ -811,7 +710,7 @@
     },
     {
       "type": "Feature",
-      "id": 2445704,
+      "id": 2447092,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -820,7 +719,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 2445704,
+        "OBJECTID": 2447092,
         "ID_oc": 23850388,
         "Numero": 20240721027,
         "Ano": null,
@@ -844,7 +743,7 @@
         "CodImportancia": null,
         "Importancia": null,
         "CodEstadoOcorrencia": null,
-        "EstadoOcorrencia": "Despacho de 1.º Alerta",
+        "EstadoOcorrencia": "Chegada ao TO",
         "EstadoAgrupado": "Em Despacho",
         "CREPC_ID": null,
         "CSREPC": "Alentejo Central",
@@ -876,7 +775,7 @@
         "RHINEM": null,
         "RHOutros": null,
         "NumeroOperacionaisTerrestresEnv": null,
-        "Operacionais": 7,
+        "Operacionais": 9,
         "NumeroOperacionaisAereosEnvolvi": null,
         "RTBombeiros": null,
         "RTFEPC": null,
@@ -887,7 +786,7 @@
         "RTFA": null,
         "RTINEM": null,
         "RTOutros": null,
-        "NumeroMeiosTerrestresEnvolvidos": 2,
+        "NumeroMeiosTerrestresEnvolvidos": 3,
         "GruposReforco": null,
         "HELigeiro": null,
         "HEPesado": null,
@@ -903,7 +802,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1718344547000,
+        "DataDosDados": 1718345447000,
         "Simbol": "24 - Em Despacho",
         "Status": 0,
         "Obs": null,
