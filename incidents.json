@@ -3,54 +3,54 @@
   "features": [
     {
       "type": "Feature",
-      "id": 2523641,
+      "id": 2536201,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.928250000082745,
-          37.02386000029342
+          -8.751206999731354,
+          41.3830000003908
         ]
       },
       "properties": {
-        "OBJECTID": 2523641,
-        "ID_oc": 23917579,
-        "Numero": 20240788204,
+        "OBJECTID": 2536201,
+        "ID_oc": 23917662,
+        "Numero": 20240788287,
         "Ano": null,
-        "DataInicioOcorrencia": "2024-06-29T03:56:00",
-        "DataOcorrencia": 1719633360000,
-        "Data": 1719629760000,
+        "DataInicioOcorrencia": "2024-06-29T05:00:00",
+        "DataOcorrencia": 1719633600000,
+        "Data": 1719633600000,
         "Hora": null,
         "Duracao": null,
         "DuracaoMinutos": null,
         "FaseIncendio": null,
         "GrupoOc": null,
         "GrupoOc_ID": null,
-        "CodNatureza": 2301,
+        "CodNatureza": 2401,
         "IDFamilia": null,
         "Familia": null,
         "IDEspecie": null,
         "Especie": null,
         "IDTipo": null,
         "Tipo": null,
-        "Natureza": "Rodoviário",
+        "Natureza": "Atropelamento rodoviário",
         "CodImportancia": null,
         "Importancia": null,
         "CodEstadoOcorrencia": null,
-        "EstadoOcorrencia": "Conclusão",
-        "EstadoAgrupado": "Em Conclusão",
+        "EstadoOcorrencia": "Despacho de 1.º Alerta",
+        "EstadoAgrupado": "Em Despacho",
         "CREPC_ID": null,
-        "CSREPC": "Algarve",
+        "CSREPC": "Area M. Porto",
         "CSREPC_ID": null,
-        "CREPC": "Algarve",
+        "CREPC": "Norte",
         "DI": null,
         "Distrito": null,
         "NUT_III": null,
         "CIM": null,
         "DICO": null,
-        "Concelho": "Faro",
+        "Concelho": "Póvoa de Varzim",
         "DICOFRE": null,
-        "Freguesia": "Faro (Sé e São Pedro)",
-        "Localidade": "Faro",
+        "Freguesia": "Póvoa de Varzim, Beiriz e Argivai",
+        "Localidade": "PÓVOA DE VARZIM",
         "Endereco": null,
         "EntidadeResponsavel": null,
         "EntidadeGestora": null,
@@ -68,7 +68,7 @@
         "RHINEM": null,
         "RHOutros": null,
         "NumeroOperacionaisTerrestresEnv": null,
-        "Operacionais": 0,
+        "Operacionais": 3,
         "NumeroOperacionaisAereosEnvolvi": null,
         "RTBombeiros": null,
         "RTFEPC": null,
@@ -79,7 +79,7 @@
         "RTFA": null,
         "RTINEM": null,
         "RTOutros": null,
-        "NumeroMeiosTerrestresEnvolvidos": 0,
+        "NumeroMeiosTerrestresEnvolvidos": 1,
         "GruposReforco": null,
         "HELigeiro": null,
         "HEPesado": null,
@@ -90,13 +90,13 @@
         "AVReconhecimento": null,
         "AVOutro": null,
         "NumeroMeiosAereosEnvolvidos": 0,
-        "Latitude": 37.02386,
-        "Longitude": -7.92825,
+        "Latitude": 41.383,
+        "Longitude": -8.751207,
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1719634240000,
-        "Simbol": "23 - Em Conclusão",
+        "DataDosDados": 1719635440000,
+        "Simbol": "24 - Em Despacho",
         "Status": 0,
         "Obs": null,
         "NumeroMeiosAquaticos": 0
@@ -104,7 +104,7 @@
     },
     {
       "type": "Feature",
-      "id": 2523642,
+      "id": 2536202,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -113,12 +113,12 @@
         ]
       },
       "properties": {
-        "OBJECTID": 2523642,
+        "OBJECTID": 2536202,
         "ID_oc": 23917422,
         "Numero": 20240788047,
         "Ano": null,
         "DataInicioOcorrencia": "2024-06-29T01:41:00",
-        "DataOcorrencia": 1719625260000,
+        "DataOcorrencia": 1719621660000,
         "Data": 1719621660000,
         "Hora": null,
         "Duracao": null,
@@ -196,7 +196,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1719634240000,
+        "DataDosDados": 1719635440000,
         "Simbol": "24 - Em Conclusão",
         "Status": 0,
         "Obs": null,
@@ -205,7 +205,7 @@
     },
     {
       "type": "Feature",
-      "id": 2523643,
+      "id": 2536203,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -214,12 +214,12 @@
         ]
       },
       "properties": {
-        "OBJECTID": 2523643,
+        "OBJECTID": 2536203,
         "ID_oc": 23917649,
         "Numero": 20240788274,
         "Ano": null,
         "DataInicioOcorrencia": "2024-06-29T04:52:00",
-        "DataOcorrencia": 1719636720000,
+        "DataOcorrencia": 1719633120000,
         "Data": 1719633120000,
         "Hora": null,
         "Duracao": null,
@@ -238,8 +238,8 @@
         "CodImportancia": null,
         "Importancia": null,
         "CodEstadoOcorrencia": null,
-        "EstadoOcorrencia": "Despacho de 1.º Alerta",
-        "EstadoAgrupado": "Em Despacho",
+        "EstadoOcorrencia": "Conclusão",
+        "EstadoAgrupado": "Em Conclusão",
         "CREPC_ID": null,
         "CSREPC": "Península de Setúbal",
         "CSREPC_ID": null,
@@ -297,8 +297,8 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1719634240000,
-        "Simbol": "24 - Em Despacho",
+        "DataDosDados": 1719635440000,
+        "Simbol": "24 - Em Conclusão",
         "Status": 0,
         "Obs": null,
         "NumeroMeiosAquaticos": 0
@@ -306,7 +306,7 @@
     },
     {
       "type": "Feature",
-      "id": 2523644,
+      "id": 2536204,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -315,12 +315,12 @@
         ]
       },
       "properties": {
-        "OBJECTID": 2523644,
+        "OBJECTID": 2536204,
         "ID_oc": 23472298,
         "Numero": 20240342961,
         "Ano": null,
         "DataInicioOcorrencia": "2024-03-21T08:24:00",
-        "DataOcorrencia": 1711013040000,
+        "DataOcorrencia": 1711009440000,
         "Data": 1711009440000,
         "Hora": null,
         "Duracao": null,
@@ -398,7 +398,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1719634240000,
+        "DataDosDados": 1719635440000,
         "Simbol": "33 - Em Conclusão",
         "Status": 0,
         "Obs": null,
@@ -407,7 +407,7 @@
     },
     {
       "type": "Feature",
-      "id": 2523645,
+      "id": 2536205,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -416,12 +416,12 @@
         ]
       },
       "properties": {
-        "OBJECTID": 2523645,
+        "OBJECTID": 2536205,
         "ID_oc": 23915964,
         "Numero": 20240786589,
         "Ano": null,
         "DataInicioOcorrencia": "2024-06-28T17:42:00",
-        "DataOcorrencia": 1719596520000,
+        "DataOcorrencia": 1719592920000,
         "Data": 1719592920000,
         "Hora": null,
         "Duracao": null,
@@ -499,7 +499,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1719634240000,
+        "DataDosDados": 1719635440000,
         "Simbol": "33 - Em Despacho",
         "Status": 0,
         "Obs": null,
@@ -508,7 +508,7 @@
     },
     {
       "type": "Feature",
-      "id": 2523646,
+      "id": 2536206,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -517,12 +517,12 @@
         ]
       },
       "properties": {
-        "OBJECTID": 2523646,
+        "OBJECTID": 2536206,
         "ID_oc": 23917636,
         "Numero": 20240788261,
         "Ano": null,
         "DataInicioOcorrencia": "2024-06-29T04:40:00",
-        "DataOcorrencia": 1719636000000,
+        "DataOcorrencia": 1719632400000,
         "Data": 1719632400000,
         "Hora": null,
         "Duracao": null,
@@ -600,7 +600,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1719634240000,
+        "DataDosDados": 1719635440000,
         "Simbol": "24 - Em Despacho",
         "Status": 0,
         "Obs": null,
@@ -609,7 +609,7 @@
     },
     {
       "type": "Feature",
-      "id": 2523647,
+      "id": 2536207,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -618,12 +618,12 @@
         ]
       },
       "properties": {
-        "OBJECTID": 2523647,
+        "OBJECTID": 2536207,
         "ID_oc": 23917439,
         "Numero": 20240788064,
         "Ano": null,
         "DataInicioOcorrencia": "2024-06-29T01:52:00",
-        "DataOcorrencia": 1719625920000,
+        "DataOcorrencia": 1719622320000,
         "Data": 1719622320000,
         "Hora": null,
         "Duracao": null,
@@ -701,7 +701,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1719634240000,
+        "DataDosDados": 1719635440000,
         "Simbol": "24 - Em Despacho",
         "Status": 0,
         "Obs": null,
@@ -710,7 +710,7 @@
     },
     {
       "type": "Feature",
-      "id": 2523648,
+      "id": 2536208,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -719,12 +719,12 @@
         ]
       },
       "properties": {
-        "OBJECTID": 2523648,
+        "OBJECTID": 2536208,
         "ID_oc": 23917480,
         "Numero": 20240788105,
         "Ano": null,
         "DataInicioOcorrencia": "2024-06-29T02:15:00",
-        "DataOcorrencia": 1719627300000,
+        "DataOcorrencia": 1719623700000,
         "Data": 1719623700000,
         "Hora": null,
         "Duracao": null,
@@ -775,7 +775,7 @@
         "RHINEM": null,
         "RHOutros": null,
         "NumeroOperacionaisTerrestresEnv": null,
-        "Operacionais": 4,
+        "Operacionais": 2,
         "NumeroOperacionaisAereosEnvolvi": null,
         "RTBombeiros": null,
         "RTFEPC": null,
@@ -786,7 +786,7 @@
         "RTFA": null,
         "RTINEM": null,
         "RTOutros": null,
-        "NumeroMeiosTerrestresEnvolvidos": 2,
+        "NumeroMeiosTerrestresEnvolvidos": 1,
         "GruposReforco": null,
         "HELigeiro": null,
         "HEPesado": null,
@@ -802,7 +802,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1719634240000,
+        "DataDosDados": 1719635440000,
         "Simbol": "24 - Em Conclusão",
         "Status": 0,
         "Obs": null,
@@ -811,7 +811,7 @@
     },
     {
       "type": "Feature",
-      "id": 2523649,
+      "id": 2536209,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -820,12 +820,12 @@
         ]
       },
       "properties": {
-        "OBJECTID": 2523649,
+        "OBJECTID": 2536209,
         "ID_oc": 23917571,
         "Numero": 20240788196,
         "Ano": null,
         "DataInicioOcorrencia": "2024-06-29T03:42:00",
-        "DataOcorrencia": 1719632520000,
+        "DataOcorrencia": 1719628920000,
         "Data": 1719628920000,
         "Hora": null,
         "Duracao": null,
@@ -903,7 +903,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1719634240000,
+        "DataDosDados": 1719635440000,
         "Simbol": "24 - Em Resolução",
         "Status": 0,
         "Obs": null,
@@ -912,7 +912,7 @@
     },
     {
       "type": "Feature",
-      "id": 2523650,
+      "id": 2536210,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -921,12 +921,12 @@
         ]
       },
       "properties": {
-        "OBJECTID": 2523650,
+        "OBJECTID": 2536210,
         "ID_oc": 23917621,
         "Numero": 20240788246,
         "Ano": null,
         "DataInicioOcorrencia": "2024-06-29T04:37:00",
-        "DataOcorrencia": 1719635820000,
+        "DataOcorrencia": 1719632220000,
         "Data": 1719632220000,
         "Hora": null,
         "Duracao": null,
@@ -1004,7 +1004,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1719634240000,
+        "DataDosDados": 1719635440000,
         "Simbol": "22 - Em Resolução",
         "Status": 0,
         "Obs": null,
