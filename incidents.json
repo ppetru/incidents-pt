@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": 2984400,
+      "id": 2984406,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -12,7 +12,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 2984400,
+        "OBJECTID": 2984406,
         "ID_oc": 24242283,
         "Numero": 20241112872,
         "Ano": null,
@@ -95,7 +95,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1725765947000,
+        "DataDosDados": 1725766547000,
         "Simbol": "31 - Em Conclusão",
         "Status": 0,
         "Obs": null,
@@ -104,7 +104,7 @@
     },
     {
       "type": "Feature",
-      "id": 2984401,
+      "id": 2984407,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -113,7 +113,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 2984401,
+        "OBJECTID": 2984407,
         "ID_oc": 24242466,
         "Numero": 20241113055,
         "Ano": null,
@@ -196,7 +196,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1725765947000,
+        "DataDosDados": 1725766547000,
         "Simbol": "31 - Em Resolução",
         "Status": 0,
         "Obs": null,
@@ -205,16 +205,16 @@
     },
     {
       "type": "Feature",
-      "id": 2984402,
+      "id": 2984408,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.585559999662438,
-          41.769019999913056
+          -8.587851999688361,
+          41.77340399967788
         ]
       },
       "properties": {
-        "OBJECTID": 2984402,
+        "OBJECTID": 2984408,
         "ID_oc": 24242511,
         "Numero": 20241113100,
         "Ano": null,
@@ -238,7 +238,7 @@
         "CodImportancia": null,
         "Importancia": null,
         "CodEstadoOcorrencia": null,
-        "EstadoOcorrencia": "Despacho",
+        "EstadoOcorrencia": "Despacho de 1.º Alerta",
         "EstadoAgrupado": "Em Despacho",
         "CREPC_ID": null,
         "CSREPC": "Alto Minho",
@@ -251,7 +251,7 @@
         "DICO": null,
         "Concelho": "Ponte de Lima",
         "DICOFRE": null,
-        "Freguesia": "Arca e Ponte de Lima",
+        "Freguesia": "Arcozelo",
         "Localidade": "Ponte Arquinho",
         "Endereco": null,
         "EntidadeResponsavel": null,
@@ -270,7 +270,7 @@
         "RHINEM": null,
         "RHOutros": null,
         "NumeroOperacionaisTerrestresEnv": null,
-        "Operacionais": 0,
+        "Operacionais": 14,
         "NumeroOperacionaisAereosEnvolvi": null,
         "RTBombeiros": null,
         "RTFEPC": null,
@@ -281,7 +281,7 @@
         "RTFA": null,
         "RTINEM": null,
         "RTOutros": null,
-        "NumeroMeiosTerrestresEnvolvidos": 0,
+        "NumeroMeiosTerrestresEnvolvidos": 6,
         "GruposReforco": null,
         "HELigeiro": null,
         "HEPesado": null,
@@ -292,12 +292,12 @@
         "AVReconhecimento": null,
         "AVOutro": null,
         "NumeroMeiosAereosEnvolvidos": 0,
-        "Latitude": 41.76902,
-        "Longitude": -8.58556,
+        "Latitude": 41.773404,
+        "Longitude": -8.587852,
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1725765947000,
+        "DataDosDados": 1725766547000,
         "Simbol": "43 - Em Despacho",
         "Status": 0,
         "Obs": null,
@@ -306,7 +306,7 @@
     },
     {
       "type": "Feature",
-      "id": 2984403,
+      "id": 2984409,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -315,7 +315,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 2984403,
+        "OBJECTID": 2984409,
         "ID_oc": 24242479,
         "Numero": 20241113068,
         "Ano": null,
@@ -398,7 +398,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1725765947000,
+        "DataDosDados": 1725766547000,
         "Simbol": "24 - Em Conclusão",
         "Status": 0,
         "Obs": null,
@@ -407,7 +407,108 @@
     },
     {
       "type": "Feature",
-      "id": 2984404,
+      "id": 2984410,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.320817999952705,
+          38.8560559999051
+        ]
+      },
+      "properties": {
+        "OBJECTID": 2984410,
+        "ID_oc": 24242529,
+        "Numero": 20241113118,
+        "Ano": null,
+        "DataInicioOcorrencia": "2024-09-08T04:20:00",
+        "DataOcorrencia": 1725765600000,
+        "Data": 1725765600000,
+        "Hora": null,
+        "Duracao": null,
+        "DuracaoMinutos": null,
+        "FaseIncendio": null,
+        "GrupoOc": null,
+        "GrupoOc_ID": null,
+        "CodNatureza": 2407,
+        "IDFamilia": null,
+        "Familia": null,
+        "IDEspecie": null,
+        "Especie": null,
+        "IDTipo": null,
+        "Tipo": null,
+        "Natureza": "Despiste",
+        "CodImportancia": null,
+        "Importancia": null,
+        "CodEstadoOcorrencia": null,
+        "EstadoOcorrencia": "Conclusão",
+        "EstadoAgrupado": "Em Conclusão",
+        "CREPC_ID": null,
+        "CSREPC": "Grande Lisboa",
+        "CSREPC_ID": null,
+        "CREPC": "Lisboa e Vale do Tejo",
+        "DI": null,
+        "Distrito": null,
+        "NUT_III": null,
+        "CIM": null,
+        "DICO": null,
+        "Concelho": "Sintra",
+        "DICOFRE": null,
+        "Freguesia": "Almargem do Bispo, Pêro Pinheiro e Montelavar",
+        "Localidade": "Pero Pinheiro",
+        "Endereco": null,
+        "EntidadeResponsavel": null,
+        "EntidadeGestora": null,
+        "PCO": null,
+        "COS": null,
+        "UltimoPOSIT": null,
+        "QuantEntidades": null,
+        "RHBombeiros": null,
+        "RHFEPC": null,
+        "RHUEPS": null,
+        "RHGNR": null,
+        "RHPSP": null,
+        "RHESF": null,
+        "RHFA": null,
+        "RHINEM": null,
+        "RHOutros": null,
+        "NumeroOperacionaisTerrestresEnv": null,
+        "Operacionais": 10,
+        "NumeroOperacionaisAereosEnvolvi": null,
+        "RTBombeiros": null,
+        "RTFEPC": null,
+        "RTUEPS": null,
+        "RTGNR": null,
+        "RTPSP": null,
+        "RTESF": null,
+        "RTFA": null,
+        "RTINEM": null,
+        "RTOutros": null,
+        "NumeroMeiosTerrestresEnvolvidos": 3,
+        "GruposReforco": null,
+        "HELigeiro": null,
+        "HEPesado": null,
+        "HECoordenacao": null,
+        "HEOutro": null,
+        "AVMedio": null,
+        "AVPesado": null,
+        "AVReconhecimento": null,
+        "AVOutro": null,
+        "NumeroMeiosAereosEnvolvidos": 0,
+        "Latitude": 38.856056,
+        "Longitude": -9.320818,
+        "DDD": null,
+        "DMM": null,
+        "DMS": null,
+        "DataDosDados": 1725766547000,
+        "Simbol": "24 - Em Conclusão",
+        "Status": 0,
+        "Obs": null,
+        "NumeroMeiosAquaticos": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2984411,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -416,7 +517,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 2984404,
+        "OBJECTID": 2984411,
         "ID_oc": 24240974,
         "Numero": 20241111563,
         "Ano": null,
@@ -499,7 +600,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1725765947000,
+        "DataDosDados": 1725766547000,
         "Simbol": "24 - Em Conclusão",
         "Status": 0,
         "Obs": null,
@@ -508,7 +609,7 @@
     },
     {
       "type": "Feature",
-      "id": 2984405,
+      "id": 2984412,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -517,7 +618,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 2984405,
+        "OBJECTID": 2984412,
         "ID_oc": 24240985,
         "Numero": 20241111574,
         "Ano": null,
@@ -600,7 +701,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1725765947000,
+        "DataDosDados": 1725766547000,
         "Simbol": "31 - Em Conclusão",
         "Status": 0,
         "Obs": null,
