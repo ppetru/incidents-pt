@@ -3,41 +3,41 @@
   "features": [
     {
       "type": "Feature",
-      "id": 3221200,
+      "id": 3221213,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.576446999913058,
-          41.21182200024343
+          -8.52780000011999,
+          40.983269999852716
         ]
       },
       "properties": {
-        "OBJECTID": 3221200,
-        "ID_oc": 24360061,
-        "Numero": 20241228711,
+        "OBJECTID": 3221213,
+        "ID_oc": 24360140,
+        "Numero": 20241228790,
         "Ano": null,
-        "DataInicioOcorrencia": "2024-10-03T04:52:00",
-        "DataOcorrencia": 1727927520000,
-        "Data": 1727927520000,
+        "DataInicioOcorrencia": "2024-10-03T06:34:00",
+        "DataOcorrencia": 1727933640000,
+        "Data": 1727933640000,
         "Hora": null,
         "Duracao": null,
         "DuracaoMinutos": null,
         "FaseIncendio": null,
         "GrupoOc": null,
         "GrupoOc_ID": null,
-        "CodNatureza": 2201,
+        "CodNatureza": 2101,
         "IDFamilia": null,
         "Familia": null,
         "IDEspecie": null,
         "Especie": null,
         "IDTipo": null,
         "Tipo": null,
-        "Natureza": "Equipamentos",
+        "Natureza": "Habitacional",
         "CodImportancia": null,
         "Importancia": null,
         "CodEstadoOcorrencia": null,
-        "EstadoOcorrencia": "Conclusão",
-        "EstadoAgrupado": "Em Conclusão",
+        "EstadoOcorrencia": "Despacho de 1.º Alerta",
+        "EstadoAgrupado": "Em Despacho",
         "CREPC_ID": null,
         "CSREPC": "Area M. Porto",
         "CSREPC_ID": null,
@@ -47,10 +47,10 @@
         "NUT_III": null,
         "CIM": null,
         "DICO": null,
-        "Concelho": "Maia",
+        "Concelho": "Santa Maria da Feira",
         "DICOFRE": null,
-        "Freguesia": "Águas Santas",
-        "Localidade": "Águas Santas",
+        "Freguesia": "Fiães",
+        "Localidade": "Fiães",
         "Endereco": null,
         "EntidadeResponsavel": null,
         "EntidadeGestora": null,
@@ -68,7 +68,7 @@
         "RHINEM": null,
         "RHOutros": null,
         "NumeroOperacionaisTerrestresEnv": null,
-        "Operacionais": 2,
+        "Operacionais": 5,
         "NumeroOperacionaisAereosEnvolvi": null,
         "RTBombeiros": null,
         "RTFEPC": null,
@@ -90,13 +90,13 @@
         "AVReconhecimento": null,
         "AVOutro": null,
         "NumeroMeiosAereosEnvolvidos": 0,
-        "Latitude": 41.211822,
-        "Longitude": -8.576447,
+        "Latitude": 40.98327,
+        "Longitude": -8.5278,
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1727933748000,
-        "Simbol": "22 - Em Conclusão",
+        "DataDosDados": 1727934352000,
+        "Simbol": "21 - Em Despacho",
         "Status": 0,
         "Obs": null,
         "NumeroMeiosAquaticos": 0
@@ -104,7 +104,7 @@
     },
     {
       "type": "Feature",
-      "id": 3221201,
+      "id": 3221214,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -113,7 +113,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 3221201,
+        "OBJECTID": 3221214,
         "ID_oc": 24277470,
         "Numero": 20241146170,
         "Ano": null,
@@ -196,7 +196,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1727933748000,
+        "DataDosDados": 1727934352000,
         "Simbol": "31 - Em Conclusão",
         "Status": 0,
         "Obs": null,
@@ -205,7 +205,7 @@
     },
     {
       "type": "Feature",
-      "id": 3221202,
+      "id": 3245193,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -214,7 +214,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 3221202,
+        "OBJECTID": 3245193,
         "ID_oc": 24356239,
         "Numero": 20241224894,
         "Ano": null,
@@ -297,7 +297,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1727933748000,
+        "DataDosDados": 1727934352000,
         "Simbol": "43 - Em Curso",
         "Status": 0,
         "Obs": null,
@@ -306,7 +306,7 @@
     },
     {
       "type": "Feature",
-      "id": 3221203,
+      "id": 3245194,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -315,7 +315,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 3221203,
+        "OBJECTID": 3245194,
         "ID_oc": 24359779,
         "Numero": 20241228434,
         "Ano": null,
@@ -398,7 +398,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1727933748000,
+        "DataDosDados": 1727934352000,
         "Simbol": "33 - Em Curso",
         "Status": 0,
         "Obs": null,
@@ -407,7 +407,7 @@
     },
     {
       "type": "Feature",
-      "id": 3221204,
+      "id": 3245195,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -416,7 +416,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 3221204,
+        "OBJECTID": 3245195,
         "ID_oc": 24360076,
         "Numero": 20241228726,
         "Ano": null,
@@ -499,7 +499,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1727933748000,
+        "DataDosDados": 1727934352000,
         "Simbol": "24 - Em Conclusão",
         "Status": 0,
         "Obs": null,
@@ -508,16 +508,16 @@
     },
     {
       "type": "Feature",
-      "id": 3221205,
+      "id": 3245196,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -9.271667104497805,
-          38.78688117425334
+          -9.271667000441743,
+          38.78688099961722
         ]
       },
       "properties": {
-        "OBJECTID": 3221205,
+        "OBJECTID": 3245196,
         "ID_oc": 24360135,
         "Numero": 20241228785,
         "Ano": null,
@@ -595,12 +595,12 @@
         "AVReconhecimento": null,
         "AVOutro": null,
         "NumeroMeiosAereosEnvolvidos": 0,
-        "Latitude": 38.78688117,
-        "Longitude": -9.2716671,
+        "Latitude": 38.786881,
+        "Longitude": -9.271667,
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1727933748000,
+        "DataDosDados": 1727934352000,
         "Simbol": "33 - Em Despacho",
         "Status": 0,
         "Obs": null,
