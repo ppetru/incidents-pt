@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": 3259761,
+      "id": 3259773,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -12,7 +12,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 3259761,
+        "OBJECTID": 3259773,
         "ID_oc": 24360487,
         "Numero": 20241229137,
         "Ano": null,
@@ -95,7 +95,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1728193247000,
+        "DataDosDados": 1728193547000,
         "Simbol": "43 - Em Despacho",
         "Status": 0,
         "Obs": null,
@@ -104,7 +104,7 @@
     },
     {
       "type": "Feature",
-      "id": 3259762,
+      "id": 3259774,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -113,7 +113,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 3259762,
+        "OBJECTID": 3259774,
         "ID_oc": 24372242,
         "Numero": 20241240892,
         "Ano": null,
@@ -196,7 +196,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1728193247000,
+        "DataDosDados": 1728193547000,
         "Simbol": "24 - Em Conclusão",
         "Status": 0,
         "Obs": null,
@@ -205,7 +205,7 @@
     },
     {
       "type": "Feature",
-      "id": 3259763,
+      "id": 3259775,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -214,7 +214,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 3259763,
+        "OBJECTID": 3259775,
         "ID_oc": 24373382,
         "Numero": 20241242023,
         "Ano": null,
@@ -297,7 +297,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1728193247000,
+        "DataDosDados": 1728193547000,
         "Simbol": "24 - Em Despacho",
         "Status": 0,
         "Obs": null,
@@ -306,7 +306,7 @@
     },
     {
       "type": "Feature",
-      "id": 3259764,
+      "id": 3259776,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -315,7 +315,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 3259764,
+        "OBJECTID": 3259776,
         "ID_oc": 24373414,
         "Numero": 20241242055,
         "Ano": null,
@@ -339,7 +339,7 @@
         "CodImportancia": null,
         "Importancia": null,
         "CodEstadoOcorrencia": null,
-        "EstadoOcorrencia": "Despacho de 1.º Alerta",
+        "EstadoOcorrencia": "Chegada ao TO",
         "EstadoAgrupado": "Em Despacho",
         "CREPC_ID": null,
         "CSREPC": "Oeste",
@@ -398,7 +398,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1728193247000,
+        "DataDosDados": 1728193547000,
         "Simbol": "24 - Em Despacho",
         "Status": 0,
         "Obs": null,
@@ -407,7 +407,108 @@
     },
     {
       "type": "Feature",
-      "id": 3259765,
+      "id": 3259777,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.871110999922898,
+          39.08138999969741
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3259777,
+        "ID_oc": 24373446,
+        "Numero": 20241242087,
+        "Ano": null,
+        "DataInicioOcorrencia": "2024-10-06T06:36:00",
+        "DataOcorrencia": 1728192960000,
+        "Data": 1728192960000,
+        "Hora": null,
+        "Duracao": null,
+        "DuracaoMinutos": null,
+        "FaseIncendio": null,
+        "GrupoOc": null,
+        "GrupoOc_ID": null,
+        "CodNatureza": 2407,
+        "IDFamilia": null,
+        "Familia": null,
+        "IDEspecie": null,
+        "Especie": null,
+        "IDTipo": null,
+        "Tipo": null,
+        "Natureza": "Despiste",
+        "CodImportancia": null,
+        "Importancia": null,
+        "CodEstadoOcorrencia": null,
+        "EstadoOcorrencia": "Despacho",
+        "EstadoAgrupado": "Em Despacho",
+        "CREPC_ID": null,
+        "CSREPC": "Lezíria do Tejo",
+        "CSREPC_ID": null,
+        "CREPC": "Lisboa e Vale do Tejo",
+        "DI": null,
+        "Distrito": null,
+        "NUT_III": null,
+        "CIM": null,
+        "DICO": null,
+        "Concelho": "Azambuja",
+        "DICOFRE": null,
+        "Freguesia": "Azambuja",
+        "Localidade": "Azambuja",
+        "Endereco": null,
+        "EntidadeResponsavel": null,
+        "EntidadeGestora": null,
+        "PCO": null,
+        "COS": null,
+        "UltimoPOSIT": null,
+        "QuantEntidades": null,
+        "RHBombeiros": null,
+        "RHFEPC": null,
+        "RHUEPS": null,
+        "RHGNR": null,
+        "RHPSP": null,
+        "RHESF": null,
+        "RHFA": null,
+        "RHINEM": null,
+        "RHOutros": null,
+        "NumeroOperacionaisTerrestresEnv": null,
+        "Operacionais": 0,
+        "NumeroOperacionaisAereosEnvolvi": null,
+        "RTBombeiros": null,
+        "RTFEPC": null,
+        "RTUEPS": null,
+        "RTGNR": null,
+        "RTPSP": null,
+        "RTESF": null,
+        "RTFA": null,
+        "RTINEM": null,
+        "RTOutros": null,
+        "NumeroMeiosTerrestresEnvolvidos": 0,
+        "GruposReforco": null,
+        "HELigeiro": null,
+        "HEPesado": null,
+        "HECoordenacao": null,
+        "HEOutro": null,
+        "AVMedio": null,
+        "AVPesado": null,
+        "AVReconhecimento": null,
+        "AVOutro": null,
+        "NumeroMeiosAereosEnvolvidos": 0,
+        "Latitude": 39.08139,
+        "Longitude": -8.871111,
+        "DDD": null,
+        "DMM": null,
+        "DMS": null,
+        "DataDosDados": 1728193547000,
+        "Simbol": "24 - Em Despacho",
+        "Status": 0,
+        "Obs": null,
+        "NumeroMeiosAquaticos": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3259778,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -416,7 +517,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 3259765,
+        "OBJECTID": 3259778,
         "ID_oc": 24277470,
         "Numero": 20241146170,
         "Ano": null,
@@ -499,7 +600,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1728193247000,
+        "DataDosDados": 1728193547000,
         "Simbol": "31 - Em Conclusão",
         "Status": 0,
         "Obs": null,
@@ -508,7 +609,7 @@
     },
     {
       "type": "Feature",
-      "id": 3259766,
+      "id": 3259779,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -517,7 +618,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 3259766,
+        "OBJECTID": 3259779,
         "ID_oc": 24356239,
         "Numero": 20241224894,
         "Ano": null,
@@ -600,7 +701,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1728193247000,
+        "DataDosDados": 1728193547000,
         "Simbol": "43 - Em Curso",
         "Status": 0,
         "Obs": null,
@@ -609,7 +710,7 @@
     },
     {
       "type": "Feature",
-      "id": 3259767,
+      "id": 3259780,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -618,7 +719,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 3259767,
+        "OBJECTID": 3259780,
         "ID_oc": 24372582,
         "Numero": 20241241232,
         "Ano": null,
@@ -701,7 +802,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1728193247000,
+        "DataDosDados": 1728193547000,
         "Simbol": "31 - Em Conclusão",
         "Status": 0,
         "Obs": null,
@@ -710,7 +811,7 @@
     },
     {
       "type": "Feature",
-      "id": 3259768,
+      "id": 3259781,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -719,7 +820,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 3259768,
+        "OBJECTID": 3259781,
         "ID_oc": 24367679,
         "Numero": 20241236329,
         "Ano": null,
@@ -802,7 +903,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1728193247000,
+        "DataDosDados": 1728193547000,
         "Simbol": "43 - Em Conclusão",
         "Status": 0,
         "Obs": null,
@@ -811,7 +912,7 @@
     },
     {
       "type": "Feature",
-      "id": 3259769,
+      "id": 3259782,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -820,7 +921,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 3259769,
+        "OBJECTID": 3259782,
         "ID_oc": 24372072,
         "Numero": 20241240722,
         "Ano": null,
@@ -903,7 +1004,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1728193247000,
+        "DataDosDados": 1728193547000,
         "Simbol": "22 - Em Despacho",
         "Status": 0,
         "Obs": null,
@@ -912,7 +1013,7 @@
     },
     {
       "type": "Feature",
-      "id": 3259770,
+      "id": 3259783,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -921,7 +1022,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 3259770,
+        "OBJECTID": 3259783,
         "ID_oc": 24372775,
         "Numero": 20241241425,
         "Ano": null,
@@ -1004,7 +1105,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1728193247000,
+        "DataDosDados": 1728193547000,
         "Simbol": "21 - Em Conclusão",
         "Status": 0,
         "Obs": null,
@@ -1013,7 +1114,7 @@
     },
     {
       "type": "Feature",
-      "id": 3259771,
+      "id": 3259784,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1022,7 +1123,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 3259771,
+        "OBJECTID": 3259784,
         "ID_oc": 24373311,
         "Numero": 20241241952,
         "Ano": null,
@@ -1105,7 +1206,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1728193247000,
+        "DataDosDados": 1728193547000,
         "Simbol": "24 - Em Despacho",
         "Status": 0,
         "Obs": null,
@@ -1114,7 +1215,7 @@
     },
     {
       "type": "Feature",
-      "id": 3259772,
+      "id": 3259785,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1123,7 +1224,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 3259772,
+        "OBJECTID": 3259785,
         "ID_oc": 24373409,
         "Numero": 20241242050,
         "Ano": null,
@@ -1206,7 +1307,7 @@
         "DDD": null,
         "DMM": null,
         "DMS": null,
-        "DataDosDados": 1728193247000,
+        "DataDosDados": 1728193547000,
         "Simbol": "33 - Em Conclusão",
         "Status": 0,
         "Obs": null,
