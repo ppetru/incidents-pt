@@ -6,3 +6,7 @@ Thanks to:
   * All the firefighters of Portugal
   * https://simonwillison.net/2020/Oct/9/git-scraping/ for the idea
   * https://github.com/FogosPT for inspiration
+
+## Not currently active
+
+Starting in early December 2024, the ANEPC data feed no longer seems to work.
