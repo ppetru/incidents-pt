@@ -7,6 +7,7 @@ Thanks to:
   * https://simonwillison.net/2020/Oct/9/git-scraping/ for the idea
   * https://github.com/FogosPT for inspiration
 
-## Not currently active
+## Data gaps
 
-Starting in early December 2024, the ANEPC data feed no longer seems to work.
+The ANEPC data feed was not always publicly available. This archive is missing the following time windows:
+  * 2024-12-09 to 2025-08-05 
