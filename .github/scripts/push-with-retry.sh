@@ -30,11 +30,5 @@ git_push_with_rebase() {
     return $exit_code
 }
 
-# Check if there are any changes to commit
-if git diff --quiet && git diff --staged --quiet; then
-    echo "No changes to push"
-    exit 0
-fi
-
 # Retry push with exponential backoff (3 attempts: 10s, 30s, 60s)
 retry_with_backoff 3 git_push_with_rebase
