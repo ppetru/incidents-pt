@@ -9,12 +9,16 @@ on:
 jobs:
   scheduled:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      issues: write
     steps:
     - name: Check out this repo
       uses: actions/checkout@v4
+
     - name: Fetch latest data
-      run: |-
-        OPENSSL_CONF=.github/workflows/openssl.cnf curl 'https://prociv-agserver.geomai.mai.gov.pt/arcgis/rest/services/Ocorrencias_Base/FeatureServer/0/query?f=geojson&where=0=0&outFields=*' | jq . > incidents.json
+      run: .github/scripts/fetch-data.sh incidents.json
+
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
@@ -22,4 +26,14 @@ jobs:
         git add -A
         timestamp=$(date -u)
         git commit -m "Latest data: ${timestamp}" || exit 0
-        git push
+        .github/scripts/push-with-retry.sh
+
+    - name: Check for extended failures
+      if: failure()
+      run: |-
+        if .github/scripts/check-failures.sh; then
+          echo "Failure count is below threshold, no alert needed"
+        else
+          echo "Failure threshold reached, creating issue..."
+          .github/scripts/create-failure-issue.sh
+        fi
