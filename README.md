@@ -10,4 +10,5 @@ Thanks to:
 ## Data gaps
 
 The ANEPC data feed was not always publicly available. This archive is missing the following time windows:
-  * 2024-12-09 to 2025-08-05 
+  * 2024-12-09 to 2025-08-05
+  * 2026-01-23 to 2026-03-17 (old ArcGIS server decommissioned, migrated to ArcGIS Online)

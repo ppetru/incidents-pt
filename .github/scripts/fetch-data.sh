@@ -4,7 +4,7 @@ set -e
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 source "${SCRIPT_DIR}/retry-with-backoff.sh"
 
-URL='https://prociv-agserver.geomai.mai.gov.pt/arcgis/rest/services/Ocorrencias_Base/FeatureServer/0/query?f=geojson&where=0=0&outFields=*'
+URL='https://services-eu1.arcgis.com/VlrHb7fn5ewYhX6y/arcgis/rest/services/OcorrenciasSite/FeatureServer/0/query?f=geojson&where=1=1&outFields=*'
 OUTPUT_FILE="${1:-incidents.json}"
 TEMP_FILE="${OUTPUT_FILE}.tmp"
 
@@ -12,8 +12,7 @@ fetch_and_validate() {
     echo "Fetching data from ANEPC API..."
 
     # Fetch data with timeout and fail on HTTP errors
-    # Use custom OpenSSL config for legacy server compatibility
-    OPENSSL_CONF=.github/workflows/openssl.cnf curl \
+    curl \
         --fail \
         --silent \
         --show-error \
